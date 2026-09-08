@@ -1,0 +1,27 @@
+{
+  "note": "阶段1第三步试点:21篇跨主题样本,流水线自动选出的最高分候选文件,经人工/LLM逐篇判读后的抽取结果。hit=该文件确实是论文最终signature/model的基因(+系数)表或文献综述汇编表;miss=该文件是候选基因池/DEG筛选结果/GSEA基因集/患者层面评分矩阵等非最终模型内容,需要换一个候选文件才能拿到真实signature。miss的论文不代表完全拿不到数据,只是流水线自动选中的第一名候选文件不对,后续应该扩展到检查每篇的前2-3个候选而非只看第1名。",
+  "recheck_note": "对第一轮11篇miss,追加检查了(a)每篇第2-3名候选Excel文件,(b)正文XML自带的内嵌table-wrap(此前扫描器只看supplementary-material,漏了这一类),(c)docx格式补充材料转文本,(d)正文里'risk score = ...'公式句子的正则搜索。结果:2篇从miss变成hit(PMC11836339正文内嵌表就是完整系数表,PMC11458410正文内嵌表是最终9基因列表但无系数);2篇从miss降级为partial_hit(PMC12585956、PMC13140268能从患者层面评分矩阵的列名反推出基因列表,但拿不到系数数值);其余7篇(PMC11080313/PMC11462029/PMC11496652/PMC11954311/PMC12084375/PMC12567641/PMC13393646)仍是miss,大概率模型系数只以森林图等图片形式呈现,文本抽取拿不到,需要OCR或人工读图才能补,本轮试点不再深挖。汇总:hit(含正文内嵌表)11/21=52.4%,hit+partial_hit+ambiguous共15/21=71.4%(partial_hit能拿到基因列表但拿不到系数,取决于下游分析是否需要系数,单纯基因归因审计partial_hit已经够用)。",
+  "results": [
+    {"pmcid":"PMC10829884","theme":"N6-methyladenosine","verdict":"hit","note":"文献综述汇编表,含多个已发表模型(m6A/apoptosis/autophagy等)的PMID+基因+系数","sample_genes":[{"model":"Ji.m6a","gene":"ALKBH5","coef":0.5709795},{"model":"Ji.m6a","gene":"YTHDC2","coef":-0.4155154}]},
+    {"pmcid":"PMC11005085","theme":"glycolysis","verdict":"hit","note":"本文最终多因素Cox模型,7个lncRNA","sample_genes":[{"gene":"CRNDE","coef":0.530754428,"HR":2.286454783},{"gene":"AC022034.1","coef":0.515971986,"HR":3.060639446}]},
+    {"pmcid":"PMC11080313","theme":"lipid metabolism","verdict":"miss","note":"是227个候选基因的单因素Cox筛选结果,不是最终LASSO模型"},
+    {"pmcid":"PMC11302292","theme":"cuproptosis-related ferroptosis","verdict":"hit","note":"本文最终3基因hub gene模型","sample_genes":[{"gene":"DDR2","coef":0.16029},{"gene":"MT1A","coef":0.12655},{"gene":"SCD","coef":0.18362}]},
+    {"pmcid":"PMC11336146","theme":"cellular senescence","verdict":"ambiguous_hit","note":"89基因+权重(+1/-1),疑似复用已发表的senescence signature而非本文自建LASSO模型,需读正文确认;若是复用面板,基因归因审计仍然用得上"},
+    {"pmcid":"PMC11458410","theme":"mitochondrial","verdict":"partial_hit_on_recheck","note":"打分第1名候选文件(候选基因池)是miss,但复查正文XML内嵌表格(supplementary-material之外,article自己的table-wrap)后找到'Table 1: The information of 9 prognosis MRGs'——最终9基因模型,含基因全名/位置/功能描述,但未见系数数值","sample_genes":[{"gene":"DCTPP1"},{"gene":"FEZ1"},{"gene":"KMO"},{"gene":"NME3"},{"gene":"CCR7"},{"gene":"ISOC2"}]},
+    {"pmcid":"PMC11462029","theme":"glutamine metabolism","verdict":"miss","note":"是4521个DEG差异表达筛选结果,不是最终模型"},
+    {"pmcid":"PMC11496652","theme":"pyroptosis","verdict":"miss","note":"是52个候选pyroptosis基因池(输入),不是最终模型"},
+    {"pmcid":"PMC11586327","theme":"apoptosis","verdict":"hit","note":"本文最终多因素Cox模型,7基因","sample_genes":[{"gene":"ANXA1","coef":0.173952736},{"gene":"CASP6","coef":-0.284261957},{"gene":"CD2","coef":-0.438724535}]},
+    {"pmcid":"PMC11836339","theme":"oxidative stress","verdict":"hit_on_recheck","note":"打分第1名候选文件(补充Excel)是miss,复查正文XML内嵌表格后找到'Table 1: Risk coefficients corresponding to 8 genes'——完整最终模型+系数,补充材料打分完全没选中这个正文自带的表","sample_genes":[{"gene":"ACOX2","coef":0.144963167},{"gene":"ADM","coef":0.184254888},{"gene":"CCL2","coef":0.052775912},{"gene":"PLA2G7","coef":0.059558643}]},
+    {"pmcid":"PMC11954311","theme":"exosome","verdict":"miss","note":"是数据集信息表+156个候选exosome基因池,不是最终模型"},
+    {"pmcid":"PMC12047781","theme":"hypoxia","verdict":"hit","note":"本文最终多因素模型,13基因","sample_genes":[{"gene":"LYZ","coef":-0.0813101},{"gene":"SCN1B","coef":-0.052447479},{"gene":"MICAL1","coef":-0.421920334}]},
+    {"pmcid":"PMC12084375","theme":"angiogenesis","verdict":"miss","note":"是GSEA/MSigDB通路基因集(GOBP_xxx_ANGIOGENESIS),不是本文自建模型"},
+    {"pmcid":"PMC12311075","theme":"cholesterol metabolism","verdict":"hit","note":"文献综述汇编表,30个已发表模型(前列腺癌为主)的PMID+基因+系数,含Signature1-6等多个独立模型","sample_genes":[{"model":"Signature1","gene":"ATP7B","coef":-0.1626,"source_pmid":37011878},{"model":"Signature2","gene":"FUS","coef":0.2962,"source_pmid":36982591}]},
+    {"pmcid":"PMC12567641","theme":"cuproptosis","verdict":"miss","note":"是19+464个候选基因池(cuproptosis+ferroptosis候选基因),不是最终模型"},
+    {"pmcid":"PMC12585956","theme":"ferroptosis","verdict":"partial_hit_on_recheck","note":"打分第1/2/3名候选文件都不是干净的系数表,但第2名(Table2.xlsx,患者层面risk score矩阵)的列名本身就是最终模型基因(排除futime/fustat/riskScore/risk等非基因列后剩NOTCH2/KRT18/H1-2),可以从列名反推出3基因模型,但拿不到系数数值","sample_genes":[{"gene":"NOTCH2"},{"gene":"KRT18"},{"gene":"H1-2"}]},
+    {"pmcid":"PMC12702948","theme":"disulfidptosis","verdict":"hit","note":"本文最终多因素Cox模型,9基因","sample_genes":[{"gene":"TPST2","coef":0.450040634,"HR":1.568375914},{"gene":"HIF1A","coef":0.151448979,"HR":1.163518937}]},
+    {"pmcid":"PMC13138313","theme":"epithelial-mesenchymal transition","verdict":"hit","note":"docx格式,文献综述汇编表,对比多个已发表EMT-related signature(NSCLC),含基因列表+建模方法+文献引用,无系数(综述性质,原文未给出系数数值)"},
+    {"pmcid":"PMC13140268","theme":"autophagy","verdict":"partial_hit_on_recheck","note":"打分第1名候选文件是患者层面ssGSEA评分矩阵,但列名本身就是最终模型的11个基因,可以反推出基因列表,拿不到系数数值(该模型可能本来就是ssGSEA评分而非LASSO系数形式)","sample_genes":[{"gene":"CANX"},{"gene":"DAPK1"},{"gene":"EIF2AK3"},{"gene":"MAP1LC3C"},{"gene":"NRG1"},{"gene":"PELP1"},{"gene":"ULK1"},{"gene":"ULK3"},{"gene":"WDR45"},{"gene":"WIPI1"},{"gene":"WIPI2"}]},
+    {"pmcid":"PMC13393646","theme":"immune","verdict":"miss","note":"是1215个候选基因池(着丝粒相关基因,与immune主题关联不明显,可能是另一分析模块用到的基因集),不是最终模型"},
+    {"pmcid":"PMC13437700","theme":"inflammation","verdict":"hit","note":"本文最终LASSO模型,21个CIRGs(cuproptosis-immune-related genes)","sample_genes":[{"gene":"ALG3","coef":0.257107168},{"gene":"ABCA1","coef":0.12225231},{"gene":"GFUS","coef":0.113193916}]}
+  ]
+}

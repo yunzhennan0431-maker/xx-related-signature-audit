@@ -1,0 +1,8 @@
+model,gene,top_celltype,zscore
+PMC11760997_senescence_STAD,HHIP-AS1,Fibroblasts,2.62
+PMC11760997_senescence_STAD,LINC01589,Mast,2.52
+PMC11760997_senescence_STAD,LINC01615,Fibroblasts,2.49
+PMC11760997_senescence_STAD,STARD4-AS1,Fibroblasts,2.44
+PMC12399450_mitochondrial_STAD,ATP8A2,Endothelial,2.55
+PMC12399450_mitochondrial_STAD,TARS2,Epithelial,2.09
+PMC12399450_mitochondrial_STAD,COX15,Fibroblasts,1.8

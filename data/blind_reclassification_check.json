@@ -1,0 +1,57 @@
+{
+  "purpose": "抽取判断一致性抽样检验(已扩大到两轮):第一轮从batch6-8合计105个已判定候选中随机抽样20个,第二轮为覆盖batch9又从batch9的35个候选中随机抽样15个,均交给独立会话(不掌握原始判定结果、无本课题任何先验信息)重新判断,与原始记录比对。",
+  "round1": {
+    "sample_size": 20, "pool_size": 105, "random_seed": 20260905,
+    "agreement_excl_uncertain": "19/19 (100%)",
+    "note": "1个案例(PMC8225435)独立判断方给出UNCERTAIN而非明确判断,原始记录为MISS,不构成实质分歧;该案例的补充材料docx文件在下载包中缺失,只能依据标题判断",
+    "results": [
+      {"pmcid": "PMC11168106", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC11606104", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC8403747", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC8034085", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC11294474", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC9853159", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC9035888", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC8225435", "original": "MISS", "blind_rejudge": "UNCERTAIN", "match": "uncertain, no contradiction"},
+      {"pmcid": "PMC9614251", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC10669360", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC13417714", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC9485671", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC9755770", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC9342864", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC9097333", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC9072639", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC9669765", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC9550247", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC8464158", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC9676246", "original": "MISS", "blind_rejudge": "MISS", "match": true}
+    ]
+  },
+  "round2": {
+    "sample_size": 15, "pool_size": 35, "random_seed": 20260907,
+    "agreement": "14/15 (93.3%)",
+    "note": "1处真实分歧(PMC10140328):原始记录为MISS,独立复核判为HIT。核实后确认是原始复核的真实遗漏——原始审阅只读到Sheet1(983行候选池)未翻到Sheet2(9行,7基因最终Cox系数表),独立复核会话读了完整文件发现这一遗漏。已改判为HIT并补入meta分析(见`verified_extractions_batch9.json`更正记录、`15_cross_theme_meta_analysis.py`)。",
+    "results": [
+      {"pmcid": "PMC9843944", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC10724919", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC10140328", "original": "MISS", "blind_rejudge": "HIT", "match": false, "resolution": "独立复核正确,原始判断有误,已改判为HIT"},
+      {"pmcid": "PMC10791883", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC11891243", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC12730545", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC10662873", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC10932653", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC12436408", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC10287976", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC9618960", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC11634757", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC9201070", "original": "MISS", "blind_rejudge": "MISS", "match": true},
+      {"pmcid": "PMC12891303", "original": "HIT", "blind_rejudge": "HIT", "match": true},
+      {"pmcid": "PMC11310873", "original": "HIT", "blind_rejudge": "HIT", "match": true}
+    ]
+  },
+  "combined": {
+    "total_sample": 35, "total_pool_covered": "35/140 batch6-9 candidates (25%)",
+    "agreement_excl_uncertain": "33/34 (97.1%)",
+    "note": "唯一的1处真实分歧被证明是原始判断的错误(假阴性/遗漏),独立复核纠正后已改判。这一结果的价值不只是'确认一致性高',还实际发挥了质量控制作用,证伪了'检验本身只是走过场'的担忧——扩大样本量确实提高了发现真实错误的概率。"
+  }
+}

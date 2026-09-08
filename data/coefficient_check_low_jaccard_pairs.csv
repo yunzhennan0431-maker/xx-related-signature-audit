@@ -1,0 +1,8 @@
+pair,model1,model2,shared_gene,value1,value2,metric,verdict
+1,PMC10294479_autophagy_HCC,PMC13490468_ATIC_HCC,ATIC,0.869939,0.029972,coefficient vs coefficient,different
+1,PMC10294479_autophagy_HCC,PMC13490468_ATIC_HCC,PRKCD,0.708889,0.038320,coefficient vs coefficient,different
+1,PMC10294479_autophagy_HCC,PMC13490468_ATIC_HCC,RHEB,0.743003,0.042698,coefficient vs coefficient,different
+2,PMC10339815_DDR_lncRNA_STAD,PMC8994655_autophagy_lncRNA_STAD,LINC00106,-0.123766,-0.2345,coefficient vs coefficient,different
+3,PMC8605142_glycolysis_HCC,PMC9524961_hypoxia_HCC,SAP30,0.265,0.0960,coefficient vs coefficient,different
+4,PMC8377503_glycolysis_colon,PMC8812245_glycolysis_READ,P4HA1,0.793,0.359,ln(HR) vs coefficient,different
+4,PMC8377503_glycolysis_colon,PMC8812245_glycolysis_READ,STC2,0.271,0.257,ln(HR) vs coefficient,close_but_weak_evidence

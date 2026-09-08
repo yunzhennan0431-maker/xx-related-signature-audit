@@ -1,0 +1,110 @@
+| # | PMCID | 标题 | 癌种 | 主题标识 | 基因数 |
+|---|---|---|---|---|---|
+| 1 | PMC10046686 | Prognosis Risk Model Based on Pyroptosis-Related lncRNAs for Gastric Cancer | 胃癌 | pyroptosis_lncRNA_STAD | 5 |
+| 2 | PMC10076677 | Identification and validation of an anoikis-related lncRNA signature to predict prognosis and immune landscape in osteosarcoma | 骨肉瘤 | anoikis_lncRNA_OS | 2 |
+| 3 | PMC10085621 | Construction and validation of a hypoxia-related risk signature identified EXO1 as a prognostic biomarker based on 12 genes in lung adenocarcinoma | 非小细胞肺癌 | hypoxia_NSCLC | 12 |
+| 4 | PMC10140328 | Construction of cancer- associated fibroblasts related risk signature based on single-cell RNA-seq and bulk RNA-seq data in bladder urothelial carcinoma | 膀胱癌 | CAF_BLCA | 7 |
+| 5 | PMC10164321 | Identification and in vitro and in vivo validation of the key role of GSDME in pyroptosis-related genes signature in hepatocellular carcinoma | 肝细胞癌 | pyroptosis_HCC | 2 |
+| 6 | PMC10184413 | Cuproptosis-Related Ferroptosis genes for Predicting Prognosis in kidney renal clear cell carcinoma | 肾透明细胞癌 | cuproptosis_ferroptosis_KIRC | 6 |
+| 7 | PMC10287976 | Tumor subtypes and signature model construction based on chromatin regulators for better prediction of prognosis in uveal melanoma | 葡萄膜黑色素瘤 | chromatin_UVM | 3 |
+| 8 | PMC10294479 | Construction and validation of a prognostic model based on autophagy-related genes for hepatocellular carcinoma in the Asian population | 肝细胞癌 | autophagy_HCC | 13 |
+| 9 | PMC10339815 | The DNA damage repair-related lncRNAs signature predicts the prognosis and immunotherapy response in gastric cancer | 胃癌 | DDR_lncRNA_STAD | 3 |
+| 10 | PMC10414028 | The hypoxia-associated genes in immune infiltration and treatment options of lung adenocarcinoma | 非小细胞肺癌 | hypoxia_LUAD | 6 |
+| 11 | PMC10469729 | Glutamine and amino acid metabolism as a prognostic signature and therapeutic target in endometrial cancer | 子宫内膜癌 | glutamine_UCEC | 3 |
+| 12 | PMC10469923 | An anoikis-related gene signature for prediction of the prognosis in prostate cancer | 前列腺癌 | anoikis_PRAD | 7 |
+| 13 | PMC10475834 | A novel defined risk signature of cuproptosis-related long non-coding RNA for predicting prognosis, immune infiltration, and immunotherapy response in lung adenocarcinoma | 非小细胞肺癌 | cuproptosis_lncRNA_LUAD | 5 |
+| 14 | PMC10531437 | A Novel Lipid Metabolism and Endoplasmic Reticulum Stress-Related Risk Model for Predicting Immune Infiltration and Prognosis in Colorectal Cancer | 结直肠癌 | lipid_ERstress_CRC | 18 |
+| 15 | PMC10564413 | A cellular senescence-related genes model allows for prognosis and treatment stratification of cervical cancer: a bioinformatics analysis and external verification | 宫颈癌 | senescence_CESC | 6 |
+| 16 | PMC10599730 | Identification of an endoplasmic reticulum stress-related prognostic risk model with excellent prognostic and clinical value in oral squamous cell carcinoma | 口腔鳞癌 | ERstress_OSCC | 3 |
+| 17 | PMC10616163 | Seven chromatin regulators as immune cell infiltration characteristics, potential diagnostic biomarkers and drugs prediction in hepatocellular carcinoma | 肝细胞癌 | chromatin_HCC | 6 |
+| 18 | PMC10662873 | Development of a prognostic signature based on anoikis-related genes in hepatocellular carcinoma with the utilization of LASSO-cox method | 肝细胞癌 | anoikis_HCC | 5 |
+| 19 | PMC10683111 | Predicting the prognosis, immune response, and immunotherapy in head and neck squamous cell carcinoma using a novel risk model based on anoikis-related lncRNAs | 头颈鳞癌 | anoikis_lncRNA_HNSCC | 2 |
+| 20 | PMC10791883 | Integrating single-cell and bulk transcriptomic analyses to develop a cancer-associated fibroblast-derived biomarker for predicting prognosis and therapeutic response in breast cancer | 乳腺癌 | CAF_BRCA | 14 |
+| 21 | PMC10807923 | Identification and Validation of a Novel Anoikis-Related Gene Signature for Predicting Survival in Patients With Serous Ovarian Cancer | 卵巢癌 | anoikis_OV | 13 |
+| 22 | PMC10900655 | A multi-dimensional approach to unravel the intricacies of lactylation related signature for prognostic and therapeutic insight in colorectal cancer | 结直肠癌 | lactylation_CRC | 23 |
+| 23 | PMC10932653 | Development and validation of a chromatin regulator signature for predicting prognosis hepatocellular carcinoma patient | 肝细胞癌 | chromatin_HCC | 3 |
+| 24 | PMC10980369 | Identification of an endoplasmic reticulum stress-associated gene signature to predict the immune status and prognosis of cutaneous melanoma | 黑色素瘤 | ERstress_SKCM | 7 |
+| 25 | PMC11085026 | Identification of Breast Cancer Subtypes Based on Endoplasmic Reticulum Stress-Related Genes and Analysis of Prognosis and Immune Microenvironment in Breast Cancer Patients | 乳腺癌 | ESR_BRCA | 8 |
+| 26 | PMC11178724 | Cuproptosis-related DNA methylation signature predict prognosis and immune microenvironment in cutaneous melanoma | 黑色素瘤 | cuproptosis_methylation_SKCM | 5 |
+| 27 | PMC11297001 | Predictive role of oxidative stress-related genes in colon cancer: a retrospective cohort study based on The Cancer Genome Atlas | 结直肠癌 | oxidative_stress_COAD | 17 |
+| 28 | PMC11310873 | Prognostic Value and Immune Landscapes of Four Types of RNA Modification Writer-Related LncRNAs Signature in Lung Adenocarcinoma | 非小细胞肺癌 | lncRNA_LUAD | 2 |
+| 29 | PMC11382408 | From bioinformatics to clinical applications: a novel prognostic model of cuproptosis-related genes based on single-cell RNA sequencing data in hepatocellular carcinoma | 肝细胞癌 | cuproptosis_HCC | 6 |
+| 30 | PMC11384320 | Characterization and validation of a prognostic model for the N6-methyladenosine-associated ferroptosis gene in colon adenocarcinoma | 结直肠癌 | m6A_ferroptosis_COAD | 6 |
+| 31 | PMC11411761 | Anoikis-related genes in breast cancer patients: reliable biomarker of prognosis | 乳腺癌 | anoikis_BRCA | 10 |
+| 32 | PMC11483459 | Comprehensive analysis of cuproptosis-related genes involved in prognosis and tumor microenvironment infiltration of colorectal cancer | 结直肠癌 | cuproptosis_CRC | 2 |
+| 33 | PMC11491388 | A disulfidptosis-related lncRNA signature for analyzing tumor microenvironment and clinical prognosis in hepatocellular carcinoma | 肝细胞癌 | disulfidptosis_lncRNA_HCC | 4 |
+| 34 | PMC11504279 | Establishment of a Prognostic Model for Pancreatic Cancer Based on Hypoxia-Related Genes | 胰腺癌 | hypoxia_PAAD | 3 |
+| 35 | PMC11550951 | Cuproptosis-related lncRNAs emerge as a novel signature for predicting prognosis in prostate carcinoma and functional experimental validation | 前列腺癌 | cuproptosis_lncRNA_PRAD | 3 |
+| 36 | PMC11564170 | Development of a prognostic model incorporating a cuproptosis-related signature and CNN3 as a predictor in childhood acute myelocytic leukemia | 急性髓系白血病 | cuproptosis_AML | 8 |
+| 37 | PMC11577587 | A glutamine metabolish-associated prognostic model to predict prognosis and therapeutic responses of hepatocellular carcinoma | 肝细胞癌 | glutamine_HCC | 4 |
+| 38 | PMC11634757 | Lactylation-related gene signature accurately predicts prognosis and immunotherapy response in gastric cancer | 胃癌 | lactylation_STAD | 3 |
+| 39 | PMC11656000 | Identification of a pyroptosis-related prognostic model for colorectal cancer and validation of the core gene SPTBN5 | 结直肠癌 | pyroptosis_CRC | 25 |
+| 40 | PMC11760997 | Identification the Cellular Senescence Associated lncRNA LINC01579 in Gastric Cancer | 胃癌 | senescence_STAD | 4 |
+| 41 | PMC11855622 | A Novel Prognostic Signature of Mitophagy-Related E3 Ubiquitin Ligases in Breast Cancer | 乳腺癌 | mitophagyE3_BRCA | 4 |
+| 42 | PMC11866598 | A novel telomere-associated genes signature for the prediction of prognosis and treatment responsiveness of hepatocellular carcinoma | 肝细胞癌 | telomere_HCC | 18 |
+| 43 | PMC11914417 | Development and validation of a disulfidptosis-related prognostic model for colorectal cancer using multi-omics analysis | 结直肠癌 | disulfidptosis_CRC | 8 |
+| 44 | PMC11920466 | Disulfidptosis-based molecular clustering and prognostic signatures predict patient survival and the immune landscape in patients with colon cancer | 结直肠癌 | COAD | 10 |
+| 45 | PMC12047218 | A prognostic glycolysis-related gene signature in osteosarcoma: implications for metabolic programming, immune microenvironment, and drug response | 骨肉瘤 | glycolysis_OS | 4 |
+| 46 | PMC12055729 | Lactylation-related risk model for prognostication and therapeutic responsiveness in uterine corpus endometrial carcinoma | 子宫内膜癌 | lactylation_UCEC | 1 |
+| 47 | PMC12078231 | Ubiquitination and ALL: Identifying FBXO8 as a prognostic biomarker and therapeutic target | 急性淋巴细胞白血病 | ubiquitination_ALL | 9 |
+| 48 | PMC12084325 | A novel LncRNA risk model for disulfidptosis-related prognosis prediction and response to chemotherapy in acute myeloid leukemia | 急性髓系白血病 | disulfidptosis_lncRNA_AML | 3 |
+| 49 | PMC12179157 | The role and prognostic value of PANoptosis-related genes in skin cutaneous melanoma | 黑色素瘤 | PANoptosis_SKCM | 9 |
+| 50 | PMC12210501 | Prognostic model of lung adenocarcinoma based on disulfidptosis-related genes and analysis of in vitro cell experiments for PPP1R14B in the model | 非小细胞肺癌 | ferroptosis_LUAD | 4 |
+| 51 | PMC12219082 | A novel necroptosis related prognostic signature for skin cutaneous melanoma based on transcriptome and single cell sequencing analysis | 黑色素瘤 | necroptosis_SKCM | 8 |
+| 52 | PMC12239816 | Robust prediction of glioma prognosis by hypoxia-induced ferroptosis genes: VEGFA-XBP1 co-expression for salvage therapy | 胶质瘤 | hypoxia_Glioma | 23 |
+| 53 | PMC12354743 | A novel neutrophil extracellular trap-related gene signature for predicting glioblastoma prognosis | 胶质瘤 | NETs_Glioma | 4 |
+| 54 | PMC12378281 | A novel prognostic signature integrating disulfidptosis- and ferroptosis-related genes in acute myeloid leukemia | 急性髓系白血病 | disulfidptosis_AML | 6 |
+| 55 | PMC12399450 | Identification and validation of prognostic genes associated with mitochondrial nuclear genes in gastric cancer | 胃癌 | mitochondrial_STAD | 3 |
+| 56 | PMC12402452 | Construction of a prognostic risk model for acute myeloid leukemia based on exosomal genes and analysis of immune microenvironment characteristics | 急性髓系白血病 | exosome_AML | 5 |
+| 57 | PMC12504172 | Transcriptional regulation of nucleotide metabolism in medulloblastoma subtypes and prognostic implications analyzed by RNA-Seq | 髓母细胞瘤 | nucleotide_MB | 15 |
+| 58 | PMC12647489 | Decoding the cholesterol–apoptosis axis in HCC: a machine learning-based multi-omics integration and single-cell transcriptomic analysis | 肝细胞癌 | cholesterol_HCC | 8 |
+| 59 | PMC12891303 | Single-cell and immune-context integration identifies basement-membrane/metastasis signatures that sharpen bladder-cancer diagnosis and prognosis | 膀胱癌 | CAF_BLCA | 6 |
+| 60 | PMC12891315 | Integrating single-cell and bulk transcriptomes with machine learning reveals a CAF signature for immunotherapy response in dMMR endometrial cancer | 子宫内膜癌 | CAF_UCEC | 12 |
+| 61 | PMC12905907 | Integrating bioinformatic analyses and experimental validation of disulfidptosis-related genes and TMX4 in melanoma progression | 黑色素瘤 | disulfidptosis_SKCM | 5 |
+| 62 | PMC12906242 | Establishment of a m6A‐Related Molecular Pattern in the Prognosis and Immune Infiltration of Osteosarcoma Using Machine Learning and Experiments | 骨肉瘤 | m6A_OS | 14 |
+| 63 | PMC12971589 | Single-cell RNA sequencing identifies cancer-associated fibroblast marker genes for determining cancer subtypes in oral squamous cell carcinoma and predicting patient prognosis | 口腔鳞癌 | CAF_OSCC | 8 |
+| 64 | PMC13083393 | Autophagy-related gene-based prognostic model for breast cancer | 乳腺癌 | autophagy_BRCA | 11 |
+| 65 | PMC13190656 | Construction of a prognostic risk model based on colorectal cancer-specific ferroptosis genes and preliminary validation of FGFR4 | 结直肠癌 | ferroptosis_CRC | 8 |
+| 66 | PMC13333213 | Integrated Proteomic and scRNA‐Seq Analysis Reveals Pyroptosis‐Related Subtypes in Lung Adenocarcinoma | 非小细胞肺癌 | pyroptosis_NSCLC | 2 |
+| 67 | PMC13355270 | Prognostic and immunological implications of a mitophagy-associated gene signature in bladder cancer | 膀胱癌 | mitophagy_BLCA | 5 |
+| 68 | PMC13406258 | A prognostic risk model based on programmed cell death genes for breast cancer and its potential clinical application | 乳腺癌 | PCDgenes_BRCA | 8 |
+| 69 | PMC13490468 | Integrative machine learning and multi-omics analysis reveals ATIC as a promoter of hepatocellular carcinoma progression | 肝细胞癌 | ATIC_HCC | 4 |
+| 70 | PMC7847640 | Construction of a Glycolysis-related long noncoding RNA signature for predicting survival in endometrial cancer | 子宫内膜癌 | glycolysis_lncRNA_UCEC | 2 |
+| 71 | PMC7880321 | Identification of a novel immune microenvironment signature predicting survival and therapeutic options for bladder cancer | 膀胱癌 | immune_BLCA | 10 |
+| 72 | PMC8291813 | Identification and validation of the prognostic value of cyclic GMP-AMP synthase-stimulator of interferon (cGAS-STING) related genes in gastric cancer | 胃癌 | cGASSTING_STAD | 3 |
+| 73 | PMC8377503 | Comprehensive Analysis of Glycolysis-Related Genes for Prognosis, Immune Features, and Candidate Drug Development in Colon Cancer | 结直肠癌 | glycolysis_colon | 8 |
+| 74 | PMC8379743 | Characteristic of molecular subtypes in lung adenocarcinoma based on m6A RNA methylation modification and immune microenvironment | 非小细胞肺癌 | m6A_LUAD | 7 |
+| 75 | PMC8464158 | Comprehensive analyses of glycolysis-related lncRNAs for ovarian cancer patients | 卵巢癌 | glycolysis_lncRNA_OV | 3 |
+| 76 | PMC8605142 | A novel prognostic signature based on four glycolysis‐related genes predicts survival and clinical risk of hepatocellular carcinoma | 肝细胞癌 | glycolysis_HCC | 3 |
+| 77 | PMC8791745 | Identification of a Hypoxia-Related lncRNA Biomarker Signature for Head and Neck Squamous Cell Carcinoma | 头颈鳞癌 | hypoxia_lncRNA_HNSCC | 3 |
+| 78 | PMC8812245 | A glycolysis-related two-gene risk model that can effectively predict the prognosis of patients with rectal cancer | 结直肠癌 | glycolysis_READ | 6 |
+| 79 | PMC8994655 | Construction of a Prognostic Signature of 10 Autophagy-Related lncRNAs in Gastric Cancer | 胃癌 | autophagy_lncRNA_STAD | 3 |
+| 80 | PMC9035888 | TGF-β1 Promotes Autophagy and Inhibits Apoptosis in Breast Cancer by Targeting TP63 | 乳腺癌 | autophagy_BRCA | 3 |
+| 81 | PMC9048552 | Autophagy-related long non-coding RNA prognostic model predicts prognosis and survival of melanoma patients | 黑色素瘤 | autophagy_lncRNA_SKCM | 12 |
+| 82 | PMC9086515 | Characterization of the Ferroptosis-Related Genes for Prognosis and Immune Infiltration in Low-Grade Glioma | 胶质瘤 | ferroptosis_Glioma | 9 |
+| 83 | PMC9092832 | Construction of a Prognostic Model for Hypoxia-Related LncRNAs and Prediction of the Immune Landscape in the Digestive System Pan-Cancer | 胃癌 | hypoxia_lncRNA_digestive_panCancer | 4 |
+| 84 | PMC9097333 | Identification of a novel autophagy-related prognostic signature and small molecule drugs for glioblastoma by bioinformatics | 胶质瘤 | autophagy_GBM | 7 |
+| 85 | PMC9124146 | An Independent Prognostic Model Based on Ten Autophagy-Related Long Noncoding RNAs in Pancreatic Cancer Patients | 胰腺癌 | autophagy_lncRNA_PAAD | 7 |
+| 86 | PMC9341065 | Identification of immune-related and autophagy-related genes for the prediction of survival in bladder cancer | 膀胱癌 | immune_autophagy_BLCA | 4 |
+| 87 | PMC9342864 | Prognostic Model and Nomogram Construction and Validation With an Autophagy-Related Gene Signature in Low-Grade Gliomas | 胶质瘤 | autophagy_Glioma | 9 |
+| 88 | PMC9361349 | DNA damage repair-related gene signature predicts prognosis and indicates immune cell infiltration landscape in skin cutaneous melanoma | 黑色素瘤 | DNArepair_SKCM | 12 |
+| 89 | PMC9420977 | Identification of a novel cuproptosis-related gene signature and integrative analyses in patients with lower-grade gliomas | 胶质瘤 | cuproptosis_Glioma | 9 |
+| 90 | PMC9465161 | Identification of N7-methylguanosine-related IncRNA signature as a potential predictive biomarker for colon adenocarcinoma | 结直肠癌 | m7G_lncRNA_COAD | 5 |
+| 91 | PMC9468367 | Predicting prognosis and immune responses in hepatocellular carcinoma based on N7-methylguanosine-related long noncoding RNAs | 肝细胞癌 | ICD_lncRNA_HCC | 2 |
+| 92 | PMC9523360 | Telomere-related gene risk model for prognosis and drug treatment efficiency prediction in kidney cancer | 肾透明细胞癌 | telomere_KIRC | 10 |
+| 93 | PMC9524961 | Construction of a 3-mRNA hypoxia prognostic model to evaluate immune microenvironment in hepatocellular carcinoma | 肝细胞癌 | hypoxia_HCC | 3 |
+| 94 | PMC9550247 | Establishment and validation of individualized clinical prognostic markers for LUAD patients based on autophagy-related genes | 非小细胞肺癌 | autophagy_LUAD | 2 |
+| 95 | PMC9561419 | Development and validation of a combined glycolysis and immune prognostic signature for lung squamous cell carcinoma | 非小细胞肺癌 | glycolysis_immune_LUSC | 4 |
+| 96 | PMC9578220 | A novel chromatin regulator-related immune checkpoint related gene prognostic signature and potential candidate drugs for endometrial cancer patients | 子宫内膜癌 | chromatin_immune_UCEC | 9 |
+| 97 | PMC9614251 | Construction and validation of a glycolysis-related lncRNA signature for prognosis prediction in Stomach Adenocarcinoma | 胃癌 | glycolysis_lncRNA_STAD | 3 |
+| 98 | PMC9614380 | A novel amino acid metabolism-related gene risk signature for predicting prognosis in clear cell renal cell carcinoma | 肾透明细胞癌 | aminoacid_KIRC | 17 |
+| 99 | PMC9618960 | Immunogenic cell death-related risk signature predicts prognosis and characterizes the tumour microenvironment in lower-grade glioma | 胶质瘤 | ICD_LGG | 12 |
+| 100 | PMC9636133 | A mitophagy-related gene signature associated with prognosis and immune microenvironment in colorectal cancer | 结直肠癌 | mitophagy_CRC | 10 |
+| 101 | PMC9662042 | A Seven-Autophagy-Related Long Non-Coding RNA Signature Can Accurately Predict the Prognosis of Patients with Renal Cell Carcinoma | 肾透明细胞癌 | autophagy_lncRNA_KIRC | 2 |
+| 102 | PMC9709208 | Development and validation of immunogenic cell death-related signature for predicting the prognosis and immune landscape of uveal melanoma | 葡萄膜黑色素瘤 | ICD_UVM | 5 |
+| 103 | PMC9720162 | Molecular subtypes and a prognostic model for hepatocellular carcinoma based on immune- and immunogenic cell death-related lncRNAs | 肝细胞癌 | ICD_lncRNA_HCC | 2 |
+| 104 | PMC9767988 | An innovative pyroptosis-related long-noncoding-RNA signature predicts the prognosis of gastric cancer via affecting immune cell infiltration landscape | 胃癌 | pyroptosis_lncRNA_STAD | 3 |
+| 105 | PMC9805482 | Construction and validation of a prognostic model for osteosarcoma patients based on autophagy-related genes | 骨肉瘤 | autophagy_OS | 3 |
+| 106 | PMC9843944 | Improvement of ACK1-targeted therapy efficacy in lung adenocarcinoma using chloroquine or bafilomycin A1 | 非小细胞肺癌 | autophagy_LUAD | 23 |
+| 107 | PMC9870742 | Identification of a novel anoikis‐related gene signature to predict prognosis and tumor microenvironment in lung adenocarcinoma | 非小细胞肺癌 | anoikis_LUAD | 16 |
+| 108 | PMC9906058 | Ferroptosis and cuproptosis prognostic signature for prediction of prognosis, immunotherapy and drug sensitivity in hepatocellular carcinoma: development and validation based on TCGA and ICGC databases | 肝细胞癌 | ferroptosis_cuproptosis_HCC | 9 |

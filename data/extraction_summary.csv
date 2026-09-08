@@ -1,0 +1,504 @@
+pmcid,pmid,theme,status,n_genes_extracted,candidate_score,source,caption_or_file
+PMC10056698,36983244,glutamine metabolism,extraction_failed,0,0,xml_table_wrap,Relevant clinical information of 422 PCa patients.
+PMC10127222,37072128,cellular senescence,extraction_failed,0,0,xml_table_wrap,Databases and methods.
+PMC10157051,37152283,cuproptosis-related ferroptosis,extraction_failed,0,5,xml_table_wrap,Univariate and multivariate Cox regression analyses of overall survival in the training and validation datasets.
+PMC10184413,37189176,cuproptosis-related ferroptosis,extracted,6,17,xml_table_wrap,Gene list and coefficient
+PMC10248571,37304549,epithelial-mesenchymal transition,no_candidate,0,,,
+PMC10292801,37377935,cancer stem cell,no_candidate,0,,,
+PMC10296256,37371537,exosome,top_candidate_score_too_low,0,-2,xml_table_wrap,Clinical characteristics of clusters 1 and 2 based on exosome-related genes.
+PMC10328717,37427112,N6-methyladenosine,no_candidate,0,,,
+PMC10344514,37443495,epithelial-mesenchymal transition,extraction_failed,0,2,xml_table_wrap,Univariate and multivariate Cox regression analysis of clinical characteristics and prognosis index in LUSC of TCGA.
+PMC10364387,37488496,cholesterol metabolism,extraction_failed,0,0,xml_supp,Supplementary Material 3
+PMC10396438,37538794,epithelial-mesenchymal transition,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC10445162,37622116,cuproptosis-related ferroptosis,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC10469729,37387559,glutamine metabolism,extracted,5,7,xml_table_wrap,The multivariate regression coefficients of each gene.
+PMC10470646,37664030,cellular senescence,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC10475834,37670938,cuproptosis-related ferroptosis,extracted,8,2,xml_table_wrap,Prognostic lncRNAs obtained from the LASSO Cox regression model and their primer sequences.
+PMC10553194,37800824,exosome,extraction_failed,0,4,xml_table_wrap,The univariate and multivariate Cox analyses results of overall survival (OS) related factors.
+PMC10564413,37768206,cellular senescence,extracted,6,14,xml_table_wrap,Six senescence associated genes and corresponding coefficient value.
+PMC10599744,37801479,cholesterol metabolism,top_candidate_score_too_low,0,-5,xml_table_wrap,Primer sequences of associated genes for reverse transcription-quantitative polymerase chain reaction.
+PMC10632470,37938654,cholesterol metabolism,no_candidate,0,,,
+PMC10663558,37990105,epithelial-mesenchymal transition,extraction_failed,0,10,xml_table_wrap,Univariate and Multivariate COX regressions for the TCGA cohort and the ICGC cohort.
+PMC10666655,38021786,exosome,extracted,7,8,xml_table_wrap,"The regression coefficient of seven exosome-related lncRNAs.  lncRNAs, long non-coding RNAs; HR, hazard ratio"
+PMC10683108,38017469,glycolysis,extraction_failed,0,2,xml_supp,Additional file 4: Table S4.  Univariate Cox analysis of m6A-related glycolytic genes
+PMC10709318,38066053,cancer stem cell,extraction_failed,0,17,xml_table_wrap,Univariate Cox regression and multivariate Cox regression of risk score and Clinical features.
+PMC10774034,38192999,cuproptosis-related ferroptosis,no_candidate,0,,,
+PMC10813330,38255198,epithelial-mesenchymal transition,no_candidate,0,,,
+PMC10826312,38293480,exosome,extraction_failed,0,0,xml_supp,Multimedia component 1
+PMC10829884,38299031,N6-methyladenosine,extracted,179,9,xml_supp,"Table S2. Summary of CRC prognostic models, related to Figures 2F and 2G"
+PMC10861726,38347320,angiogenesis,top_candidate_score_too_low,0,-5,xml_table_wrap,Sequences of primers used for RT-qPCR
+PMC10881509,38383747,necroptosis,extraction_failed,0,10,xml_table_wrap,Univariate and multivariate Cox regression analyses of necroptosis-associated miRNAs.
+PMC10909353,38435998,cellular senescence,extracted,9,0,xml_supp,Cell count of each sample before and after filtration
+PMC10909728,38439879,necroptosis,extracted,73,0,xml_supp,Multimedia component 4
+PMC10911888,38440405,lipid metabolism,extraction_failed,0,7,xml_table_wrap,Univariate and multivariate Cox regression analyses of clinical characteristics and risk scores in AGC.
+PMC10929800,38364250,hypoxia,extraction_failed,0,0,xml_supp,aging-16-205556-s002.docx
+PMC10933109,38482057,hypoxia,extracted,16,0,xml_supp,Table2.xlsx
+PMC10944249,38496249,hypoxia,extraction_failed,0,0,xml_table_wrap,Multivariate Analysis of Features Associated with Overall Survival
+PMC10950510,38509907,glutamine metabolism,no_candidate,0,,,
+PMC10975023,38516783,glycolysis,no_candidate,0,,,
+PMC10981052,38560217,cellular senescence,extracted,12,8,xml_table_wrap,Multivariate Cox regression construct a prognostic model.
+PMC10986118,38561760,hypoxia,extraction_failed,0,0,xml_supp,Supplementary Material 1. All the other data supporting the findings of this study are available within the Article and its Supplementary Information files. A Reporting Summary is available as a Supplementary Information file.
+PMC10989359,38577477,inflammation,top_candidate_score_too_low,0,-2,xml_table_wrap,"Baseline clinical characteristics of gastric cancer patients,  n  (%)"
+PMC11005085,38601183,glycolysis,extracted,7,9,xml_supp,Supporting Data
+PMC11025768,38635528,inflammation,extracted,196,0,xml_supp,Detailed genes in brown module using WGCNA.  (XLSX)
+PMC11026213,38635069,necroptosis,extraction_failed,0,0,xml_supp,Supplementary file1 (DOCX 2096 KB)
+PMC11040954,38654165,apoptosis,extracted,5,0,xml_supp,Supplementary Material 1
+PMC11042952,38546403,necroptosis,no_candidate,0,,,
+PMC11057184,38685060,glycolysis,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC11064265,38706901,angiogenesis,extraction_failed,0,3,zip,"(来自zip: jcav15p3095s1.zip, 内部文件名: Supplementary Files/Supplementary Table 5.xlsx)"
+PMC11080313,38720279,lipid metabolism,extracted,194,5,xml_supp,Supplementary Material 6.
+PMC11089903,38742117,inflammation,no_candidate,0,,,
+PMC11102376,38761234,exosome,extraction_failed,0,0,xml_supp,Supplementary file1 (XLS 95 KB)
+PMC11109893,38778969,inflammation,extracted,156,0,xml_supp,Multimedia component 1
+PMC11132023,38728235,exosome,no_candidate,0,,,
+PMC11134422,38817877,angiogenesis,extracted,36,0,xml_supp,Supplementary table.
+PMC11134425,38817872,apoptosis,extracted,10,8,xml_table_wrap,LASSO regression coefficients of ten ARGs in LUAD.
+PMC11137278,38817605,angiogenesis,no_candidate,0,,,
+PMC11152745,38797018,necroptosis,extracted,5,0,xml_supp,mmc3.xlsx
+PMC11163994,38860098,glycolysis,extraction_failed,0,0,xml_table_wrap,"Glycolysis-related terms.  Abbreviations: HIF-1α, hypoxia-inducible factor-1α; PPARG, peroxisome proliferator-activated receptor gamma; KEGG, Kyoto encyclopedia of genes and genomes."
+PMC11170320,38872949,necroptosis,extraction_failed,0,0,xml_table_wrap,TCGA-breast cancer sample baseline data in TCGA database.
+PMC11181350,38887298,hypoxia,extraction_failed,0,0,xml_supp,DataSheet_1.docx
+PMC11183325,38894720,apoptosis,extraction_failed,0,0,xml_supp,Table1.docx
+PMC11187284,38903179,inflammation,extraction_failed,0,0,xml_supp,Tablex.XLSX
+PMC11191174,38902737,hypoxia,extraction_failed,0,0,xml_supp,"Supplementary Material 1. Figure S1. Hypoxia- and lactate metabolism-related microenvironments of the three subtypes. A Hypoxia microenvironment. B Lactate metabolism-related microenvironment. Figure S2. Stemness enrichment scores and expression of stemness-associated genes in different subtypes. A Stemness enrichment scores. B Exprission of LGR5. C Exprission of CD34. Figure S3. Time-dependent ROC curves for predicting 1-, 3-, and 5-year OS. A Clinical factors alone. B The HLM score combined with clinical factors. Figure S4. Hypoxia- and lactate metabolism-related microenvironments of the high-risk and low-risk groups. A GSEA of the high-risk and low-risk groups. B Hypoxia- and lactate metabolism-related microenvironment of the high-risk and low-risk groups. Figure S5. Comparison of HLM Score and CMS. A Distribution of the CMS in the high-risk and low-risk group. B CMS for CRC prognostic stratification. C HLM score combined with CMS for CRC prognostic stratification. Figure S6. ROC curves, risk heatmaps, and calibration curves in the validation sets. A GSE106584, B GSE17536, C GSE39582 and D IMvigor210. Figure S7. scRNA-seq analysis to assess immune cell infiltration. A Percentage of T cell subpopulation infiltration in high-risk vs. low-risk groups. B Percentage of CD8+ T cell subpopulation infiltration in high-risk vs. low-risk groups. C Percentage of T cell subpopulation infiltration in different molecular subtypes. D Percentage of CD8+ T cell subpopulation infiltration in different molecular subtypes. Tem, effective memory T cells; IEL, intraepithelial lymphocyte; Tc17, IL-17-producing CD8+ T cells; Tm, memory T cells; Tn, naïve T cells; Trm, tissue-resident memory T cells."
+PMC11194215,38700744,hypoxia,extraction_failed,0,0,xml_supp,Supplementary file1 (DOCX 2237 KB)
+PMC11220232,38962272,angiogenesis,extraction_failed,0,0,xml_supp,Table_1.docx
+PMC11225160,38965505,hypoxia,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC11231123,38976093,cellular senescence,extraction_failed,0,0,xml_supp,Additional file 1: Table S1.  The GSVA results regarding the risk groups (High vs. Low).
+PMC11231866,38989417,cellular senescence,no_candidate,0,,,
+PMC11255503,39027504,apoptosis,extraction_failed,0,0,xml_supp,Multimedia component 1
+PMC11261139,39040272,angiogenesis,extracted,47,4,xml_supp,Multimedia component 5
+PMC11264614,39033204,angiogenesis,no_candidate,0,,,
+PMC11269197,39055701,inflammation,top_candidate_score_too_low,0,-10,xml_table_wrap,Specific primer sequence.
+PMC11288355,39081870,necroptosis,extraction_failed,0,0,xml_table_wrap,Clinicopathologic Characteristics of Breast Cancer Patients According to the Necroptosis Pattern
+PMC11297001,39095620,oxidative stress,extracted,17,14,xml_table_wrap,The full names and coefficients of the 17 prognostic oxidative stress-related genes
+PMC11302292,39107713,cuproptosis-related ferroptosis,extracted,3,9,xml_supp,Supplementary Material 10.
+PMC11308995,39119106,glycolysis,extraction_failed,0,0,xml_supp,Data analysis.
+PMC11315143,39130410,cellular senescence,extraction_failed,0,0,xml_supp,Multimedia component 1
+PMC11317289,39135779,cellular senescence,extraction_failed,0,0,xml_supp,Table1.DOCX
+PMC11319349,39134603,hypoxia,extracted,4,0,xml_table_wrap,detailed information of GEO datasets.
+PMC11319965,39145071,inflammation,extraction_failed,0,0,xml_table_wrap,Baseline characteristics of the patients in different risk groups
+PMC11319968,39145087,cellular senescence,extracted,6,4,xml_table_wrap,Multivariate Cox analysis results based on CSR-lncRNA
+PMC11330244,39156675,oxidative stress,no_candidate,0,,,
+PMC11336146,38658505,cellular senescence,extracted,85,6,xml_supp,Supplementary file1 (XLSX 11 KB)
+PMC11345533,39188937,inflammation,extraction_failed,0,0,xml_supp,Supporting Information
+PMC11349728,39190262,lipid metabolism,extraction_failed,0,6,xml_table_wrap,Multivariate analysis of risk score and characteristics in training cohort
+PMC11377409,39237807,angiogenesis,extracted,36,2,xml_supp,Supplementary Material 1
+PMC11380221,39213052,necroptosis,extraction_failed,0,0,xml_supp,Supplementary tables 1-6
+PMC11381599,39253245,necroptosis,extracted,87,0,xml_supp,Supplementary Table 1  Sample information based on osteosarcoma patients obtained from the TARGET database.
+PMC11382126,39167955,lipid metabolism,extraction_failed,0,0,xml_supp,mmc1.docx
+PMC11384320,39262465,N6-methyladenosine,extracted,6,11,xml_table_wrap,The coefficient of prognostic genes in the multivariate Cox analysis
+PMC11384925,39262476,epithelial-mesenchymal transition,no_candidate,0,,,
+PMC11387247,39263127,necroptosis,extraction_failed,0,0,xml_supp,Multimedia component 1
+PMC11390420,39267750,cellular senescence,extracted,194,10,xml_supp,Table1.xlsx
+PMC11408181,39296545,mitochondrial,extraction_failed,0,0,xml_supp,Table1.xls
+PMC11414284,39300580,glutamine metabolism,no_candidate,0,,,
+PMC11415698,39309864,necroptosis,extracted,5,4,xml_table_wrap,Stepwise multivariate Cox regression analysis of np-lncRNAs.
+PMC11417173,39315163,necroptosis,extracted,166,2,xml_supp,Multimedia component 4
+PMC11425647,39324703,cuproptosis-related ferroptosis,top_candidate_score_too_low,0,-2,xml_table_wrap,The clinical characteristics of endometrial cancer patients between training and validation group.
+PMC11437100,39333335,necroptosis,extracted,8,2,xml_table_wrap,The information of NRGlncRNAs and coefficients of the formula of the prognosis model.
+PMC11443174,39355236,cellular senescence,extracted,3,2,xml_supp,The sequences of MYSOLID-ASOs.
+PMC11456544,39376659,apoptosis,top_candidate_score_too_low,0,-5,xml_table_wrap,Sequences of primers used in qRT-PCR.
+PMC11458410,39380996,mitochondrial,extracted,199,10,xml_supp,Table1.xlsx
+PMC11462029,39386842,glutamine metabolism,extracted,197,5,zip,"(来自zip: mmc1.zip, 内部文件名: Supplenmentary Tables--revised/Table S3.xlsx)"
+PMC11465649,39385179,hypoxia,extracted,199,0,xml_supp,Additional file3
+PMC11466623,39391470,angiogenesis,extraction_failed,0,0,xml_table_wrap,Statistical analysis of clinical information for samples in the training and validation sets.
+PMC11470605,39394121,angiogenesis,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC11479907,39416790,hypoxia,extraction_failed,0,0,xml_supp,Table1.xlsx
+PMC11496652,39438534,pyroptosis,extracted,52,10,xml_supp,Supplementary Material 2
+PMC11504279,39431298,hypoxia,extraction_failed,0,4,xml_supp,sj-docx-1-tct-10.1177_15330338241288687 - Supplemental material for Establishment of a Prognostic Model for Pancreatic Cancer Based on Hypoxia-Related Genes
+PMC11514195,39463421,lipid metabolism,extracted,23,1,xml_table_wrap,23 LMRGs related prognostic genes.
+PMC11521951,39478854,mitochondrial,extraction_failed,0,10,xml_table_wrap,Correlation between risk scores and clinical pathological characteristics of patients in the training set.
+PMC11535831,39507025,glycolysis,no_candidate,0,,,
+PMC11543460,39524444,lipid metabolism,extraction_failed,0,0,xml_supp,DataSheet1.docx
+PMC11549074,39514138,oxidative stress,extraction_failed,0,0,xml_supp,Supplementary file1 (DOCX 756 KB)
+PMC11559131,39538125,lipid metabolism,extracted,199,0,xml_supp,Supplementary Material 6
+PMC11568093,39548036,pyroptosis,extraction_failed,0,0,xml_table_wrap,Clinicopathological factors
+PMC11573954,39556271,inflammation,no_candidate,0,,,
+PMC11577587,39563436,glutamine metabolism,extracted,4,5,xml_table_wrap,The coefficients of 4 GMAGs in the prognostic model
+PMC11579272,39565540,pyroptosis,no_candidate,0,,,
+PMC11582591,39572651,inflammation,no_candidate,0,,,
+PMC11586327,39580765,apoptosis,extracted,6,7,xml_supp,Additional file 3: TableS1. Genes involved in model construction and their coefficient
+PMC11588584,39600633,pyroptosis,top_candidate_score_too_low,0,-5,xml_supp,The primers used for RT-qPCR.
+PMC11619975,39640604,autophagy,no_candidate,0,,,
+PMC11621381,39639610,inflammation,extracted,14,0,xml_supp,Table S1.
+PMC11625674,39655212,necroptosis,extracted,43,3,xml_supp,Table1.xlsx
+PMC11632443,39669999,oxidative stress,no_candidate,0,,,
+PMC11635208,39678889,mitochondrial,extraction_failed,0,0,xml_table_wrap,Basic information of patients in the GEO dataset utilized for this study
+PMC11655928,39692950,mitochondrial,top_candidate_score_too_low,0,-2,xml_table_wrap,"Clinical characteristics of LSCC patients in the training, validation, and overall datasets"
+PMC11656000,39692974,pyroptosis,extracted,25,7,xml_supp,Supplementary material 5.
+PMC11657287,39696618,cuproptosis-related ferroptosis,extracted,199,1,xml_supp,Supplementary Material 3
+PMC11657507,39695414,pyroptosis,extracted,190,2,xml_supp,Supplementary Material 4
+PMC11666862,39723224,cellular senescence,extraction_failed,0,7,xml_table_wrap,Clinical characteristics and risk scores of juvenile osteosarcoma using multivariate Cox regression analysis
+PMC11696111,39747333,necroptosis,extracted,120,0,xml_supp,Supplementary Table 1.
+PMC11700244,39760097,autophagy,extraction_failed,0,0,xml_supp,Multimedia component 2
+PMC11717666,39789383,autophagy,no_candidate,0,,,
+PMC11717914,39789247,mitochondrial,extracted,199,3,xml_supp,Supplementary Material 1
+PMC11730194,39816559,cholesterol metabolism,no_candidate,0,,,
+PMC11742449,39825108,cuproptosis-related ferroptosis,extracted,199,3,xml_supp,Supplementary Material 5
+PMC11742731,39827204,lipid metabolism,extraction_failed,0,0,xml_supp,Supplementary Material 6
+PMC11745560,39834603,pyroptosis,top_candidate_score_too_low,0,-5,xml_supp,Table S1: The primer sequences for qRT-PCR.
+PMC11751285,39838125,autophagy,extracted,8,0,xml_table_wrap,Autophagy-associated lncRNAs identified by single-factor Cox
+PMC11758802,39847423,exosome,extracted,199,0,xml_supp,clinical.xlsx
+PMC11760997,39855898,cellular senescence,extracted,15,17,xml_supp,Table S8.
+PMC11780071,39881026,angiogenesis,extraction_failed,0,0,xml_supp,Additional file 1.
+PMC11781745,39883700,cuproptosis-related ferroptosis,extracted,196,6,xml_supp,Ferroptosis- and cuproptosis-related genes.  (XLSX)
+PMC11792380,39905567,inflammation,extraction_failed,0,9,xml_table_wrap,COX regression analysis of prognostic model
+PMC11813837,39932605,inflammation,extracted,108,2,xml_supp,Additional file 3 (XLSX 28 KB)
+PMC11818358,39941131,hypoxia,extracted,197,0,zip,"(来自zip: ijms-26-01362-s001.zip, 内部文件名: Supplementary Files/Supplementary Table.xlsx)"
+PMC11832983,39960565,exosome,extraction_failed,0,0,xml_supp,Supplementary Material 1.
+PMC11833364,39974401,necroptosis,no_candidate,0,,,
+PMC11836339,39966531,oxidative stress,extracted,8,7,xml_table_wrap,Risk coefficients corresponding to 8 genes.
+PMC11849515,39995998,angiogenesis,extraction_failed,0,0,xml_supp,Clinical information of the TCGA cohort.
+PMC11855622,40004017,mitochondrial,extracted,4,7,xml_table_wrap,The information for 4 mitophagy-related E3 ubiquitin ligases.
+PMC11864952,40018411,pyroptosis,extracted,199,0,xml_supp,DataSheet1.csv
+PMC11876495,40032765,cellular senescence,extraction_failed,0,4,xml_table_wrap,Multivariate cox regression analysis of prognostic factor in GC patients
+PMC11880812,40046063,glycolysis,extracted,195,6,xml_supp,Table2.xlsx
+PMC11900454,40076759,angiogenesis,no_candidate,0,,,
+PMC11906445,40093327,glycolysis,extracted,62,6,xml_supp,Table4.xlsx
+PMC11912044,40104746,necroptosis,no_candidate,0,,,
+PMC11912741,40091022,pyroptosis,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC11915074,40109861,mitochondrial,no_candidate,0,,,
+PMC11921290,40115919,pyroptosis,extraction_failed,0,0,xml_table_wrap,Univariate and multivariate analyses of TCGA
+PMC11926318,40113615,glutamine metabolism,extracted,4,9,xml_supp,Additional file 7
+PMC11933596,40126694,autophagy,extraction_failed,0,0,xml_supp,Additional file 3.
+PMC11954311,40155942,exosome,extracted,4,7,xml_supp,Supplementary Material 2
+PMC11966244,40182032,mitochondrial,extraction_failed,0,0,xml_supp,DataSheet1.docx
+PMC11972275,40186721,mitochondrial,no_candidate,0,,,
+PMC11972318,40188284,lipid metabolism,no_candidate,0,,,
+PMC11978719,40198448,angiogenesis,extraction_failed,0,0,xml_supp,Supplementary file1 (DOCX 1126 KB)
+PMC11982005,40205166,inflammation,top_candidate_score_too_low,0,-5,xml_table_wrap,The sequences of primers for RT − qPCR used in this study
+PMC11999454,40228246,autophagy,top_candidate_score_too_low,0,-10,xml_table_wrap,Primer sequences used in this study.
+PMC12013648,40264860,glycolysis,no_candidate,0,,,
+PMC12024913,40299448,glycolysis,extracted,7,2,zip,"(来自zip: biomedicines-13-00834-s001.zip, 内部文件名: Supplementary Table S1.xlsx)"
+PMC12025183,40299498,cellular senescence,extracted,198,6,zip,"(来自zip: biomedicines-13-00877-s001.zip, 内部文件名: Table S1. Cellular senescence-related genes.xlsx)"
+PMC12036097,40302802,cholesterol metabolism,no_candidate,0,,,
+PMC12047218,40321814,glycolysis,extracted,4,11,xml_table_wrap,Multivariate cox regression analysis identified four GRGs signature.
+PMC12047781,40315225,hypoxia,extracted,13,15,xml_supp,The coefficient of each gene in the hypoxia model.  (XLSX)
+PMC12051938,40330698,autophagy,extraction_failed,0,0,xml_supp,Codebook.
+PMC12060176,40343143,oxidative stress,no_candidate,0,,,
+PMC12065698,40348840,apoptosis,no_candidate,0,,,
+PMC12082951,40380258,exosome,extracted,2,3,xml_supp,Supplementary Material 3
+PMC12084375,40379825,angiogenesis,extracted,47,5,xml_supp,Supplementary Material 1
+PMC12109319,40426878,lipid metabolism,extraction_failed,0,0,xml_table_wrap,Pathways related to lipid metabolism.
+PMC12117586,40438100,angiogenesis,extraction_failed,0,0,xml_supp,Table1.docx
+PMC12131485,40462127,lipid metabolism,extraction_failed,0,0,xml_supp,Supplementary Material 2: supplementary figures and other experimental methods
+PMC12144798,40483519,mitochondrial,extracted,42,2,xml_supp,Supplementary Material 2
+PMC12148105,40489463,autophagy,extraction_failed,0,3,xml_supp,Mitophagy-related genes by compiling a list of 489 candidate genes sourced.  from both the GeneCards database and the GSEA database.  (DOCX)
+PMC12149082,40488804,autophagy,extraction_failed,0,14,xml_table_wrap,Univariate and multivariate Cox regression analysis of autophagy-related gene prognostic signature (ARGPS)
+PMC12159008,40510161,cellular senescence,no_candidate,0,,,
+PMC12169781,40480146,angiogenesis,extracted,11,15,xml_table_wrap,Candidate genes and coefficients for inclusion in the genetic risk score (GRS).
+PMC12170119,40530112,autophagy,extraction_failed,0,9,xml_table_wrap,Multivariate Cox regression results of pyroptosis and hypoxia gene-related score on clinical prognosis
+PMC12170285,40530113,necroptosis,no_candidate,0,,,
+PMC12171010,40535818,pyroptosis,extraction_failed,0,0,xml_table_wrap,Evaluation of classifiers generated using different machine learning algorithms.
+PMC12185455,40557150,inflammation,extraction_failed,0,0,xml_table_wrap,The baseline characteristics of 11 AML patients collected for single-cell sequencing.
+PMC12213808,40606673,inflammation,extracted,190,0,xml_supp,Table1.xlsx
+PMC12214765,40613031,glutamine metabolism,no_candidate,0,,,
+PMC12215040,40592763,autophagy,extraction_failed,0,9,xml_table_wrap,Univariate and multivariate Cox proportional hazards analyses of clinicopathological features and risk scores of glioblastoma patients in the TCGA training cohort and the CGGA and TCGA microarray validation cohorts
+PMC12218319,40595862,oxidative stress,extracted,6,4,xml_table_wrap,Table of hub genes.
+PMC12219082,40596554,necroptosis,extraction_failed,0,8,xml_table_wrap,Coefficients in the least absolute and selection operator (LASSO) model.
+PMC12234982,40624187,oxidative stress,no_candidate,0,,,
+PMC12237316,40629658,angiogenesis,extraction_failed,0,0,xml_supp,medi-104-e42958-s001.docx
+PMC12239816,40621799,hypoxia,extracted,8,7,xml_table_wrap,The coefficient index of differential-prognostic genes.
+PMC12246268,40638021,cellular senescence,extraction_failed,0,4,xml_table_wrap,Univariate and multivariate Cox regression analysis results in dataset TCGA-BRCA
+PMC12263527,40665078,exosome,extraction_failed,0,3,xml_table_wrap,Results from univariate Cox regression
+PMC12268646,40687254,glycolysis,no_candidate,0,,,
+PMC12273967,40680042,pyroptosis,extracted,199,7,zip,"(来自zip: pone.0328560.s003.zip, 内部文件名: Additional data1/cell_survival_dataú¿TCGA prognostic data extraction OS_DSS_PFI).xlsx)"
+PMC12274102,40686517,autophagy,top_candidate_score_too_low,0,-10,xml_table_wrap,The primer sequences for qRT-qPCR used in the study.
+PMC12274188,40679719,apoptosis,extracted,198,0,xml_supp,Additional file 1
+PMC12290113,40707588,glycolysis,top_candidate_score_too_low,0,-10,xml_table_wrap,Primer sequences for human qRT-PCR.
+PMC12305588,40740228,necroptosis,top_candidate_score_too_low,0,-2,xml_table_wrap,The clinical characteristics of studied datasets.
+PMC12307155,40740774,apoptosis,extraction_failed,0,2,xml_supp,Table1.xlsx
+PMC12310446,40747103,lipid metabolism,no_candidate,0,,,
+PMC12311075,40736630,cholesterol metabolism,extraction_failed,0,5,xml_supp,Supplementary material 4.
+PMC12318951,40761791,pyroptosis,extracted,2,7,zip,"(来自zip: DataSheet1.zip, 内部文件名: Supplementary Excel file 2.xlsx)"
+PMC12325781,40764403,cuproptosis,extracted,199,0,xml_supp,Supplementary Material 1
+PMC12329739,40785668,lipid metabolism,no_candidate,0,,,
+PMC12334451,40670727,angiogenesis,no_candidate,0,,,
+PMC12335101,40783519,autophagy,top_candidate_score_too_low,0,-10,xml_table_wrap,RT-qPCR primer sequences of PCD-Metabolism model genes
+PMC12335712,40792135,pyroptosis,no_candidate,0,,,
+PMC12339706,40790033,mitochondrial,extraction_failed,0,4,xml_table_wrap,Univariate and multivariate COX regression analysis of the clinical features and RiskScore.
+PMC12353749,40823088,oxidative stress,extracted,195,0,xml_supp,Table1.xlsx
+PMC12361017,40824414,oxidative stress,no_candidate,0,,,
+PMC12361035,40824331,glycolysis,extracted,121,7,xml_supp,Supplementary Material 1.
+PMC12366638,40842856,glycolysis,extracted,6,2,xml_table_wrap,Gene Characteristics of 6 Hub Genes
+PMC12374940,40861804,apoptosis,no_candidate,0,,,
+PMC12374941,40861807,cuproptosis,extraction_failed,0,0,xml_table_wrap,One-way cox regression analysis.
+PMC12378281,40853395,disulfidptosis,extracted,5,14,xml_table_wrap,List of genes and coefficients
+PMC12378849,40853516,cholesterol metabolism,extraction_failed,0,0,xml_supp,Supplementary Material 1. S1 Fig. Calibration plot of nomogram. S2 Fig. The GSVA enrichment analysis of the signaling pathways is based on the TCGA dataset. S3 Fig. The GSVA enrichment analysis of the hallmark set is based on the TCGA dataset.
+PMC12391097,40893939,necroptosis,extracted,197,0,zip,"(来自zip: DataSheet1.zip, 内部文件名: f5d9e250-3eda-11ec-b0bb-0242ac130002_Deg_Genes.csv)"
+PMC12391139,40895543,necroptosis,extraction_failed,0,0,xml_supp,Table1.doc
+PMC12392321,40816225,exosome,extraction_failed,0,0,xml_supp,mmc3.docx
+PMC12392417,40894479,oxidative stress,extraction_failed,0,0,xml_supp,Datasheet1.docx
+PMC12399450,40886211,mitochondrial,extracted,3,11,xml_table_wrap,Gene coefficients of the risk model based on LASSO regression analysis
+PMC12402452,40890357,exosome,extracted,13,7,xml_table_wrap,Exosome-related genes and their corresponding risk coefficients.
+PMC12402859,40904599,cuproptosis,extracted,194,2,xml_supp,Supporting Data
+PMC12405417,40909968,glutamine metabolism,extraction_failed,0,0,xml_supp,Table1.docx
+PMC12408283,40918134,pyroptosis,extracted,29,6,zip,"(来自zip: DataSheet1.zip, 内部文件名: Data Sheet 6.XLSX)"
+PMC12408422,40900420,exosome,extraction_failed,0,0,xml_table_wrap,Comparison of baseline characteristics between prostate cancer samples and adjacent normal Prostate tissue samples in TCGA-PRAD database
+PMC12417453,40933995,hypoxia,no_candidate,0,,,
+PMC12425727,40951345,pyroptosis,no_candidate,0,,,
+PMC12432606,40950677,disulfidptosis,no_candidate,0,,,
+PMC12432770,40950705,epithelial-mesenchymal transition,no_candidate,0,,,
+PMC12433139,40950877,glycolysis,extraction_failed,0,0,xml_table_wrap,Performance results of different models
+PMC12435658,40953006,mitochondrial,no_candidate,0,,,
+PMC12450679,40988925,lipid metabolism,extraction_failed,0,2,xml_supp,Table1.xlsx
+PMC12452079,40989165,glycolysis,extracted,195,0,xml_supp,Supplementary Table 1
+PMC12461108,40994257,exosome,extraction_failed,0,2,xml_supp,Table S3:  19 prognostic exosome‐related genes identified by univariate Cox regression analysis in TCGA‐TNBC cohort.
+PMC12465967,41013216,apoptosis,extraction_failed,0,0,xml_table_wrap,"The characteristics of  AC062021.1 , CCT7P2, CTB-1I21.1, DGCR6, RP11- 158M2.5, SLC22A6, SLC25A48, ADAM12, and FAM225B in CGGA database"
+PMC12481447,41025546,pyroptosis,extraction_failed,0,0,xml_supp,Data S1.  cam471278‐sup‐0001‐DataS1.docx.
+PMC12483933,41040512,autophagy,extraction_failed,0,1,xml_table_wrap,Univariate analysis and multi-variate regression analysis of overall survival in the training and validation cohorts by Cox regression analysis.
+PMC12499833,41054074,exosome,no_candidate,0,,,
+PMC12505621,41063164,disulfidptosis,extracted,197,3,xml_supp,Supplementary material 1: Table S1
+PMC12514119,41073579,angiogenesis,extraction_failed,0,0,xml_table_wrap,Sample number of each eigenvalue
+PMC12535707,41116817,pyroptosis,no_candidate,0,,,
+PMC12542104,41126120,angiogenesis,no_candidate,0,,,
+PMC12551239,41136974,cellular senescence,no_candidate,0,,,
+PMC12554482,41158277,lipid metabolism,no_candidate,0,,,
+PMC12554494,41158264,necroptosis,extracted,18,0,xml_table_wrap,Eighteen drugs targeting  TYRO3  and their corresponding databases
+PMC12558797,41164132,lipid metabolism,extraction_failed,0,0,xml_table_wrap,Baseline demographic characteristic of glioma (TCGA).
+PMC12567641,41152153,cuproptosis,extracted,118,9,xml_supp,Table S1:  The gene list of 19 cuproptosis‐related genes and 464 ferroptosis‐related genes.
+PMC12568621,41169393,disulfidptosis,no_candidate,0,,,
+PMC12569579,41169526,cuproptosis,no_candidate,0,,,
+PMC12575726,41168318,apoptosis,no_candidate,0,,,
+PMC12577414,41174714,ferroptosis,no_candidate,0,,,
+PMC12579482,41180485,necroptosis,extraction_failed,0,0,xml_supp,159 NRGs from KEGG in LUSC
+PMC12585956,41200204,ferroptosis,extracted,196,6,xml_supp,Table1.xlsx
+PMC12587622,41194198,cuproptosis,extracted,198,4,xml_supp,Supplementary Material 1
+PMC12589231,41193924,mitochondrial,extracted,7,8,xml_supp,Supplementary file9 (XLSX 10 kb)
+PMC12592011,41211107,ferroptosis,no_candidate,0,,,
+PMC12595158,41201629,apoptosis,no_candidate,0,,,
+PMC12595213,41201557,inflammation,no_candidate,0,,,
+PMC12595647,41204322,exosome,extracted,199,0,xml_supp,Supplementary Material 1
+PMC12596427,41216283,mitochondrial,no_candidate,0,,,
+PMC12598532,41220401,cuproptosis,extraction_failed,0,0,xml_supp,Raw Ct values and amplification curves.
+PMC12603432,41229810,ferroptosis,no_candidate,0,,,
+PMC12605202,41234897,disulfidptosis,extraction_failed,0,0,xml_table_wrap,Clinical pathological features of hepatocellular carcinoma
+PMC12605368,41234845,disulfidptosis,no_candidate,0,,,
+PMC12605633,41234843,cancer stem cell,extraction_failed,0,0,xml_table_wrap,Clinical pathological characteristics of patients in the  GSE14520  database
+PMC12605780,41234879,lipid metabolism,no_candidate,0,,,
+PMC12606907,41219819,mitochondrial,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC12627312,41252049,mitochondrial,extracted,199,6,xml_supp,"Additional file 2. Table S1: The list of mitochondrial-related genes. Table S2: 1955 DEGs at the mRNA level by differential gene expression analysis. Table S3: 104 MTR-DEGs. Table S4-S6: Clinical Data of TCGA-BLCA, GSE13507 and GSE32894 Cohorts. Table S7: GO terms and KEGG terms of 104 MTR-DEGs. Table S8: NMF algorithm grouping results. Table S9: Infiltration levels of 22 immune cells were analyzed by the CIBERSORT algorithm. Table S10: Results of TIDE analysis in BLCA patients. Table S11: The IC50 of 198 agents in BLCA patients. Table S12: The list of DEGs (n = 224), enriched GO terms, and enriched KEGG terms for the high- and low-risk groups."
+PMC12630681,41258196,cellular senescence,extraction_failed,0,2,xml_supp,Supplementary Material 3
+PMC12637038,41282991,mitochondrial,extraction_failed,0,4,xml_table_wrap,Multivariate Cox regression analysis of various prognostic parameters in LUAD patients.
+PMC12643716,41305807,disulfidptosis,extraction_failed,0,0,xml_table_wrap,Characteristic of cervical cancer patients involved in the study.
+PMC12643724,41305798,ferroptosis,extraction_failed,0,5,xml_table_wrap,The outcomes of K-fold cross-validation.
+PMC12647489,41288805,cholesterol metabolism,extracted,8,6,xml_table_wrap,Results of univariate and multivariate Cox regression analyses
+PMC12657988,41298756,autophagy,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC12666366,41332904,ferroptosis,extracted,13,7,xml_table_wrap,LASSO regression analysis of prognostic gene selection in BRCA.
+PMC12668565,41325548,ferroptosis,extraction_failed,0,0,xml_supp,Supporting Information S1
+PMC12672885,41346575,ferroptosis,extraction_failed,0,0,xml_table_wrap,Differential expression of TREX1 in prostate cancer and adjacent normal tissues.
+PMC12686173,41378027,pyroptosis,no_candidate,0,,,
+PMC12688806,41367017,oxidative stress,no_candidate,0,,,
+PMC12695801,41394399,cuproptosis,no_candidate,0,,,
+PMC12702848,41403955,ferroptosis,extraction_failed,0,0,xml_supp,Table1.doc
+PMC12702948,41403951,disulfidptosis,extracted,9,9,zip,"(来自zip: DataSheet1.zip, 内部文件名: Additional file 4.XLSX)"
+PMC12705533,41409290,ferroptosis,extraction_failed,0,0,xml_supp,Table1.docx
+PMC12710123,41054252,disulfidptosis,extracted,194,10,xml_supp,Table S4.
+PMC12713357,41427247,mitochondrial,extraction_failed,0,0,xml_supp,Table1.xls
+PMC12721737,41438616,cuproptosis,extracted,197,3,xml_supp,Supporting Information  Additional supporting information can be found online in the Supporting Information section.
+PMC12731238,41463320,glutamine metabolism,extracted,5,0,xml_table_wrap,The information of the data source.
+PMC12744581,41467099,pyroptosis,no_candidate,0,,,
+PMC12748320,41264061,epithelial-mesenchymal transition,no_candidate,0,,,
+PMC12748409,41275062,cellular senescence,extracted,198,4,xml_supp,Supplementary Material 9.
+PMC12748426,41291146,lipid metabolism,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC12751454,41430351,oxidative stress,extraction_failed,0,0,xml_supp,Supplementary material 1.
+PMC12767437,41497799,apoptosis,extracted,16,0,xml_table_wrap,Association study linking genes associated with programed cell death and the prognostic outcome of GBM.
+PMC12770607,41345488,glycolysis,extracted,140,2,xml_supp,Supplementary Material 2
+PMC12776241,41510071,hypoxia,no_candidate,0,,,
+PMC12779885,41343099,disulfidptosis,top_candidate_score_too_low,0,-5,xml_table_wrap,The primers of different genes
+PMC12796055,41353707,cuproptosis,extracted,10,0,xml_table_wrap,Cox proportional hazards regression analysis of cuproptosis-related genes and OS in colon cancer
+PMC12801907,41372983,epithelial-mesenchymal transition,top_candidate_score_too_low,0,-5,xml_table_wrap,Specific primer sequence for qPCR
+PMC12812879,41561636,necroptosis,top_candidate_score_too_low,0,-10,xml_table_wrap,Primer sequences.
+PMC12819958,41391060,inflammation,no_candidate,0,,,
+PMC12824887,41578779,cuproptosis,extraction_failed,0,0,xml_table_wrap,Analysis of Survival Prognosis of Cuproptosis-Related Genes
+PMC12825148,41584042,hypoxia,extracted,31,14,xml_supp,Supplementary tables.
+PMC12825420,41584048,hypoxia,no_candidate,0,,,
+PMC12826202,41560064,cuproptosis,extraction_failed,0,0,xml_supp,medi-105-e47163-s001.docx
+PMC12830534,41420065,oxidative stress,extracted,29,2,xml_table_wrap,Univariate Cox analysis of oxidative stress risk genes
+PMC12832467,41601652,apoptosis,no_candidate,0,,,
+PMC12838421,41423669,ferroptosis,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC12839614,41590357,ferroptosis,no_candidate,0,,,
+PMC12852111,41436831,apoptosis,top_candidate_score_too_low,0,-10,xml_table_wrap,Primer sequences for real-time quantitative PCR.
+PMC12858674,41466155,mitochondrial,extracted,195,0,xml_supp,Supplementary Table 1
+PMC12864644,41469517,cuproptosis,extracted,19,13,zip,"(来自zip: 12672_2025_4373_MOESM1_ESM.zip, 内部文件名: Supplementary Tables.xlsx)"
+PMC12883759,41668902,exosome,extraction_failed,0,0,xml_table_wrap,Baseline characteristics between the patients in the responsive group and unresponsive group in immunotherapy.
+PMC12885880,41674985,glycolysis,extraction_failed,0,0,xml_table_wrap,Interference sequences
+PMC12890678,41684457,disulfidptosis,extraction_failed,0,0,xml_supp,Supplementaryfile1.docx
+PMC12894601,41546728,lipid metabolism,extracted,32,4,xml_supp,Supplementary Material 5. Table S3. The list of lipid metabolism-related genes
+PMC12897147,41681864,autophagy,extracted,197,0,zip,"(来自zip: cancers-18-00388-s001.zip, 内部文件名: supplementary table 1.xlsx)"
+PMC12903564,41559659,glutamine metabolism,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC12905907,41559666,disulfidptosis,extracted,8,5,zip,"(来自zip: 12935_2026_4182_MOESM2_ESM.zip, 内部文件名: Raw Bioinformatics Data/3.Tables/Table2.RiskResult.xlsx)"
+PMC12906242,41693851,hypoxia,extraction_failed,0,2,xml_supp,Supporting Information  Additional supporting information can be found online in the Supporting Information section. Table S1: The sequences of primers and sgRNAs. Table S2: Elastic net coefficients of the 14 m 6 A‐related prognostic genes. Figure S1: Uncropped full‐length membrane of WB in Figure  7a .
+PMC12907803,41381057,lipid metabolism,no_candidate,0,,,
+PMC12917064,41591656,disulfidptosis,extraction_failed,0,5,xml_supp,Supplementary Material 15: Table S7 The sensitive drugs in the high- and low-risk score groups.
+PMC12923586,41639165,angiogenesis,extracted,195,0,xml_supp,Supplementary Material 1
+PMC12927744,41737777,ferroptosis,top_candidate_score_too_low,0,-2,xml_table_wrap,Relationship Between the Expression of TRMU in HCC Tissues and the Clinical Characteristics of HCC Patients
+PMC12928886,41731838,oxidative stress,extracted,5,7,xml_table_wrap,Coefficients of the prognostic genes.
+PMC12937755,41751324,hypoxia,no_candidate,0,,,
+PMC12968730,41809565,apoptosis,extraction_failed,0,0,xml_supp,"Supporting Information  Additional supporting information can be found online in the Supporting Information section. The 327 patients in the study were divided into a training set of 230 individuals and a validation set of 97 individuals. Table S1 shows the analysis of differences in various variables among the groups. Table S2 presents the comprehensive evaluation indicators for the training and validation sets. Table S3 shows the  p  values for immune cell abundances obtained from immune cell deconvolution. The pathological image feature extraction process is shown in Figure S1. Figure S2 shows the impact of high‐ versus low‐ALOX5 expression on patient prognosis across subgroups stratified by various covariates, along with GSEA of KEGG gene sets, WGCNA, and KEGG enrichment analysis. Figure S3 shows the phenotypic assays of A549 and H1975 cells."
+PMC12971541,41815135,epithelial-mesenchymal transition,top_candidate_score_too_low,0,-10,xml_table_wrap,Primer sequences
+PMC12971998,41816588,mitochondrial,no_candidate,0,,,
+PMC12976212,41821654,autophagy,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC12985219,41827671,apoptosis,extracted,198,0,zip,"(来自zip: cancers-18-00735-s001.zip, 内部文件名: Supplementary Table S2.xlsx)"
+PMC12994022,41812304,autophagy,no_candidate,0,,,
+PMC12998466,41858924,inflammation,extraction_failed,0,10,xml_table_wrap,Univariate and Multivariate Cox Analysis of Overall Survival of HCC Patients Following Radical Surgery
+PMC12999410,41869666,inflammation,extraction_failed,0,0,xml_table_wrap,Baseline characteristics of the included patients.
+PMC13000041,41677965,apoptosis,extraction_failed,0,0,xml_supp,Supplementary Material 2.
+PMC13000064,41678015,glutamine metabolism,no_candidate,0,,,
+PMC13009203,41792142,glycolysis,extraction_failed,0,1,xml_supp,Supplementary Material 11
+PMC13022123,41706247,pyroptosis,extraction_failed,0,0,xml_supp,Supplementary Material 3.
+PMC13050664,41948338,exosome,extracted,197,6,xml_supp,Table1.xlsx
+PMC13059523,41772623,disulfidptosis,extracted,23,0,xml_supp,Supplementary Material 1
+PMC13065012,41955235,cholesterol metabolism,no_candidate,0,,,
+PMC13067177,41969446,disulfidptosis,top_candidate_score_too_low,0,-10,xml_table_wrap,Primer sequences used for qRT-PCR analyses
+PMC13067186,41969462,cuproptosis,extraction_failed,0,0,xml_table_wrap,Baseline characteristics of the training and testing cohorts
+PMC13072260,41972548,disulfidptosis,extracted,6,0,xml_table_wrap,Detailed functional annotation of disulfidptosis-related genes in esophageal cancer.
+PMC13072332,41976367,mitochondrial,extracted,180,10,zip,"(来自zip: cancers-18-01144-s001.zip, 内部文件名: Table S1.xlsx)"
+PMC13077813,41787436,cuproptosis,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC13083393,41793596,autophagy,extracted,11,8,xml_table_wrap,11 C-ARGs and their coefficients
+PMC13086716,40392448,inflammation,extraction_failed,0,0,xml_supp,Supplementary file4 (XLSX 15 KB)
+PMC13095739,42023218,pyroptosis,extraction_failed,0,0,xml_table_wrap,Relationship between neoplasm recurrence and clinicopathological features of TNBC.
+PMC13096283,41820703,apoptosis,extraction_failed,0,0,xml_supp,Supplementary Material 6.
+PMC13100239,41824163,cuproptosis,no_candidate,0,,,
+PMC13125098,42064080,disulfidptosis,top_candidate_score_too_low,0,-5,xml_table_wrap,Sequences of the primers used for RT–PCR validation.
+PMC13138313,42089102,epithelial-mesenchymal transition,extraction_failed,0,7,xml_supp,"Published EMT/NSCLC prognostic signatures summarized by cancer type, gene list/size, assay platform, endpoints ( e.g ., OS/DFS), validation strategy, and PubMed links."
+PMC13140268,41902657,autophagy,extracted,198,6,xml_supp,Supporting Information 7  Table S6: The correlation between the risk score (RS) and 22 types of TIICs in CRC was displayed.
+PMC13154570,41913195,disulfidptosis,extraction_failed,0,0,xml_supp,Supplementary Material 1.
+PMC13162693,42122127,cellular senescence,no_candidate,0,,,
+PMC13166465,42116352,cuproptosis,extraction_failed,0,0,xml_supp,medi-105-e48729-s001.docx
+PMC13172236,41933075,ferroptosis,extraction_failed,0,0,xml_supp,Supplementary Material 3.
+PMC13179569,42141926,oxidative stress,extraction_failed,0,0,xml_table_wrap,Patient characteristics of GBM patients in the TCGA datasets.
+PMC13180353,42153148,apoptosis,extraction_failed,0,0,xml_supp,Wester blot  CORO1A expression levels
+PMC13183084,42158360,apoptosis,no_candidate,0,,,
+PMC13188033,42169872,autophagy,no_candidate,0,,,
+PMC13190119,42182752,autophagy,extracted,28,3,xml_table_wrap,PH assumption test for 68 candidate genes
+PMC13190656,42180975,ferroptosis,extracted,8,15,xml_table_wrap,Multivariate Cox regression coefficients of the 8-gene prognostic model
+PMC13190658,42180976,ferroptosis,no_candidate,0,,,
+PMC13190771,42180928,lipid metabolism,no_candidate,0,,,
+PMC13190949,42180923,lipid metabolism,no_candidate,0,,,
+PMC13191005,42180897,cholesterol metabolism,no_candidate,0,,,
+PMC13194531,42180059,ferroptosis,extracted,3,0,xml_table_wrap,Expression characteristics of key FRLs.
+PMC13199574,41952003,oxidative stress,extraction_failed,0,0,xml_supp,Supplementary Material 1.
+PMC13200625,42199837,autophagy,extraction_failed,0,6,xml_supp,Supplementary Tables
+PMC13201555,41935137,oxidative stress,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC13201811,41975138,exosome,no_candidate,0,,,
+PMC13201820,41973179,glycolysis,extracted,199,3,xml_supp,Supplementary Material 2.
+PMC13201825,41979697,ferroptosis,extraction_failed,0,0,xml_supp,Supplementary Material 1.
+PMC13226520,42238598,disulfidptosis,extracted,195,0,xml_supp,Table1.xlsx
+PMC13234083,42018095,glycolysis,extraction_failed,0,0,xml_supp,Supplementary Material 5. Table S1 Baseline Characteristics of the study population.
+PMC13234113,42018081,pyroptosis,extraction_failed,0,5,xml_table_wrap,Results of GSEA enrichment analysis for high and low risk of risk score based on TCGA-CRC dataset
+PMC13237520,42212377,glycolysis,no_candidate,0,,,
+PMC13239323,42212700,cuproptosis,extracted,29,2,xml_table_wrap,Univariate Cox regression analysis of 41 cuproptosis‐related genes significantly associated with disease‐free survival in BC patients.
+PMC13243164,42029881,cuproptosis,extracted,10,10,xml_table_wrap,Results of univariate and multivariate cox regression analyses of cuproptosis-related LncRNAs in training group
+PMC13254102,42292425,autophagy,extraction_failed,0,0,xml_supp,Table1.docx
+PMC13265212,42305499,disulfidptosis,extraction_failed,0,0,xml_table_wrap,The clinical traits of COAD patients in training and verification sets
+PMC13267736,42306048,ferroptosis,no_candidate,0,,,
+PMC13280462,42326762,exosome,no_candidate,0,,,
+PMC13285077,42071198,cuproptosis,extracted,19,4,xml_supp,Supplementary Material 1.
+PMC13287189,42084694,ferroptosis,extraction_failed,0,0,xml_supp,Supplementary Material 5.
+PMC13292858,42359387,angiogenesis,extraction_failed,0,0,xml_table_wrap,Optimized siRNA Constructs Targeting Human SPP1 ( NM_000582.3 ) and Human SLCO2A1 ( NM_005630.3 )
+PMC13296827,42347829,immune,extraction_failed,0,0,xml_supp,Table S1:  Spearman correlation analysis of immune gene expression and immune cell infiltration from the TCGA database.
+PMC13312397,39781726,necroptosis,no_candidate,0,,,
+PMC13319833,42370567,disulfidptosis,extraction_failed,0,0,xml_supp,Supplemental material - Prognostic characteristics of disulfidptosis-related genes across cancers and their potential implications in osteosarcoma
+PMC13333213,42402362,pyroptosis,extracted,2,4,xml_table_wrap,Multivariate Cox regression analysis of 2 PRGs associated with OS in LUAD patients.
+PMC13345288,42418409,oxidative stress,extraction_failed,0,0,xml_supp,Collection of raw data.  (XLSX)
+PMC13350611,42154180,pyroptosis,extraction_failed,0,0,xml_supp,Supplementary Material 1.
+PMC13355264,42436777,pyroptosis,extraction_failed,0,0,xml_table_wrap,Characteristics of the development and validation cohorts
+PMC13357082,42445419,mitochondrial,no_candidate,0,,,
+PMC13357108,42445428,ferroptosis,no_candidate,0,,,
+PMC13357114,42445408,immune,no_candidate,0,,,
+PMC13361779,42445360,immune,extracted,3,0,xml_table_wrap,Data Source
+PMC13365117,42159885,disulfidptosis,extraction_failed,0,0,xml_table_wrap,siRNA sequences targeting  AL356417.2
+PMC13374139,42343374,mitochondrial,extraction_failed,0,0,xml_supp,Supplementary material 9
+PMC13375994,42177720,exosome,extraction_failed,0,4,xml_table_wrap,Univariate and multivariate Cox regression in the TCGA-BRCA cohort
+PMC13381424,42184045,lipid metabolism,extracted,7,11,xml_table_wrap,Linear partial coefficients (coef) of prognostic genes obtained by multivariate Cox regression
+PMC13384851,42483177,pyroptosis,extracted,195,0,xml_supp,DataSheet1.csv
+PMC13393646,42494653,immune,extracted,198,6,xml_supp,Supplementary material 2
+PMC13400501,42262432,cuproptosis,extraction_failed,0,0,xml_supp,Supplementary Material 1.
+PMC13406133,42499033,immune,no_candidate,0,,,
+PMC13406258,42499036,immune,extracted,8,8,xml_supp,medi-105-e49607-s005.xlsx
+PMC13410346,42524197,immune,extraction_failed,0,7,zip,"(来自zip: jcav17p1295s2.zip, 内部文件名: Table S8_Multi-cohort validation of the 12-gene RiskScore (TCGA-trained vs locally refitted coefficients).csv)"
+PMC13412633,42513296,immune,extraction_failed,0,4,xml_table_wrap,Cox regression analysis of the prognostic signature and clinicopathological variables.
+PMC13414059,42506409,lipid metabolism,extracted,197,9,zip,"(来自zip: metabolites-16-00455-s001.zip, 内部文件名: metabolites-4334953-Table S2.xlsx)"
+PMC13414110,42528570,glycolysis,extraction_failed,0,0,xml_supp,DataSheet1.docx
+PMC13415572,42469385,immune,extraction_failed,0,2,xml_supp,Supplementary Material 6
+PMC13415585,42528797,immune,extraction_failed,0,2,zip,"(来自zip: DataSheet1.zip, 内部文件名: Supplementary/Supplementary Table S2.xlsx)"
+PMC13417714,42529575,immune,extracted,29,2,xml_table_wrap,Univariate Cox regression analysis.
+PMC13423694,42539530,ferroptosis,extraction_failed,0,0,xml_supp,Table1.docx
+PMC13428733,42096008,disulfidptosis,extraction_failed,0,0,xml_supp,Supplementary Material 1.
+PMC13433831,42547969,immune,extracted,192,6,xml_supp,Table S2:  Gene symbols included in all co‐expression modules identified from the GEO and TCGA datasets using WGCNA.
+PMC13437700,42558555,inflammation,extracted,21,9,xml_supp,LASSO regression coefficients of 21 CIRGs.
+PMC13439775,42550740,lipid metabolism,extracted,197,6,xml_supp,Sup Table 1.xlsx
+PMC13442788,42228288,ferroptosis,extraction_failed,0,0,xml_supp,Supplementary Material 1.
+PMC13443017,42564384,immune,extraction_failed,0,4,zip,"(来自zip: csbj.0196.f1.zip, 内部文件名: Supplementary_tables.xlsx)"
+PMC13454080,42243619,disulfidptosis,extraction_failed,0,0,xml_supp,"Supplementary Material 1. Figure S1. Prognostic validation of MKLN1-AS in the GEO GSE76427 external cohort. (A) ROC curve for 2, 4 and 6-year overall survival (OS); (B) Time-dependent AUC curve showing the increase of predictive efficacy for 2, 4 and 6 years; (C) Kaplan-Meier survival curve comparing OS between MKLN1-AS high- and low-expression groups (p = 0.0035). Figure S2. The correlation of MKLN1-AS with disulfidptosis-inhibiting genes. (A–E) Pearson correlation analysis between MKLN1-AS and five disulfidptosis-inhibiting genes (NUBPL, NDUFA11, OXSM, NDUFS1, GYS1) in the TCGA-LIHC cohort. (F–J) Expression levels of NUBPL, NDUFA11, OXSM, NDUFS1, and GYS1 in MKLN1-AS high- and low-expression groups from the TCGA-LIHC cohort (Student’s t-test, *p &lt; 0.05, **p &lt; 0.01, ***p &lt; 0.001, ****p &lt; 0.0001)."
+PMC13459943,42583106,immune,no_candidate,0,,,
+PMC13464395,42185987,lipid metabolism,extraction_failed,0,0,xml_supp,Supplementary Material 1.
+PMC13467775,42597332,immune,extraction_failed,0,0,xml_supp,DataSheet1.csv
+PMC13469028,42584769,hypoxia,extraction_failed,0,7,xml_table_wrap,Comparison of the hypoxia-related gene prognostic model constructed in this study with published models
+PMC13469272,42334668,mitochondrial,extraction_failed,0,0,xml_supp,Supplementary Material 1
+PMC13480840,42601732,oxidative stress,no_candidate,0,,,
+PMC13481506,42614290,ferroptosis,extracted,198,5,xml_supp,Table2.xlsx
+PMC13481913,42274952,necroptosis,extracted,199,0,xml_supp,Supplementary Material 1.
+PMC13490468,42259854,autophagy,extracted,4,5,xml_supp,Supplementary Material 1
+PMC13501256,42638932,immune,top_candidate_score_too_low,0,-10,xml_table_wrap,The primers utilized in this study.
+PMC13502803,42629666,immune,extraction_failed,0,0,xml_supp,medi-105-e50176-s001.docx
+PMC13504365,42643623,immune,extraction_failed,0,2,xml_supp,Supporting Information 5  Table S3: Results of univariate Cox regression analysis.
+PMC13507163,42607524,immune,no_candidate,0,,,
+PMC13526731,42321590,cuproptosis,extraction_failed,0,9,xml_table_wrap,Univariate and multivariate Cox regression analyses for overall survival (extended model;  n  = 212 complete cases)
+PMC7485734,32852285,cancer stem cell,extraction_failed,0,0,xml_table_wrap,Clinical baseline data for patients with LIHC.
+PMC7523182,33042807,glutamine metabolism,extraction_failed,0,6,xml_table_wrap,Univariate and multivariate Cox regression analysis of clinical pathologic features for survival of GBM in three datasets (TCGA/CGGA/GEO).
+PMC8489121,34659539,epithelial-mesenchymal transition,extraction_failed,0,1,xml_table_wrap,Association between the expression of Vimentin and clinico-pathological features in patients with endometrial cancer (n=311)
+PMC8513715,34659346,epithelial-mesenchymal transition,extracted,199,1,xml_supp,Click here for additional data file.
+PMC8546174,34712696,N6-methyladenosine,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC8554059,34722623,epithelial-mesenchymal transition,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC8554127,34721523,N6-methyladenosine,extracted,197,1,xml_supp,Click here for additional data file.
+PMC8568524,34745388,N6-methyladenosine,no_candidate,0,,,
+PMC8585518,34777460,N6-methyladenosine,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC8607649,34802433,N6-methyladenosine,extracted,32,12,xml_supp,Additional file 8: Table S4.  The relationship between risk score and survival in 33 kinds of tumors.
+PMC8643173,34876833,N6-methyladenosine,extraction_failed,0,4,xml_table_wrap,C-Index for Nomogram Model and Prognostic Factors
+PMC8648947,34950253,N6-methyladenosine,extracted,184,6,xml_supp,(XLSX 133 kb)
+PMC8654911,34880375,epithelial-mesenchymal transition,extracted,198,7,xml_supp,Supplementary Table S3.
+PMC8753132,35036605,epithelial-mesenchymal transition,extraction_failed,0,10,xml_table_wrap,Univariate and multivariate Cox analysis of the 12-gene signature in the two LUAD cohorts.
+PMC8767716,35042477,N6-methyladenosine,extracted,198,21,xml_supp,"Additional file2: 
+ Table S1:  Each sample in the CESC cohort is divided into two clusters based on cluster analysis.  Table S2:  m6A and lncRNA genes derived from the CESC cohort.  Table S3:  Expression relationship between m6A and lncRNA in the CESC cohort.  Table S4:  Clinical characteristics of each sample in the CESC cohort.  Table S5:  Tumour microenvironmental characteristics of each sample in the CESC cohort.  Table S6:  Tumour microenvironment stromal score, immune score, and total tumour microenvironment score for each sample in the CESC cohort.  Table S7:  Construction of an independent prognostic model for the CESC cohort: factors and coefficients.  Table S8:  Survival time and survival status, lncRNA coefficient, risk score, and high/low risk classification for each sample in the CESC cohort."
+PMC8790065,35095893,N6-methyladenosine,no_candidate,0,,,
+PMC8795518,35095892,epithelial-mesenchymal transition,extracted,29,2,xml_table_wrap,Univariate Cox regression analysis of 31 EMT-related genes in EC in the training set.
+PMC8806718,34474642,cancer stem cell,extraction_failed,0,0,xml_table_wrap,Screening of CRGs
+PMC8828356,35154513,N6-methyladenosine,no_candidate,0,,,
+PMC8872195,35205261,epithelial-mesenchymal transition,extraction_failed,0,17,xml_table_wrap,"Age of diagnosis, FIGO stage, pathological grade, PLOE mutation status, P53 mutation status, MSI status, risk score, and immune score were analyzed by univariate Cox regression with the overall survival in TCGA-UCEC dataset. Then, those parameters with  p -value lower than 0.5 were enrolled for multivariate Cox regression analysis."
+PMC8883700,35220962,N6-methyladenosine,extraction_failed,0,11,xml_table_wrap,Cox regression analyses for overall survival in patients with LUSC from TCGA
+PMC8922360,35300127,N6-methyladenosine,no_candidate,0,,,
+PMC8927984,35311131,N6-methyladenosine,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC8933961,35303965,N6-methyladenosine,extracted,120,5,xml_supp,Additional file 3.
+PMC9115802,35601490,N6-methyladenosine,extracted,9,1,xml_table_wrap,Nine lncRNAs obtained by LASSO-Cox regression.
+PMC9163712,35669515,N6-methyladenosine,extracted,29,1,xml_table_wrap,The correlation coefficients between the 26 lncRNAs and m6A regulators.
+PMC9170944,35685422,epithelial-mesenchymal transition,extraction_failed,0,9,xml_table_wrap,Univariate and multivariate Cox regression analyses of the risk score model and clinical factors.
+PMC9248105,35778697,N6-methyladenosine,extracted,88,7,xml_supp,Additional file 2:   Supplementary Table S1.
+PMC9334800,35910212,cuproptosis-related ferroptosis,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC9403937,36034976,exosome,no_candidate,0,,,
+PMC9420977,36045691,cuproptosis-related ferroptosis,extracted,9,4,xml_table_wrap,Table 1. Multivariate Cox regression analysis of 10 cuproptosis-related genes associated with overall survival in lower-grade glioma patients.
+PMC9428265,36061188,N6-methyladenosine,extracted,8,0,xml_supp,Click here for additional data file.
+PMC9445491,36081999,exosome,extracted,118,2,xml_supp,Click here for additional data file.
+PMC9445885,36081504,epithelial-mesenchymal transition,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC9477694,36159424,epithelial-mesenchymal transition,extraction_failed,0,0,xml_table_wrap,Gene sets enriched in lung adenocarcinoma
+PMC9509522,36168326,N6-methyladenosine,extraction_failed,0,0,xml_supp,"Supplementary Figure 1: the expression of 9 pyroptosis-related lncRNAs between the high-risk and low-risk groups in human COAD tissues by RT-qPCR (delta Ct).  ∗  p  &lt; 0.05,  ∗∗  p  &lt; 0.01, and  ∗∗  p  &lt; 0.001."
+PMC9536954,36213821,N6-methyladenosine,extraction_failed,0,4,xml_supp,Supplementary material 1. The figure shows the drug sensitivity prediction based on the risk model and the high-risk group is more sensitive to AZ628.
+PMC9549064,36226036,N6-methyladenosine,extraction_failed,0,0,xml_table_wrap,Characteristics of LGGs in the training and validation cohorts
+PMC9563840,36230580,N6-methyladenosine,extracted,5,6,xml_table_wrap,Results of multivariate cox regression analysis of 5 m6A-related eRNAs and their coefficients.
+PMC9741981,35608185,epithelial-mesenchymal transition,extraction_failed,0,3,xml_supp,Appendix S2  Supplementary Tables
+PMC9789946,36566321,exosome,extraction_failed,0,0,xml_supp,Supplementary Table 1.
+PMC9814973,36620585,exosome,extracted,7,4,xml_table_wrap,Multivariate Cox proportional hazards regression analysis.
+PMC9843343,36660731,glutamine metabolism,no_candidate,0,,,
+PMC9853015,36685840,epithelial-mesenchymal transition,extraction_failed,0,8,xml_table_wrap,Multivariate Cox analysis of the training and validation sets.
+PMC9877310,36713586,cuproptosis-related ferroptosis,top_candidate_score_too_low,0,-2,xml_table_wrap,The clinical characteristics of the training and validation cohorts.
+PMC9886487,36726489,exosome,extraction_failed,0,20,xml_supp,"Supplementary Table 1: univariate and multivariate Cox regression analyses of the prognosis-related factors. Supplementary Figure 1: Venn diagram of genes in the TCGA cohort and ERGs. 117 related to ERGs in the TCGA cohort were ascertained. Supplementary Figure 2: selection of ERGs associated with patient prognosis by LASSO regression analysis. (A) The LASSO coefficient profiles of the five genes screened by univariate Cox regression analysis are given. (B) The optimal value of the penalty parameter  λ  is determined by tenfold crossvalidation results. Supplementary Figure 3: the prognostic risk model for evaluating patients was constructed by multivariate Cox proportional hazards regression analysis. Supplementary Figure 4: the connections between the risk score and various clinical characteristics. (A) Difference analysis of the risk score between different survival states. (B) Difference analysis of the risk score between different ages. (C) Difference analysis of the risk score between different tumor stages. (D) Difference analysis of the risk score between different tumor grades. (E) Difference analysis of the risk score between different therapy types. (F) Difference analysis of the risk score between different BRCA1 types. Supplementary Figure 5: assessment of the prognostic power of risk scores and other clinical characteristics. (A, B) Areas under the ROC curve for risk scores and other clinical characteristics in the TCGA and GEO cohorts. (C, D) In the TCGA and GEO cohorts, the reliability of the combination of risk scores and other clinical characteristics was assessed by comparing the AUC values of risk scores, clinical factors, and combinations of clinical factors and risk scores. Supplementary Figure 6: GESA of high- and low-risk groups. (A) The enriched pathways of the high-risk group. (B) The enriched pathways of the low-risk group."
+PMC9899836,36755568,cuproptosis-related ferroptosis,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC9905418,36761024,cellular senescence,extracted,7,14,xml_table_wrap,The regression coefficients 7 CS-related prognostic genes.
+PMC9906058,36760376,cuproptosis-related ferroptosis,extracted,9,14,xml_table_wrap,List of genes and coefficient
+PMC9909968,36778912,epithelial-mesenchymal transition,extraction_failed,0,3,xml_table_wrap,Univariate Cox regression analysis for EMT gene sets by the EMTome website.
+PMC9950399,36843602,glutamine metabolism,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC9998504,36911393,cellular senescence,extracted,6,5,xml_table_wrap,The 6 senescence-related prognostic lncRNA multivariate Cox regression analyses of OS in glioma patients.
+PMC9998511,36910014,epithelial-mesenchymal transition,extraction_failed,0,0,xml_supp,Click here for additional data file.
+PMC9999016,36911392,cuproptosis-related ferroptosis,extraction_failed,0,2,xml_supp,Click here for additional data file.

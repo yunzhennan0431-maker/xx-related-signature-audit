@@ -1,0 +1,618 @@
+pmid,theme,pmcid,has_pmc_link,in_oa_bucket,n_files,downloaded
+42614290,ferroptosis,PMC13481506,True,True,29,True
+42566813,ferroptosis,,False,False,0,False
+42539530,ferroptosis,PMC13423694,True,True,26,True
+42445428,ferroptosis,PMC13357108,True,True,17,True
+42440056,ferroptosis,,False,False,0,False
+42306048,ferroptosis,PMC13267736,True,True,14,True
+42228288,ferroptosis,PMC13442788,True,True,14,True
+42180976,ferroptosis,PMC13190658,True,True,21,True
+42180975,ferroptosis,PMC13190656,True,True,15,True
+42180059,ferroptosis,PMC13194531,True,True,13,True
+42084694,ferroptosis,PMC13287189,True,True,16,True
+41979697,ferroptosis,PMC13201825,True,True,17,True
+41933075,ferroptosis,PMC13172236,True,True,16,True
+41796391,ferroptosis,,False,False,0,False
+41737777,ferroptosis,PMC12927744,True,True,14,True
+41590357,ferroptosis,PMC12839614,True,True,14,True
+41572694,ferroptosis,,False,False,0,False
+41423669,ferroptosis,PMC12838421,True,True,14,True
+41409290,ferroptosis,PMC12705533,True,True,15,True
+41403955,ferroptosis,PMC12702848,True,True,21,True
+41346575,ferroptosis,PMC12672885,True,True,17,True
+41332904,ferroptosis,PMC12666366,True,True,16,True
+41325548,ferroptosis,PMC12668565,True,True,14,True
+41305798,ferroptosis,PMC12643724,True,True,9,True
+41229810,ferroptosis,PMC12603432,True,True,17,True
+41216727,ferroptosis,,False,False,0,False
+41211107,ferroptosis,PMC12592011,True,True,17,True
+41200204,ferroptosis,PMC12585956,True,True,19,True
+41174714,ferroptosis,PMC12577414,True,True,9,True
+41106766,ferroptosis,,False,False,0,False
+42321590,cuproptosis,PMC13526731,True,True,12,True
+42262432,cuproptosis,PMC13400501,True,True,14,True
+42212700,cuproptosis,PMC13239323,True,True,48,True
+42159135,cuproptosis,,False,False,0,False
+42116352,cuproptosis,PMC13166465,True,True,23,True
+42071198,cuproptosis,PMC13285077,True,True,19,True
+42029881,cuproptosis,PMC13243164,True,True,16,True
+41969462,cuproptosis,PMC13067186,True,True,15,True
+41824199,cuproptosis,,False,False,0,False
+41824163,cuproptosis,PMC13100239,True,True,18,True
+41787436,cuproptosis,PMC13077813,True,True,16,True
+41739297,cuproptosis,,False,False,0,False
+41578779,cuproptosis,PMC12824887,True,True,17,True
+41568495,cuproptosis,,False,False,0,False
+41560064,cuproptosis,PMC12826202,True,True,18,True
+41469517,cuproptosis,PMC12864644,True,True,12,True
+41438616,cuproptosis,PMC12721737,True,True,61,True
+41394399,cuproptosis,PMC12695801,True,True,11,True
+41353707,cuproptosis,PMC12796055,True,True,24,True
+41296174,cuproptosis,,False,False,0,False
+41220401,cuproptosis,PMC12598532,True,True,18,True
+41196839,cuproptosis,,False,False,0,False
+41194198,cuproptosis,PMC12587622,True,True,17,True
+41169526,cuproptosis,PMC12569579,True,True,13,True
+41152153,cuproptosis,PMC12567641,True,True,19,True
+40904599,cuproptosis,PMC12402859,True,True,16,True
+40889458,cuproptosis,,False,False,0,False
+40866730,cuproptosis,,False,False,0,False
+40861807,cuproptosis,PMC12374941,True,True,13,True
+40764403,cuproptosis,PMC12325781,True,True,16,True
+42530271,pyroptosis,,False,False,0,False
+42483177,pyroptosis,PMC13384851,True,True,31,True
+42436777,pyroptosis,PMC13355264,True,True,17,True
+42402362,pyroptosis,PMC13333213,True,True,14,True
+42154180,pyroptosis,PMC13350611,True,True,16,True
+42023218,pyroptosis,PMC13095739,True,True,19,True
+42018081,pyroptosis,PMC13234113,True,True,22,True
+41706247,pyroptosis,PMC13022123,True,True,14,True
+41467099,pyroptosis,PMC12744581,True,True,13,True
+41378027,pyroptosis,PMC12686173,True,True,15,True
+41116817,pyroptosis,PMC12535707,True,True,18,True
+41025546,pyroptosis,PMC12481447,True,True,14,True
+40951345,pyroptosis,PMC12425727,True,True,16,True
+40918134,pyroptosis,PMC12408283,True,True,21,True
+40895325,pyroptosis,PMC12390916,True,False,0,False
+40792135,pyroptosis,PMC12335712,True,True,16,True
+40761791,pyroptosis,PMC12318951,True,True,13,True
+40680042,pyroptosis,PMC12273967,True,True,29,True
+40535818,pyroptosis,PMC12171010,True,True,17,True
+40115919,pyroptosis,PMC11921290,True,True,14,True
+40091022,pyroptosis,PMC11912741,True,True,16,True
+40018411,pyroptosis,PMC11864952,True,True,19,True
+39834603,pyroptosis,PMC11745560,True,True,14,True
+39695414,pyroptosis,PMC11657507,True,True,17,True
+39692974,pyroptosis,PMC11656000,True,True,20,True
+39600633,pyroptosis,PMC11588584,True,True,17,True
+39565540,pyroptosis,PMC11579272,True,True,16,True
+39548036,pyroptosis,PMC11568093,True,True,14,True
+39492777,pyroptosis,,False,False,0,False
+39438534,pyroptosis,PMC11496652,True,True,17,True
+42597273,disulfidptosis,PMC13468262,True,False,0,False
+42370567,disulfidptosis,PMC13319833,True,True,19,True
+42360660,disulfidptosis,,False,False,0,False
+42305499,disulfidptosis,PMC13265212,True,True,15,True
+42243619,disulfidptosis,PMC13454080,True,True,12,True
+42238598,disulfidptosis,PMC13226520,True,True,18,True
+42228246,disulfidptosis,,False,False,0,False
+42227538,disulfidptosis,,False,False,0,False
+42159885,disulfidptosis,PMC13365117,True,True,11,True
+42096008,disulfidptosis,PMC13428733,True,True,18,True
+42064080,disulfidptosis,PMC13125098,True,True,19,True
+41972548,disulfidptosis,PMC13072260,True,True,13,True
+41969446,disulfidptosis,PMC13067177,True,True,23,True
+41913195,disulfidptosis,PMC13154570,True,True,14,True
+41772623,disulfidptosis,PMC13059523,True,True,14,True
+41684457,disulfidptosis,PMC12890678,True,True,13,True
+41591656,disulfidptosis,PMC12917064,True,True,31,True
+41559666,disulfidptosis,PMC12905907,True,True,25,True
+41403951,disulfidptosis,PMC12702948,True,True,14,True
+41343099,disulfidptosis,PMC12779885,True,True,13,True
+41305807,disulfidptosis,PMC12643716,True,True,11,True
+41246257,disulfidptosis,PMC12614471,True,False,0,False
+41234897,disulfidptosis,PMC12605202,True,True,16,True
+41234845,disulfidptosis,PMC12605368,True,True,15,True
+41169393,disulfidptosis,PMC12568621,True,True,14,True
+41063164,disulfidptosis,PMC12505621,True,True,19,True
+41054252,disulfidptosis,PMC12710123,True,True,16,True
+40950677,disulfidptosis,PMC12432606,True,True,16,True
+40905868,disulfidptosis,,False,False,0,False
+40853395,disulfidptosis,PMC12378281,True,True,17,True
+42515887,necroptosis,,False,False,0,False
+42274952,necroptosis,PMC13481913,True,True,21,True
+41561636,necroptosis,PMC12812879,True,True,12,True
+41180485,necroptosis,PMC12579482,True,True,28,True
+41158264,necroptosis,PMC12554494,True,True,18,True
+40895543,necroptosis,PMC12391139,True,True,18,True
+40893939,necroptosis,PMC12391097,True,True,21,True
+40740228,necroptosis,PMC12305588,True,True,12,True
+40596554,necroptosis,PMC12219082,True,True,19,True
+40530113,necroptosis,PMC12170285,True,True,16,True
+40104746,necroptosis,PMC11912044,True,True,18,True
+39974401,necroptosis,PMC11833364,True,True,16,True
+39781726,necroptosis,PMC13312397,True,True,13,True
+39747333,necroptosis,PMC11696111,True,True,13,True
+39655212,necroptosis,PMC11625674,True,True,15,True
+39641162,necroptosis,,False,False,0,False
+39333335,necroptosis,PMC11437100,True,True,13,True
+39315163,necroptosis,PMC11417173,True,True,16,True
+39309864,necroptosis,PMC11415698,True,True,14,True
+39263127,necroptosis,PMC11387247,True,True,12,True
+39253245,necroptosis,PMC11381599,True,True,18,True
+39213052,necroptosis,PMC11380221,True,True,38,True
+39115788,necroptosis,,False,False,0,False
+39081870,necroptosis,PMC11288355,True,True,11,True
+38872949,necroptosis,PMC11170320,True,True,20,True
+38797018,necroptosis,PMC11152745,True,True,31,True
+38635069,necroptosis,PMC11026213,True,True,30,True
+38546403,necroptosis,PMC11042952,True,True,13,True
+38439879,necroptosis,PMC10909728,True,True,20,True
+38383747,necroptosis,PMC10881509,True,True,12,True
+42542475,autophagy,,False,False,0,False
+42367125,autophagy,,False,False,0,False
+42292425,autophagy,PMC13254102,True,True,20,True
+42276250,autophagy,,False,False,0,False
+42259854,autophagy,PMC13490468,True,True,15,True
+42199837,autophagy,PMC13200625,True,True,19,True
+42182752,autophagy,PMC13190119,True,True,18,True
+42169872,autophagy,PMC13188033,True,True,14,True
+41902657,autophagy,PMC13140268,True,True,41,True
+41821654,autophagy,PMC12976212,True,True,14,True
+41812304,autophagy,PMC12994022,True,True,12,True
+41793596,autophagy,PMC13083393,True,True,15,True
+41681864,autophagy,PMC12897147,True,True,12,True
+41479192,autophagy,,False,False,0,False
+41298756,autophagy,PMC12657988,True,True,17,True
+41040512,autophagy,PMC12483933,True,True,14,True
+40783519,autophagy,PMC12335101,True,True,22,True
+40686517,autophagy,PMC12274102,True,True,12,True
+40592763,autophagy,PMC12215040,True,True,12,True
+40530112,autophagy,PMC12170119,True,True,17,True
+40489463,autophagy,PMC12148105,True,True,26,True
+40488804,autophagy,PMC12149082,True,True,25,True
+40401006,autophagy,PMC12089887,True,False,0,False
+40330698,autophagy,PMC12051938,True,True,18,True
+40228246,autophagy,PMC11999454,True,True,9,True
+40126694,autophagy,PMC11933596,True,True,18,True
+39838125,autophagy,PMC11751285,True,True,8,True
+39789383,autophagy,PMC11717666,True,True,14,True
+39760097,autophagy,PMC11700244,True,True,51,True
+39640604,autophagy,PMC11619975,True,True,15,True
+42606648,hypoxia,,False,False,0,False
+42584769,hypoxia,PMC13469028,True,True,20,True
+41751324,hypoxia,PMC12937755,True,True,17,True
+41693851,hypoxia,PMC12906242,True,True,40,True
+41584048,hypoxia,PMC12825420,True,True,18,True
+41584042,hypoxia,PMC12825148,True,True,14,True
+41510071,hypoxia,PMC12776241,True,True,14,True
+40933995,hypoxia,PMC12417453,True,True,17,True
+40696736,hypoxia,,False,False,0,False
+40621799,hypoxia,PMC12239816,True,True,22,True
+40593344,hypoxia,,False,False,0,False
+40315225,hypoxia,PMC12047781,True,True,16,True
+39941131,hypoxia,PMC11818358,True,True,13,True
+39663278,hypoxia,,False,False,0,False
+39431298,hypoxia,PMC11504279,True,True,17,True
+39416790,hypoxia,PMC11479907,True,True,13,True
+39385179,hypoxia,PMC11465649,True,True,19,True
+39134603,hypoxia,PMC11319349,True,True,14,True
+38965505,hypoxia,PMC11225160,True,True,14,True
+38902737,hypoxia,PMC11191174,True,True,16,True
+38887298,hypoxia,PMC11181350,True,True,18,True
+38726277,hypoxia,PMC11076246,True,False,0,False
+38700744,hypoxia,PMC11194215,True,True,13,True
+38608147,hypoxia,,False,False,0,False
+38561760,hypoxia,PMC10986118,True,True,13,True
+38496249,hypoxia,PMC10944249,True,True,14,True
+38482057,hypoxia,PMC10933109,True,True,15,True
+38364250,hypoxia,PMC10929800,True,True,15,True
+42528570,glycolysis,PMC13414110,True,True,13,True
+42212377,glycolysis,PMC13237520,True,True,12,True
+42018095,glycolysis,PMC13234083,True,True,20,True
+41973179,glycolysis,PMC13201820,True,True,20,True
+41792142,glycolysis,PMC13009203,True,True,26,True
+41674985,glycolysis,PMC12885880,True,True,20,True
+41345488,glycolysis,PMC12770607,True,True,24,True
+40989165,glycolysis,PMC12452079,True,True,21,True
+40950877,glycolysis,PMC12433139,True,True,14,True
+40842856,glycolysis,PMC12366638,True,True,12,True
+40824331,glycolysis,PMC12361035,True,True,15,True
+40707588,glycolysis,PMC12290113,True,True,14,True
+40687254,glycolysis,PMC12268646,True,True,14,True
+40321814,glycolysis,PMC12047218,True,True,20,True
+40299448,glycolysis,PMC12024913,True,True,14,True
+40264860,glycolysis,PMC12013648,True,True,13,True
+40226108,glycolysis,PMC11982773,True,False,0,False
+40093327,glycolysis,PMC11906445,True,True,21,True
+40047469,glycolysis,,False,False,0,False
+40046063,glycolysis,PMC11880812,True,True,20,True
+40023306,glycolysis,,False,False,0,False
+39507025,glycolysis,PMC11535831,True,True,19,True
+39119106,glycolysis,PMC11308995,True,True,15,True
+38860098,glycolysis,PMC11163994,True,True,13,True
+38685060,glycolysis,PMC11057184,True,True,12,True
+38601183,glycolysis,PMC11005085,True,True,24,True
+38516783,glycolysis,PMC10975023,True,True,13,True
+38337164,glycolysis,,False,False,0,False
+38017469,glycolysis,PMC10683108,True,True,21,True
+42089102,epithelial-mesenchymal transition,PMC13138313,True,True,45,True
+42007152,epithelial-mesenchymal transition,PMC13090938,True,False,0,False
+41815135,epithelial-mesenchymal transition,PMC12971541,True,True,18,True
+41372983,epithelial-mesenchymal transition,PMC12801907,True,True,11,True
+41264061,epithelial-mesenchymal transition,PMC12748320,True,True,12,True
+40950705,epithelial-mesenchymal transition,PMC12432770,True,True,15,True
+39262476,epithelial-mesenchymal transition,PMC11384925,True,True,20,True
+38255198,epithelial-mesenchymal transition,PMC10813330,True,True,19,True
+37990105,epithelial-mesenchymal transition,PMC10663558,True,True,13,True
+37679111,epithelial-mesenchymal transition,,False,False,0,False
+37538794,epithelial-mesenchymal transition,PMC10396438,True,True,13,True
+37443495,epithelial-mesenchymal transition,PMC10344514,True,True,16,True
+37304549,epithelial-mesenchymal transition,PMC10248571,True,True,15,True
+36910014,epithelial-mesenchymal transition,PMC9998511,True,True,13,True
+36778912,epithelial-mesenchymal transition,PMC9909968,True,True,16,True
+36685840,epithelial-mesenchymal transition,PMC9853015,True,True,12,True
+36398231,epithelial-mesenchymal transition,PMC9641461,True,False,0,False
+36159424,epithelial-mesenchymal transition,PMC9477694,True,True,13,True
+36081504,epithelial-mesenchymal transition,PMC9445885,True,True,19,True
+35880752,epithelial-mesenchymal transition,,False,False,0,False
+35685422,epithelial-mesenchymal transition,PMC9170944,True,True,21,True
+35608185,epithelial-mesenchymal transition,PMC9741981,True,True,16,True
+35205261,epithelial-mesenchymal transition,PMC8872195,True,True,15,True
+35095892,epithelial-mesenchymal transition,PMC8795518,True,True,18,True
+35036605,epithelial-mesenchymal transition,PMC8753132,True,True,12,True
+34880375,epithelial-mesenchymal transition,PMC8654911,True,True,14,True
+34722623,epithelial-mesenchymal transition,PMC8554059,True,True,16,True
+34659539,epithelial-mesenchymal transition,PMC8489121,True,True,14,True
+34659346,epithelial-mesenchymal transition,PMC8513715,True,True,17,True
+34532136,epithelial-mesenchymal transition,PMC8421923,True,False,0,False
+42392347,angiogenesis,,False,False,0,False
+42359387,angiogenesis,PMC13292858,True,True,15,True
+41639165,angiogenesis,PMC12923586,True,True,21,True
+41386021,angiogenesis,,False,False,0,False
+41380386,angiogenesis,,False,False,0,False
+41196458,angiogenesis,,False,False,0,False
+41126120,angiogenesis,PMC12542104,True,True,12,True
+41073579,angiogenesis,PMC12514119,True,True,15,True
+40670727,angiogenesis,PMC12334451,True,True,18,True
+40629658,angiogenesis,PMC12237316,True,True,15,True
+40480146,angiogenesis,PMC12169781,True,True,11,True
+40445580,angiogenesis,,False,False,0,False
+40438100,angiogenesis,PMC12117586,True,True,14,True
+40379825,angiogenesis,PMC12084375,True,True,16,True
+40198448,angiogenesis,PMC11978719,True,True,12,True
+40076759,angiogenesis,PMC11900454,True,True,14,True
+39995998,angiogenesis,PMC11849515,True,True,20,True
+39881026,angiogenesis,PMC11780071,True,True,11,True
+39394121,angiogenesis,PMC11470605,True,True,13,True
+39391470,angiogenesis,PMC11466623,True,True,12,True
+39237807,angiogenesis,PMC11377409,True,True,13,True
+39191168,angiogenesis,,False,False,0,False
+39040272,angiogenesis,PMC11261139,True,True,17,True
+39033204,angiogenesis,PMC11264614,True,True,13,True
+38962272,angiogenesis,PMC11220232,True,True,13,True
+38817877,angiogenesis,PMC11134422,True,True,13,True
+38817605,angiogenesis,PMC11137278,True,True,13,True
+38752633,angiogenesis,,False,False,0,False
+38706901,angiogenesis,PMC11064265,True,True,16,True
+38347320,angiogenesis,PMC10861726,True,True,38,True
+42643623,immune,PMC13504365,True,True,22,True
+42638932,immune,PMC13501256,True,True,12,True
+42629666,immune,PMC13502803,True,True,18,True
+42611564,immune,,False,False,0,False
+42607524,immune,PMC13507163,True,True,15,True
+42597332,immune,PMC13467775,True,True,13,True
+42583106,immune,PMC13459943,True,True,16,True
+42564384,immune,PMC13443017,True,True,10,True
+42547969,immune,PMC13433831,True,True,26,True
+42529575,immune,PMC13417714,True,True,9,True
+42528797,immune,PMC13415585,True,True,14,True
+42524197,immune,PMC13410346,True,True,20,True
+42513296,immune,PMC13412633,True,True,15,True
+42499036,immune,PMC13406258,True,True,22,True
+42499033,immune,PMC13406133,True,True,13,True
+42494653,immune,PMC13393646,True,True,15,True
+42482174,immune,,False,False,0,False
+42481779,immune,,False,False,0,False
+42469385,immune,PMC13415572,True,True,30,True
+42465002,immune,PMC13373557,True,False,0,False
+42464188,immune,,False,False,0,False
+42463566,immune,,False,False,0,False
+42445408,immune,PMC13357114,True,True,21,True
+42445360,immune,PMC13361779,True,True,10,True
+42391015,immune,,False,False,0,False
+42365360,immune,,False,False,0,False
+42350345,immune,,False,False,0,False
+42347829,immune,PMC13296827,True,True,16,True
+42340520,immune,,False,False,0,False
+42666044,inflammation,PMC13525396,True,False,0,False
+42558555,inflammation,PMC13437700,True,True,21,True
+42393884,inflammation,,False,False,0,False
+41894176,inflammation,,False,False,0,False
+41869666,inflammation,PMC12999410,True,True,10,True
+41858924,inflammation,PMC12998466,True,True,10,True
+41391060,inflammation,PMC12819958,True,True,18,True
+41201557,inflammation,PMC12595213,True,True,13,True
+41113979,inflammation,PMC12531281,True,False,0,False
+40962473,inflammation,,False,False,0,False
+40606673,inflammation,PMC12213808,True,True,17,True
+40557150,inflammation,PMC12185455,True,True,12,True
+40460813,inflammation,,False,False,0,False
+40392448,inflammation,PMC13086716,True,True,19,True
+40205166,inflammation,PMC11982005,True,True,12,True
+40045861,inflammation,,False,False,0,False
+39932605,inflammation,PMC11813837,True,True,13,True
+39905567,inflammation,PMC11792380,True,True,12,True
+39639610,inflammation,PMC11621381,True,True,11,True
+39572651,inflammation,PMC11582591,True,True,13,True
+39556271,inflammation,PMC11573954,True,True,12,True
+39188937,inflammation,PMC11345533,True,True,12,True
+39145071,inflammation,PMC11319965,True,True,15,True
+39055701,inflammation,PMC11269197,True,True,9,True
+38903179,inflammation,PMC11187284,True,True,15,True
+38778969,inflammation,PMC11109893,True,True,15,True
+38742117,inflammation,PMC11089903,True,True,15,True
+38635528,inflammation,PMC11025768,True,True,15,True
+38616304,inflammation,,False,False,0,False
+38577477,inflammation,PMC10989359,True,True,15,True
+42122127,cellular senescence,PMC13162693,True,True,13,True
+41351089,cellular senescence,,False,False,0,False
+41275062,cellular senescence,PMC12748409,True,True,20,True
+41258196,cellular senescence,PMC12630681,True,True,17,True
+41136974,cellular senescence,PMC12551239,True,True,14,True
+40638021,cellular senescence,PMC12246268,True,True,15,True
+40510161,cellular senescence,PMC12159008,True,True,15,True
+40299498,cellular senescence,PMC12025183,True,True,15,True
+40032765,cellular senescence,PMC11876495,True,True,17,True
+39855898,cellular senescence,PMC11760997,True,True,21,True
+39723224,cellular senescence,PMC11666862,True,True,14,True
+39355236,cellular senescence,PMC11443174,True,True,19,True
+39267750,cellular senescence,PMC11390420,True,True,11,True
+39145087,cellular senescence,PMC11319968,True,True,16,True
+39135779,cellular senescence,PMC11317289,True,True,15,True
+39130410,cellular senescence,PMC11315143,True,True,17,True
+38989417,cellular senescence,PMC11231866,True,True,15,True
+38976093,cellular senescence,PMC11231123,True,True,15,True
+38658505,cellular senescence,PMC11336146,True,True,7,True
+38560217,cellular senescence,PMC10981052,True,True,23,True
+38435998,cellular senescence,PMC10909353,True,True,23,True
+38411939,cellular senescence,,False,False,0,False
+37807645,cellular senescence,,False,False,0,False
+37768206,cellular senescence,PMC10564413,True,True,17,True
+37664030,cellular senescence,PMC10470646,True,True,22,True
+37565732,cellular senescence,,False,False,0,False
+37072128,cellular senescence,PMC10127222,True,True,14,True
+37031510,cellular senescence,,False,False,0,False
+36911393,cellular senescence,PMC9998504,True,True,15,True
+36761024,cellular senescence,PMC9905418,True,True,12,True
+39262465,N6-methyladenosine,PMC11384320,True,True,17,True
+39042347,N6-methyladenosine,,False,False,0,False
+38299031,N6-methyladenosine,PMC10829884,True,True,13,True
+37465899,N6-methyladenosine,,False,False,0,False
+37427112,N6-methyladenosine,PMC10328717,True,True,12,True
+36230580,N6-methyladenosine,PMC9563840,True,True,12,True
+36226036,N6-methyladenosine,PMC9549064,True,True,13,True
+36213821,N6-methyladenosine,PMC9536954,True,True,11,True
+36168326,N6-methyladenosine,PMC9509522,True,True,13,True
+36061188,N6-methyladenosine,PMC9428265,True,True,17,True
+35778697,N6-methyladenosine,PMC9248105,True,True,17,True
+35669515,N6-methyladenosine,PMC9163712,True,True,14,True
+35601490,N6-methyladenosine,PMC9115802,True,True,22,True
+35377983,N6-methyladenosine,,False,False,0,False
+35314871,N6-methyladenosine,PMC11800825,True,False,0,False
+35311131,N6-methyladenosine,PMC8927984,True,True,17,True
+35303965,N6-methyladenosine,PMC8933961,True,True,21,True
+35300127,N6-methyladenosine,PMC8922360,True,True,13,True
+35220962,N6-methyladenosine,PMC8883700,True,True,16,True
+35189585,N6-methyladenosine,,False,False,0,False
+35154513,N6-methyladenosine,PMC8828356,True,True,11,True
+35095893,N6-methyladenosine,PMC8790065,True,True,27,True
+35042477,N6-methyladenosine,PMC8767716,True,True,14,True
+34950253,N6-methyladenosine,PMC8648947,True,True,24,True
+34876833,N6-methyladenosine,PMC8643173,True,True,14,True
+34802433,N6-methyladenosine,PMC8607649,True,True,22,True
+34777460,N6-methyladenosine,PMC8585518,True,True,26,True
+34745388,N6-methyladenosine,PMC8568524,True,True,12,True
+34721523,N6-methyladenosine,PMC8554127,True,True,28,True
+34712696,N6-methyladenosine,PMC8546174,True,True,14,True
+42445419,mitochondrial,PMC13357082,True,True,18,True
+42343374,mitochondrial,PMC13374139,True,True,25,True
+42334668,mitochondrial,PMC13469272,True,True,24,True
+42244509,mitochondrial,PMC13231244,True,False,0,False
+41976367,mitochondrial,PMC13072332,True,True,14,True
+41816588,mitochondrial,PMC12971998,True,True,15,True
+41466155,mitochondrial,PMC12858674,True,True,19,True
+41427247,mitochondrial,PMC12713357,True,True,14,True
+41282991,mitochondrial,PMC12637038,True,True,30,True
+41252049,mitochondrial,PMC12627312,True,True,17,True
+41219819,mitochondrial,PMC12606907,True,True,19,True
+41216283,mitochondrial,PMC12596427,True,True,18,True
+41193924,mitochondrial,PMC12589231,True,True,43,True
+40953006,mitochondrial,PMC12435658,True,True,16,True
+40939431,mitochondrial,,False,False,0,False
+40886211,mitochondrial,PMC12399450,True,True,25,True
+40790033,mitochondrial,PMC12339706,True,True,20,True
+40483519,mitochondrial,PMC12144798,True,True,15,True
+40186721,mitochondrial,PMC11972275,True,True,13,True
+40182032,mitochondrial,PMC11966244,True,True,15,True
+40109861,mitochondrial,PMC11915074,True,True,10,True
+40004017,mitochondrial,PMC11855622,True,True,12,True
+39983884,mitochondrial,,False,False,0,False
+39789247,mitochondrial,PMC11717914,True,True,20,True
+39692950,mitochondrial,PMC11655928,True,True,14,True
+39678889,mitochondrial,PMC11635208,True,True,17,True
+39478854,mitochondrial,PMC11521951,True,True,19,True
+39380996,mitochondrial,PMC11458410,True,True,15,True
+39356352,mitochondrial,,False,False,0,False
+39296545,mitochondrial,PMC11408181,True,True,15,True
+42550740,lipid metabolism,PMC13439775,True,True,18,True
+42506409,lipid metabolism,PMC13414059,True,True,13,True
+42361409,lipid metabolism,,False,False,0,False
+42351260,lipid metabolism,,False,False,0,False
+42185987,lipid metabolism,PMC13464395,True,True,13,True
+42184045,lipid metabolism,PMC13381424,True,True,17,True
+42180928,lipid metabolism,PMC13190771,True,True,19,True
+42180923,lipid metabolism,PMC13190949,True,True,17,True
+41546728,lipid metabolism,PMC12894601,True,True,21,True
+41381057,lipid metabolism,PMC12907803,True,True,14,True
+41291146,lipid metabolism,PMC12748426,True,True,18,True
+41234879,lipid metabolism,PMC12605780,True,True,14,True
+41164132,lipid metabolism,PMC12558797,True,True,13,True
+41158277,lipid metabolism,PMC12554482,True,True,16,True
+40988925,lipid metabolism,PMC12450679,True,True,16,True
+40785668,lipid metabolism,PMC12329739,True,True,10,True
+40779908,lipid metabolism,,False,False,0,False
+40747103,lipid metabolism,PMC12310446,True,True,10,True
+40462127,lipid metabolism,PMC12131485,True,True,22,True
+40460484,lipid metabolism,,False,False,0,False
+40426878,lipid metabolism,PMC12109319,True,True,11,True
+40188284,lipid metabolism,PMC11972318,True,True,14,True
+39827204,lipid metabolism,PMC11742731,True,True,25,True
+39538125,lipid metabolism,PMC11559131,True,True,23,True
+39524444,lipid metabolism,PMC11543460,True,True,19,True
+39463421,lipid metabolism,PMC11514195,True,True,15,True
+39190262,lipid metabolism,PMC11349728,True,True,14,True
+39167955,lipid metabolism,PMC11382126,True,True,14,True
+38720279,lipid metabolism,PMC11080313,True,True,21,True
+38440405,lipid metabolism,PMC10911888,True,True,14,True
+42180897,cholesterol metabolism,PMC13191005,True,True,17,True
+41955235,cholesterol metabolism,PMC13065012,True,True,21,True
+41288805,cholesterol metabolism,PMC12647489,True,True,24,True
+40853516,cholesterol metabolism,PMC12378849,True,True,14,True
+40736630,cholesterol metabolism,PMC12311075,True,True,16,True
+40302802,cholesterol metabolism,PMC12036097,True,True,15,True
+39816559,cholesterol metabolism,PMC11730194,True,True,21,True
+37938654,cholesterol metabolism,PMC10632470,True,True,12,True
+37801479,cholesterol metabolism,PMC10599744,True,True,13,True
+37488496,cholesterol metabolism,PMC10364387,True,True,16,True
+42671485,oxidative stress,,False,False,0,False
+42601732,oxidative stress,PMC13480840,True,True,13,True
+42418409,oxidative stress,PMC13345288,True,True,16,True
+42141926,oxidative stress,PMC13179569,True,True,20,True
+41952003,oxidative stress,PMC13199574,True,True,12,True
+41942838,oxidative stress,,False,False,0,False
+41935137,oxidative stress,PMC13201555,True,True,17,True
+41863163,oxidative stress,,False,False,0,False
+41793564,oxidative stress,,False,False,0,False
+41731838,oxidative stress,PMC12928886,True,True,14,True
+41430351,oxidative stress,PMC12751454,True,True,12,True
+41420065,oxidative stress,PMC12830534,True,True,14,True
+41367017,oxidative stress,PMC12688806,True,True,14,True
+40894479,oxidative stress,PMC12392417,True,True,15,True
+40824414,oxidative stress,PMC12361017,True,True,14,True
+40823088,oxidative stress,PMC12353749,True,True,24,True
+40624187,oxidative stress,PMC12234982,True,True,12,True
+40613299,oxidative stress,,False,False,0,False
+40595862,oxidative stress,PMC12218319,True,True,21,True
+40343143,oxidative stress,PMC12060176,True,True,10,True
+40274661,oxidative stress,,False,False,0,False
+39966531,oxidative stress,PMC11836339,True,True,22,True
+39781724,oxidative stress,,False,False,0,False
+39669999,oxidative stress,PMC11632443,True,True,21,True
+39514138,oxidative stress,PMC11549074,True,True,15,True
+39240371,oxidative stress,,False,False,0,False
+39162393,oxidative stress,,False,False,0,False
+39156675,oxidative stress,PMC11330244,True,True,10,True
+39095620,oxidative stress,PMC11297001,True,True,13,True
+41678015,glutamine metabolism,PMC13000064,True,True,9,True
+41559659,glutamine metabolism,PMC12903564,True,True,16,True
+41463320,glutamine metabolism,PMC12731238,True,True,14,True
+40909968,glutamine metabolism,PMC12405417,True,True,15,True
+40613031,glutamine metabolism,PMC12214765,True,True,13,True
+40113615,glutamine metabolism,PMC11926318,True,True,21,True
+39563436,glutamine metabolism,PMC11577587,True,True,14,True
+39386842,glutamine metabolism,PMC11462029,True,True,15,True
+39300580,glutamine metabolism,PMC11414284,True,True,11,True
+39171464,glutamine metabolism,,False,False,0,False
+38509907,glutamine metabolism,PMC10950510,True,True,19,True
+37387559,glutamine metabolism,PMC10469729,True,True,15,True
+36983244,glutamine metabolism,PMC10056698,True,True,15,True
+36843602,glutamine metabolism,PMC9950399,True,True,18,True
+36660731,glutamine metabolism,PMC9843343,True,True,14,True
+33042807,glutamine metabolism,PMC7523182,True,True,13,True
+42624177,apoptosis,,False,False,0,False
+42158360,apoptosis,PMC13183084,True,True,14,True
+42153148,apoptosis,PMC13180353,True,True,16,True
+41827671,apoptosis,PMC12985219,True,True,18,True
+41820703,apoptosis,PMC13096283,True,True,23,True
+41809565,apoptosis,PMC12968730,True,True,40,True
+41677965,apoptosis,PMC13000041,True,True,18,True
+41635044,apoptosis,,False,False,0,False
+41601652,apoptosis,PMC12832467,True,True,15,True
+41497799,apoptosis,PMC12767437,True,True,87,True
+41436831,apoptosis,PMC12852111,True,True,16,True
+41201629,apoptosis,PMC12595158,True,True,12,True
+41168318,apoptosis,PMC12575726,True,True,14,True
+41013216,apoptosis,PMC12465967,True,True,15,True
+40861804,apoptosis,PMC12374940,True,True,12,True
+40740774,apoptosis,PMC12307155,True,True,20,True
+40679719,apoptosis,PMC12274188,True,True,17,True
+40348840,apoptosis,PMC12065698,True,True,21,True
+39580765,apoptosis,PMC11586327,True,True,23,True
+39577840,apoptosis,,False,False,0,False
+39376659,apoptosis,PMC11456544,True,True,18,True
+39368544,apoptosis,,False,False,0,False
+39082332,apoptosis,,False,False,0,False
+39069260,apoptosis,,False,False,0,False
+39027504,apoptosis,PMC11255503,True,True,14,True
+38894720,apoptosis,PMC11183325,True,True,14,True
+38817872,apoptosis,PMC11134425,True,True,14,True
+38654165,apoptosis,PMC11040954,True,True,17,True
+42326762,exosome,PMC13280462,True,True,13,True
+42177720,exosome,PMC13375994,True,True,10,True
+41975138,exosome,PMC13201811,True,True,13,True
+41948338,exosome,PMC13050664,True,True,13,True
+41668902,exosome,PMC12883759,True,True,15,True
+41612047,exosome,,False,False,0,False
+41204322,exosome,PMC12595647,True,True,17,True
+41054074,exosome,PMC12499833,True,True,18,True
+40994257,exosome,PMC12461108,True,True,16,True
+40900420,exosome,PMC12408422,True,True,13,True
+40890357,exosome,PMC12402452,True,True,15,True
+40816225,exosome,PMC12392321,True,True,18,True
+40665078,exosome,PMC12263527,True,True,16,True
+40380258,exosome,PMC12082951,True,True,18,True
+40155942,exosome,PMC11954311,True,True,14,True
+39960565,exosome,PMC11832983,True,True,15,True
+39847423,exosome,PMC11758802,True,True,19,True
+38761234,exosome,PMC11102376,True,True,14,True
+38728235,exosome,PMC11132023,True,True,12,True
+38577908,exosome,,False,False,0,False
+38293480,exosome,PMC10826312,True,True,18,True
+38186215,exosome,,False,False,0,False
+38021786,exosome,PMC10666655,True,True,23,True
+37800824,exosome,PMC10553194,True,True,20,True
+37371537,exosome,PMC10296256,True,True,17,True
+36726489,exosome,PMC9886487,True,True,15,True
+36620585,exosome,PMC9814973,True,True,18,True
+36566321,exosome,PMC9789946,True,True,20,True
+36081999,exosome,PMC9445491,True,True,12,True
+36034976,exosome,PMC9403937,True,True,13,True
+41234843,cancer stem cell,PMC12605633,True,True,13,True
+38561604,cancer stem cell,,False,False,0,False
+38066053,cancer stem cell,PMC10709318,True,True,15,True
+37455453,cancer stem cell,,False,False,0,False
+37377935,cancer stem cell,PMC10292801,True,True,15,True
+35048799,cancer stem cell,,False,False,0,False
+34474642,cancer stem cell,PMC8806718,True,True,18,True
+32852285,cancer stem cell,PMC7485734,True,True,13,True
+40504362,cuproptosis-related ferroptosis,,False,False,0,False
+39883700,cuproptosis-related ferroptosis,PMC11781745,True,True,25,True
+39825108,cuproptosis-related ferroptosis,PMC11742449,True,True,23,True
+39696618,cuproptosis-related ferroptosis,PMC11657287,True,True,16,True
+39324703,cuproptosis-related ferroptosis,PMC11425647,True,True,18,True
+39270538,cuproptosis-related ferroptosis,,False,False,0,False
+39107713,cuproptosis-related ferroptosis,PMC11302292,True,True,26,True
+38192999,cuproptosis-related ferroptosis,PMC10774034,True,True,18,True
+38058804,cuproptosis-related ferroptosis,PMC10695791,True,False,0,False
+37712959,cuproptosis-related ferroptosis,PMC11798189,True,False,0,False
+37670938,cuproptosis-related ferroptosis,PMC10475834,True,True,12,True
+37622116,cuproptosis-related ferroptosis,PMC10445162,True,True,19,True
+37189176,cuproptosis-related ferroptosis,PMC10184413,True,True,17,True
+37152283,cuproptosis-related ferroptosis,PMC10157051,True,True,14,True
+36911392,cuproptosis-related ferroptosis,PMC9999016,True,True,20,True
+36760376,cuproptosis-related ferroptosis,PMC9906058,True,True,20,True
+36755568,cuproptosis-related ferroptosis,PMC9899836,True,True,14,True
+36713586,cuproptosis-related ferroptosis,PMC9877310,True,True,13,True
+36045691,cuproptosis-related ferroptosis,PMC9420977,True,True,20,True
+35910212,cuproptosis-related ferroptosis,PMC9334800,True,True,17,True

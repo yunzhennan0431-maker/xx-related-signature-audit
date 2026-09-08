@@ -1,0 +1,57 @@
+model,gene,top_celltype,zscore
+PMC12219082_necroptosis_SKCM,TUFM,Tprolif,1.84
+PMC12219082_necroptosis_SKCM,CD53,Mono/Macro,0.88
+PMC12219082_necroptosis_SKCM,KLRC1,NK,2.72
+PMC12219082_necroptosis_SKCM,STAT4,NK,1.61
+PMC12219082_necroptosis_SKCM,IFI35,DC,1.95
+PMC12219082_necroptosis_SKCM,XCL1,NK,2.35
+PMC12219082_necroptosis_SKCM,TAPBP,NK,0.8
+PMC12219082_necroptosis_SKCM,SOD2,Mono/Macro,2.81
+PMC12905907_disulfidptosis_SKCM,UCP2,DC,1.42
+PMC12905907_disulfidptosis_SKCM,TMX4,CD8Tex,1.07
+PMC12905907_disulfidptosis_SKCM,WWTR1,Treg,2.39
+PMC12905907_disulfidptosis_SKCM,CDH19,CD4Tconv,2.61
+PMC12905907_disulfidptosis_SKCM,CD79A,B,2.64
+PMC9420977_cuproptosis_Glioma,FDX1,AC-like Malignant,1.82
+PMC9420977_cuproptosis_Glioma,LIPT1,AC-like Malignant,1.39
+PMC9420977_cuproptosis_Glioma,DLD,NPC-like Malignant,1.43
+PMC9420977_cuproptosis_Glioma,DBT,AC-like Malignant,1.51
+PMC9420977_cuproptosis_Glioma,GCSH,AC-like Malignant,2.01
+PMC9420977_cuproptosis_Glioma,DLAT,AC-like Malignant,1.41
+PMC9420977_cuproptosis_Glioma,SLC31A1,Mono/Macro,1.49
+PMC9420977_cuproptosis_Glioma,ATP7A,Oligodendrocyte,2.23
+PMC9420977_cuproptosis_Glioma,ATP7B,NPC-like Malignant,1.57
+PMC12239816_hypoxia_Glioma,ALOX5,Mono/Macro,2.44
+PMC12239816_hypoxia_Glioma,NGB,NPC-like Malignant,2.12
+PMC12239816_hypoxia_Glioma,SLC2A1,MES-like Malignant,2.18
+PMC12239816_hypoxia_Glioma,ATF3,Mono/Macro,2.07
+PMC12239816_hypoxia_Glioma,OXSR1,NPC-like Malignant,1.69
+PMC12239816_hypoxia_Glioma,SLC2A3,CD8Tex,1.91
+PMC12239816_hypoxia_Glioma,CAPG,Mono/Macro,2.32
+PMC12239816_hypoxia_Glioma,PRDX1,Oligodendrocyte,1.98
+PMC12239816_hypoxia_Glioma,SLC40A1,AC-like Malignant,2.27
+PMC12239816_hypoxia_Glioma,CEBPG,AC-like Malignant,1.13
+PMC12239816_hypoxia_Glioma,RGS4,MES-like Malignant,2.07
+PMC12239816_hypoxia_Glioma,STEAP3,AC-like Malignant,1.61
+PMC12239816_hypoxia_Glioma,HAMP,Mono/Macro,2.47
+PMC12239816_hypoxia_Glioma,RPL8,CD8Tex,0.82
+PMC12239816_hypoxia_Glioma,TF,Oligodendrocyte,2.47
+PMC12239816_hypoxia_Glioma,HMOX1,Mono/Macro,2.27
+PMC12239816_hypoxia_Glioma,RRM2,Malignant,2.43
+PMC12239816_hypoxia_Glioma,VEGFA,MES-like Malignant,2.08
+PMC12239816_hypoxia_Glioma,MAP3K5,AC-like Malignant,2.27
+PMC12239816_hypoxia_Glioma,SESN2,AC-like Malignant,2.05
+PMC12239816_hypoxia_Glioma,XBP1,Mono/Macro,1.76
+PMC12239816_hypoxia_Glioma,NCF2,Mono/Macro,2.32
+PMC12239816_hypoxia_Glioma,SLC1A4,AC-like Malignant,2.45
+PMC12378281_disulfidptosis_AML,AIFM2,Plasma,2.63
+PMC12378281_disulfidptosis_AML,FTMT,Mono/Macro,2.7
+PMC12378281_disulfidptosis_AML,MYB,GMP,1.5
+PMC12378281_disulfidptosis_AML,PRKAA2,HSC,2.47
+PMC12378281_disulfidptosis_AML,PSAT1,Plasma,3.24
+PMC12378281_disulfidptosis_AML,SLC7A11,B,2.66
+PMC12402452_exosome_AML,EXOSC4,EryPro,2.16
+PMC12402452_exosome_AML,TMEM109,Promonocyte,1.71
+PMC12402452_exosome_AML,THBS1,Mono/Macro,3.0
+PMC12402452_exosome_AML,MYH9,Tprolif,2.17
+PMC12402452_exosome_AML,HLA-DRA,B,1.88

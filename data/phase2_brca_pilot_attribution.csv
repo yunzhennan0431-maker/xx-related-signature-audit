@@ -1,0 +1,24 @@
+model,gene,top_celltype,zscore
+PMC13083393_autophagy_BRCA,ATG5,Cancer Epithelial,2.63
+PMC13083393_autophagy_BRCA,SLC1A4,Plasmablasts,2.1
+PMC13083393_autophagy_BRCA,AKT3,Endothelial,1.75
+PMC13083393_autophagy_BRCA,CLTA,Endothelial,0.94
+PMC13083393_autophagy_BRCA,HSPA2,PVL,1.61
+PMC13083393_autophagy_BRCA,MAP2K5,Normal Epithelial,1.92
+PMC13083393_autophagy_BRCA,MAP1LC3B,Endothelial,1.69
+PMC13083393_autophagy_BRCA,ITPR1,Normal Epithelial,1.4
+PMC13083393_autophagy_BRCA,DDIT4,Endothelial,1.74
+PMC13083393_autophagy_BRCA,RPS6KA3,Endothelial,1.96
+PMC13083393_autophagy_BRCA,DAPK1,Myeloid,2.64
+PMC13406258_PCDgenes_BRCA,BRSK2,PVL,2.65
+PMC13406258_PCDgenes_BRCA,CD24,Cancer Epithelial,2.18
+PMC13406258_PCDgenes_BRCA,IFNG,T-cells,2.67
+PMC13406258_PCDgenes_BRCA,LAMB3,Normal Epithelial,2.51
+PMC13406258_PCDgenes_BRCA,PDX1,Cancer Epithelial,2.67
+PMC13406258_PCDgenes_BRCA,PMAIP1,B-cells,1.49
+PMC13406258_PCDgenes_BRCA,SLC7A11,Cancer Epithelial,1.97
+PMC13406258_PCDgenes_BRCA,TRIML2,CAFs,2.51
+PMC11855622_mitophagyE3_BRCA,ARIH1,Normal Epithelial,1.11
+PMC11855622_mitophagyE3_BRCA,SIAH2,Cancer Epithelial,1.91
+PMC11855622_mitophagyE3_BRCA,UBR5,Cancer Epithelial,1.17
+PMC11855622_mitophagyE3_BRCA,WWP2,PVL,1.26

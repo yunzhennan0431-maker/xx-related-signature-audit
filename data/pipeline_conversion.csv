@@ -1,0 +1,618 @@
+pmid,theme,pmcid,has_pmc_link,in_oa_bucket,n_files,downloaded
+42614290,ferroptosis,13481506,True,True,29,True
+42566813,ferroptosis,,False,False,0,False
+42539530,ferroptosis,13423694,True,True,26,True
+42445428,ferroptosis,13357108,True,True,17,True
+42440056,ferroptosis,,False,False,0,False
+42306048,ferroptosis,13267736,True,True,14,True
+42228288,ferroptosis,13442788,True,True,14,True
+42180976,ferroptosis,13190658,True,True,21,True
+42180975,ferroptosis,13190656,True,True,15,True
+42180059,ferroptosis,13194531,True,True,13,True
+42084694,ferroptosis,13287189,True,True,16,True
+41979697,ferroptosis,13201825,True,True,17,True
+41933075,ferroptosis,13172236,True,True,16,True
+41796391,ferroptosis,,False,False,0,False
+41737777,ferroptosis,12927744,True,True,14,True
+41590357,ferroptosis,12839614,True,True,14,True
+41572694,ferroptosis,,False,False,0,False
+41423669,ferroptosis,12838421,True,True,14,True
+41409290,ferroptosis,12705533,True,True,15,True
+41403955,ferroptosis,12702848,True,True,21,True
+41346575,ferroptosis,12672885,True,True,17,True
+41332904,ferroptosis,12666366,True,True,16,True
+41325548,ferroptosis,12668565,True,True,14,True
+41305798,ferroptosis,12643724,True,True,9,True
+41229810,ferroptosis,12603432,True,True,17,True
+41216727,ferroptosis,,False,False,0,False
+41211107,ferroptosis,12592011,True,True,17,True
+41200204,ferroptosis,12585956,True,True,19,True
+41174714,ferroptosis,12577414,True,True,9,True
+41106766,ferroptosis,,False,False,0,False
+42321590,cuproptosis,,False,False,0,False
+42262432,cuproptosis,13400501,True,True,14,True
+42212700,cuproptosis,13239323,True,True,48,True
+42159135,cuproptosis,,False,False,0,False
+42116352,cuproptosis,13166465,True,True,23,True
+42071198,cuproptosis,13285077,True,True,19,True
+42029881,cuproptosis,13243164,True,True,16,True
+41969462,cuproptosis,,,,,
+41824199,cuproptosis,,False,False,0,False
+41824163,cuproptosis,13100239,True,True,18,True
+41787436,cuproptosis,13077813,True,True,16,True
+41739297,cuproptosis,,False,False,0,False
+41578779,cuproptosis,12824887,True,True,17,True
+41568495,cuproptosis,,False,False,0,False
+41560064,cuproptosis,12826202,True,True,18,True
+41469517,cuproptosis,12864644,True,True,12,True
+41438616,cuproptosis,12721737,True,True,61,True
+41394399,cuproptosis,12695801,True,True,11,True
+41353707,cuproptosis,12796055,True,True,24,True
+41296174,cuproptosis,,False,False,0,False
+41220401,cuproptosis,12598532,True,True,18,True
+41196839,cuproptosis,,False,False,0,False
+41194198,cuproptosis,12587622,True,True,17,True
+41169526,cuproptosis,12569579,True,True,13,True
+41152153,cuproptosis,12567641,True,True,19,True
+40904599,cuproptosis,12402859,True,True,16,True
+40889458,cuproptosis,,False,False,0,False
+40866730,cuproptosis,,False,False,0,False
+40861807,cuproptosis,12374941,True,True,13,True
+40764403,cuproptosis,12325781,True,True,16,True
+42530271,pyroptosis,,False,False,0,False
+42483177,pyroptosis,13384851,True,True,31,True
+42436777,pyroptosis,13355264,True,True,17,True
+42402362,pyroptosis,13333213,True,True,14,True
+42154180,pyroptosis,13350611,True,True,16,True
+42023218,pyroptosis,13095739,True,True,19,True
+42018081,pyroptosis,13234113,True,True,22,True
+41706247,pyroptosis,13022123,True,True,14,True
+41467099,pyroptosis,12744581,True,True,13,True
+41378027,pyroptosis,12686173,True,True,15,True
+41116817,pyroptosis,12535707,True,True,18,True
+41025546,pyroptosis,12481447,True,True,14,True
+40951345,pyroptosis,12425727,True,True,16,True
+40918134,pyroptosis,12408283,True,True,21,True
+40895325,pyroptosis,12390916,True,False,0,False
+40792135,pyroptosis,12335712,True,True,16,True
+40761791,pyroptosis,12318951,True,True,13,True
+40680042,pyroptosis,12273967,True,True,29,True
+40535818,pyroptosis,12171010,True,True,17,True
+40115919,pyroptosis,11921290,True,True,14,True
+40091022,pyroptosis,11912741,True,True,16,True
+40018411,pyroptosis,11864952,True,True,19,True
+39834603,pyroptosis,11745560,True,True,14,True
+39695414,pyroptosis,11657507,True,True,17,True
+39692974,pyroptosis,11656000,True,True,20,True
+39600633,pyroptosis,11588584,True,True,17,True
+39565540,pyroptosis,11579272,True,True,16,True
+39548036,pyroptosis,11568093,True,True,14,True
+39492777,pyroptosis,,False,False,0,False
+39438534,pyroptosis,11496652,True,True,17,True
+42597273,disulfidptosis,13468262,True,False,0,False
+42370567,disulfidptosis,13319833,True,True,19,True
+42360660,disulfidptosis,,False,False,0,False
+42305499,disulfidptosis,13265212,True,True,15,True
+42243619,disulfidptosis,13454080,True,True,12,True
+42238598,disulfidptosis,13226520,True,True,18,True
+42228246,disulfidptosis,,False,False,0,False
+42227538,disulfidptosis,,False,False,0,False
+42159885,disulfidptosis,13365117,True,True,11,True
+42096008,disulfidptosis,13428733,True,True,18,True
+42064080,disulfidptosis,13125098,True,True,19,True
+41972548,disulfidptosis,13072260,True,True,13,True
+41969446,disulfidptosis,13067177,True,True,23,True
+41913195,disulfidptosis,13154570,True,True,14,True
+41772623,disulfidptosis,13059523,True,True,14,True
+41684457,disulfidptosis,12890678,True,True,13,True
+41591656,disulfidptosis,12917064,True,True,31,True
+41559666,disulfidptosis,12905907,True,True,25,True
+41403951,disulfidptosis,12702948,True,True,14,True
+41343099,disulfidptosis,12779885,True,True,13,True
+41305807,disulfidptosis,12643716,True,True,11,True
+41246257,disulfidptosis,12614471,True,False,0,False
+41234897,disulfidptosis,12605202,True,True,16,True
+41234845,disulfidptosis,12605368,True,True,15,True
+41169393,disulfidptosis,12568621,True,True,14,True
+41063164,disulfidptosis,12505621,True,True,19,True
+41054252,disulfidptosis,12710123,True,True,16,True
+40950677,disulfidptosis,12432606,True,True,16,True
+40905868,disulfidptosis,,False,False,0,False
+40853395,disulfidptosis,12378281,True,True,17,True
+42515887,necroptosis,,False,False,0,False
+42274952,necroptosis,13481913,True,True,21,True
+41561636,necroptosis,12812879,True,True,12,True
+41180485,necroptosis,12579482,True,True,28,True
+41158264,necroptosis,12554494,True,True,18,True
+40895543,necroptosis,12391139,True,True,18,True
+40893939,necroptosis,12391097,True,True,21,True
+40740228,necroptosis,12305588,True,True,12,True
+40596554,necroptosis,12219082,True,True,19,True
+40530113,necroptosis,12170285,True,True,16,True
+40104746,necroptosis,11912044,True,True,18,True
+39974401,necroptosis,11833364,True,True,16,True
+39781726,necroptosis,13312397,True,True,13,True
+39747333,necroptosis,11696111,True,True,13,True
+39655212,necroptosis,11625674,True,True,15,True
+39641162,necroptosis,,False,False,0,False
+39333335,necroptosis,11437100,True,True,13,True
+39315163,necroptosis,11417173,True,True,16,True
+39309864,necroptosis,11415698,True,True,14,True
+39263127,necroptosis,11387247,True,True,12,True
+39253245,necroptosis,11381599,True,True,18,True
+39213052,necroptosis,11380221,True,True,38,True
+39115788,necroptosis,,False,False,0,False
+39081870,necroptosis,11288355,True,True,11,True
+38872949,necroptosis,11170320,True,True,20,True
+38797018,necroptosis,11152745,True,True,31,True
+38635069,necroptosis,11026213,True,True,30,True
+38546403,necroptosis,11042952,True,True,13,True
+38439879,necroptosis,10909728,True,True,20,True
+38383747,necroptosis,10881509,True,True,12,True
+42542475,autophagy,,False,False,0,False
+42367125,autophagy,,False,False,0,False
+42292425,autophagy,13254102,True,True,20,True
+42276250,autophagy,,False,False,0,False
+42259854,autophagy,13490468,True,True,15,True
+42199837,autophagy,13200625,True,True,19,True
+42182752,autophagy,13190119,True,True,18,True
+42169872,autophagy,13188033,True,True,14,True
+41902657,autophagy,13140268,True,True,41,True
+41821654,autophagy,,,,,
+41812304,autophagy,12994022,True,True,12,True
+41793596,autophagy,13083393,True,True,15,True
+41681864,autophagy,12897147,True,True,12,True
+41479192,autophagy,,False,False,0,False
+41298756,autophagy,12657988,True,True,17,True
+41040512,autophagy,12483933,True,True,14,True
+40783519,autophagy,12335101,True,True,22,True
+40686517,autophagy,,,,,
+40592763,autophagy,,,,,
+40530112,autophagy,12170119,True,True,17,True
+40489463,autophagy,12148105,True,True,26,True
+40488804,autophagy,12149082,True,True,25,True
+40401006,autophagy,12089887,True,False,0,False
+40330698,autophagy,12051938,True,True,18,True
+40228246,autophagy,11999454,True,True,9,True
+40126694,autophagy,11933596,True,True,18,True
+39838125,autophagy,11751285,True,True,8,True
+39789383,autophagy,11717666,True,True,14,True
+39760097,autophagy,11700244,True,True,51,True
+39640604,autophagy,11619975,True,True,15,True
+42606648,hypoxia,,False,False,0,False
+42584769,hypoxia,13469028,True,True,20,True
+41751324,hypoxia,12937755,True,True,17,True
+41693851,hypoxia,12906242,True,True,40,True
+41584048,hypoxia,12825420,True,True,18,True
+41584042,hypoxia,12825148,True,True,14,True
+41510071,hypoxia,12776241,True,True,14,True
+40933995,hypoxia,12417453,True,True,17,True
+40696736,hypoxia,,False,False,0,False
+40621799,hypoxia,12239816,True,True,22,True
+40593344,hypoxia,,False,False,0,False
+40315225,hypoxia,12047781,True,True,16,True
+39941131,hypoxia,11818358,True,True,13,True
+39663278,hypoxia,,False,False,0,False
+39431298,hypoxia,11504279,True,True,17,True
+39416790,hypoxia,11479907,True,True,13,True
+39385179,hypoxia,11465649,True,True,19,True
+39134603,hypoxia,11319349,True,True,14,True
+38965505,hypoxia,11225160,True,True,14,True
+38902737,hypoxia,11191174,True,True,16,True
+38887298,hypoxia,11181350,True,True,18,True
+38726277,hypoxia,11076246,True,False,0,False
+38700744,hypoxia,11194215,True,True,13,True
+38608147,hypoxia,,False,False,0,False
+38561760,hypoxia,10986118,True,True,13,True
+38496249,hypoxia,10944249,True,True,14,True
+38482057,hypoxia,10933109,True,True,15,True
+38364250,hypoxia,10929800,True,True,15,True
+42528570,glycolysis,13414110,True,True,13,True
+42212377,glycolysis,13237520,True,True,12,True
+42018095,glycolysis,13234083,True,True,20,True
+41973179,glycolysis,13201820,True,True,20,True
+41792142,glycolysis,13009203,True,True,26,True
+41674985,glycolysis,12885880,True,True,20,True
+41345488,glycolysis,12770607,True,True,24,True
+40989165,glycolysis,12452079,True,True,21,True
+40950877,glycolysis,12433139,True,True,14,True
+40842856,glycolysis,12366638,True,True,12,True
+40824331,glycolysis,12361035,True,True,15,True
+40707588,glycolysis,12290113,True,True,14,True
+40687254,glycolysis,12268646,True,True,14,True
+40321814,glycolysis,12047218,True,True,20,True
+40299448,glycolysis,12024913,True,True,14,True
+40264860,glycolysis,12013648,True,True,13,True
+40226108,glycolysis,11982773,True,False,0,False
+40093327,glycolysis,11906445,True,True,21,True
+40047469,glycolysis,,False,False,0,False
+40046063,glycolysis,11880812,True,True,20,True
+40023306,glycolysis,,False,False,0,False
+39507025,glycolysis,11535831,True,True,19,True
+39119106,glycolysis,11308995,True,True,15,True
+38860098,glycolysis,11163994,True,True,13,True
+38685060,glycolysis,11057184,True,True,12,True
+38601183,glycolysis,11005085,True,True,24,True
+38516783,glycolysis,10975023,True,True,13,True
+38337164,glycolysis,,False,False,0,False
+38017469,glycolysis,10683108,True,True,21,True
+42089102,epithelial-mesenchymal transition,13138313,True,True,45,True
+42007152,epithelial-mesenchymal transition,13090938,True,False,0,False
+41815135,epithelial-mesenchymal transition,12971541,True,True,18,True
+41372983,epithelial-mesenchymal transition,12801907,True,True,11,True
+41264061,epithelial-mesenchymal transition,12748320,True,True,12,True
+40950705,epithelial-mesenchymal transition,12432770,True,True,15,True
+39262476,epithelial-mesenchymal transition,11384925,True,True,20,True
+38255198,epithelial-mesenchymal transition,10813330,True,True,19,True
+37990105,epithelial-mesenchymal transition,10663558,True,True,13,True
+37679111,epithelial-mesenchymal transition,,False,False,0,False
+37538794,epithelial-mesenchymal transition,,False,False,0,False
+37443495,epithelial-mesenchymal transition,,False,False,0,False
+37304549,epithelial-mesenchymal transition,,False,False,0,False
+36910014,epithelial-mesenchymal transition,,False,False,0,False
+36778912,epithelial-mesenchymal transition,,False,False,0,False
+36685840,epithelial-mesenchymal transition,,False,False,0,False
+36398231,epithelial-mesenchymal transition,,False,False,0,False
+36159424,epithelial-mesenchymal transition,,False,False,0,False
+36081504,epithelial-mesenchymal transition,,False,False,0,False
+35880752,epithelial-mesenchymal transition,,False,False,0,False
+35685422,epithelial-mesenchymal transition,,False,False,0,False
+35608185,epithelial-mesenchymal transition,,False,False,0,False
+35205261,epithelial-mesenchymal transition,,False,False,0,False
+35095892,epithelial-mesenchymal transition,,False,False,0,False
+35036605,epithelial-mesenchymal transition,,False,False,0,False
+34880375,epithelial-mesenchymal transition,,False,False,0,False
+34722623,epithelial-mesenchymal transition,,False,False,0,False
+34659539,epithelial-mesenchymal transition,,False,False,0,False
+34659346,epithelial-mesenchymal transition,,False,False,0,False
+34532136,epithelial-mesenchymal transition,,False,False,0,False
+42392347,angiogenesis,,False,False,0,False
+42359387,angiogenesis,,False,False,0,False
+41639165,angiogenesis,,False,False,0,False
+41386021,angiogenesis,,False,False,0,False
+41380386,angiogenesis,,False,False,0,False
+41196458,angiogenesis,,,,,
+41126120,angiogenesis,,False,False,0,False
+41073579,angiogenesis,,False,False,0,False
+40670727,angiogenesis,,False,False,0,False
+40629658,angiogenesis,,False,False,0,False
+40480146,angiogenesis,,False,False,0,False
+40445580,angiogenesis,,False,False,0,False
+40438100,angiogenesis,,False,False,0,False
+40379825,angiogenesis,,,,,
+40198448,angiogenesis,,False,False,0,False
+40076759,angiogenesis,,False,False,0,False
+39995998,angiogenesis,,False,False,0,False
+39881026,angiogenesis,,False,False,0,False
+39394121,angiogenesis,,False,False,0,False
+39391470,angiogenesis,,False,False,0,False
+39237807,angiogenesis,,False,False,0,False
+39191168,angiogenesis,,False,False,0,False
+39040272,angiogenesis,,False,False,0,False
+39033204,angiogenesis,,False,False,0,False
+38962272,angiogenesis,,False,False,0,False
+38817877,angiogenesis,,False,False,0,False
+38817605,angiogenesis,,False,False,0,False
+38752633,angiogenesis,,,,,
+38706901,angiogenesis,,False,False,0,False
+38347320,angiogenesis,,False,False,0,False
+42643623,immune,,False,False,0,False
+42638932,immune,,False,False,0,False
+42629666,immune,,False,False,0,False
+42611564,immune,,False,False,0,False
+42607524,immune,,False,False,0,False
+42597332,immune,,,,,
+42583106,immune,13459943,True,True,16,True
+42564384,immune,13443017,True,True,10,True
+42547969,immune,13433831,True,True,26,True
+42529575,immune,13417714,True,True,9,True
+42528797,immune,13415585,True,True,14,True
+42524197,immune,13410346,True,True,20,True
+42513296,immune,13412633,True,True,15,True
+42499036,immune,13406258,True,True,22,True
+42499033,immune,13406133,True,True,13,True
+42494653,immune,13393646,True,True,15,True
+42482174,immune,,False,False,0,False
+42481779,immune,,False,False,0,False
+42469385,immune,13415572,True,True,30,True
+42465002,immune,13373557,True,False,0,False
+42464188,immune,,False,False,0,False
+42463566,immune,,False,False,0,False
+42445408,immune,13357114,True,True,21,True
+42445360,immune,13361779,True,True,10,True
+42391015,immune,,False,False,0,False
+42365360,immune,,False,False,0,False
+42350345,immune,,False,False,0,False
+42347829,immune,13296827,True,True,16,True
+42340520,immune,,False,False,0,False
+42666044,inflammation,13525396,True,False,0,False
+42558555,inflammation,13437700,True,True,21,True
+42393884,inflammation,,False,False,0,False
+41894176,inflammation,,False,False,0,False
+41869666,inflammation,12999410,True,True,10,True
+41858924,inflammation,12998466,True,True,10,True
+41391060,inflammation,12819958,True,True,18,True
+41201557,inflammation,12595213,True,True,13,True
+41113979,inflammation,12531281,True,False,0,False
+40962473,inflammation,,False,False,0,False
+40606673,inflammation,12213808,True,True,17,True
+40557150,inflammation,12185455,True,True,12,True
+40460813,inflammation,,False,False,0,False
+40392448,inflammation,13086716,True,True,19,True
+40205166,inflammation,11982005,True,True,12,True
+40045861,inflammation,,False,False,0,False
+39932605,inflammation,11813837,True,True,13,True
+39905567,inflammation,11792380,True,True,12,True
+39639610,inflammation,11621381,True,True,11,True
+39572651,inflammation,11582591,True,True,13,True
+39556271,inflammation,11573954,True,True,12,True
+39188937,inflammation,11345533,True,True,12,True
+39145071,inflammation,11319965,True,True,15,True
+39055701,inflammation,11269197,True,True,9,True
+38903179,inflammation,11187284,True,True,15,True
+38778969,inflammation,11109893,True,True,15,True
+38742117,inflammation,11089903,True,True,15,True
+38635528,inflammation,11025768,True,True,15,True
+38616304,inflammation,,False,False,0,False
+38577477,inflammation,10989359,True,True,15,True
+42122127,cellular senescence,13162693,True,True,13,True
+41351089,cellular senescence,,False,False,0,False
+41275062,cellular senescence,12748409,True,True,20,True
+41258196,cellular senescence,12630681,True,True,17,True
+41136974,cellular senescence,12551239,True,True,14,True
+40638021,cellular senescence,12246268,True,True,15,True
+40510161,cellular senescence,12159008,True,True,15,True
+40299498,cellular senescence,12025183,True,True,15,True
+40032765,cellular senescence,11876495,True,True,17,True
+39855898,cellular senescence,11760997,True,True,21,True
+39723224,cellular senescence,11666862,True,True,14,True
+39355236,cellular senescence,11443174,True,True,19,True
+39267750,cellular senescence,11390420,True,True,11,True
+39145087,cellular senescence,11319968,True,True,16,True
+39135779,cellular senescence,11317289,True,True,15,True
+39130410,cellular senescence,11315143,True,True,17,True
+38989417,cellular senescence,11231866,True,True,15,True
+38976093,cellular senescence,11231123,True,True,15,True
+38658505,cellular senescence,11336146,True,True,7,True
+38560217,cellular senescence,10981052,True,True,23,True
+38435998,cellular senescence,10909353,True,True,23,True
+38411939,cellular senescence,,False,False,0,False
+37807645,cellular senescence,,False,False,0,False
+37768206,cellular senescence,10564413,True,True,17,True
+37664030,cellular senescence,10470646,True,True,22,True
+37565732,cellular senescence,,False,False,0,False
+37072128,cellular senescence,10127222,True,True,14,True
+37031510,cellular senescence,,False,False,0,False
+36911393,cellular senescence,9998504,True,True,15,True
+36761024,cellular senescence,9905418,True,True,12,True
+39262465,N6-methyladenosine,11384320,True,True,17,True
+39042347,N6-methyladenosine,,False,False,0,False
+38299031,N6-methyladenosine,10829884,True,True,13,True
+37465899,N6-methyladenosine,,False,False,0,False
+37427112,N6-methyladenosine,10328717,True,True,12,True
+36230580,N6-methyladenosine,9563840,True,True,12,True
+36226036,N6-methyladenosine,9549064,True,True,13,True
+36213821,N6-methyladenosine,9536954,True,True,11,True
+36168326,N6-methyladenosine,9509522,True,True,13,True
+36061188,N6-methyladenosine,9428265,True,True,17,True
+35778697,N6-methyladenosine,9248105,True,True,17,True
+35669515,N6-methyladenosine,9163712,True,True,14,True
+35601490,N6-methyladenosine,9115802,True,True,22,True
+35377983,N6-methyladenosine,,False,False,0,False
+35314871,N6-methyladenosine,11800825,True,False,0,False
+35311131,N6-methyladenosine,8927984,True,True,17,True
+35303965,N6-methyladenosine,8933961,True,True,21,True
+35300127,N6-methyladenosine,8922360,True,True,13,True
+35220962,N6-methyladenosine,8883700,True,True,16,True
+35189585,N6-methyladenosine,,False,False,0,False
+35154513,N6-methyladenosine,8828356,True,True,11,True
+35095893,N6-methyladenosine,8790065,True,True,27,True
+35042477,N6-methyladenosine,8767716,True,True,14,True
+34950253,N6-methyladenosine,8648947,True,True,24,True
+34876833,N6-methyladenosine,8643173,True,True,14,True
+34802433,N6-methyladenosine,8607649,True,True,22,True
+34777460,N6-methyladenosine,8585518,True,True,26,True
+34745388,N6-methyladenosine,8568524,True,True,12,True
+34721523,N6-methyladenosine,8554127,True,True,28,True
+34712696,N6-methyladenosine,8546174,True,True,14,True
+42445419,mitochondrial,13357082,True,True,18,True
+42343374,mitochondrial,13374139,True,True,25,True
+42334668,mitochondrial,13469272,True,True,24,True
+42244509,mitochondrial,13231244,True,False,0,False
+41976367,mitochondrial,13072332,True,True,14,True
+41816588,mitochondrial,12971998,True,True,15,True
+41466155,mitochondrial,12858674,True,True,19,True
+41427247,mitochondrial,12713357,True,True,14,True
+41282991,mitochondrial,12637038,True,True,30,True
+41252049,mitochondrial,12627312,True,True,17,True
+41219819,mitochondrial,12606907,True,True,19,True
+41216283,mitochondrial,12596427,True,True,18,True
+41193924,mitochondrial,12589231,True,True,43,True
+40953006,mitochondrial,12435658,True,True,16,True
+40939431,mitochondrial,,False,False,0,False
+40886211,mitochondrial,12399450,True,True,25,True
+40790033,mitochondrial,12339706,True,True,20,True
+40483519,mitochondrial,12144798,True,True,15,True
+40186721,mitochondrial,11972275,True,True,13,True
+40182032,mitochondrial,11966244,True,True,15,True
+40109861,mitochondrial,11915074,True,True,10,True
+40004017,mitochondrial,,,,,
+39983884,mitochondrial,,,,,
+39789247,mitochondrial,,,,,
+39692950,mitochondrial,,,,,
+39678889,mitochondrial,,,,,
+39478854,mitochondrial,,,,,
+39380996,mitochondrial,,,,,
+39356352,mitochondrial,,,,,
+39296545,mitochondrial,,,,,
+42550740,lipid metabolism,,,,,
+42506409,lipid metabolism,,,,,
+42361409,lipid metabolism,,,,,
+42351260,lipid metabolism,,,,,
+42185987,lipid metabolism,,,,,
+42184045,lipid metabolism,,,,,
+42180928,lipid metabolism,,,,,
+42180923,lipid metabolism,,,,,
+41546728,lipid metabolism,,,,,
+41381057,lipid metabolism,,,,,
+41291146,lipid metabolism,,,,,
+41234879,lipid metabolism,,,,,
+41164132,lipid metabolism,,,,,
+41158277,lipid metabolism,,,,,
+40988925,lipid metabolism,,,,,
+40785668,lipid metabolism,,,,,
+40779908,lipid metabolism,,,,,
+40747103,lipid metabolism,,,,,
+40462127,lipid metabolism,,,,,
+40460484,lipid metabolism,,,,,
+40426878,lipid metabolism,,,,,
+40188284,lipid metabolism,,,,,
+39827204,lipid metabolism,,,,,
+39538125,lipid metabolism,,,,,
+39524444,lipid metabolism,,,,,
+39463421,lipid metabolism,,,,,
+39190262,lipid metabolism,,,,,
+39167955,lipid metabolism,,,,,
+38720279,lipid metabolism,,,,,
+38440405,lipid metabolism,,,,,
+42180897,cholesterol metabolism,,,,,
+41955235,cholesterol metabolism,,,,,
+41288805,cholesterol metabolism,,,,,
+40853516,cholesterol metabolism,,,,,
+40736630,cholesterol metabolism,,,,,
+40302802,cholesterol metabolism,,,,,
+39816559,cholesterol metabolism,,,,,
+37938654,cholesterol metabolism,,,,,
+37801479,cholesterol metabolism,,,,,
+37488496,cholesterol metabolism,,,,,
+42671485,oxidative stress,,,,,
+42601732,oxidative stress,,,,,
+42418409,oxidative stress,,,,,
+42141926,oxidative stress,,,,,
+41952003,oxidative stress,,,,,
+41942838,oxidative stress,,,,,
+41935137,oxidative stress,,,,,
+41863163,oxidative stress,,,,,
+41793564,oxidative stress,,,,,
+41731838,oxidative stress,,,,,
+41430351,oxidative stress,,,,,
+41420065,oxidative stress,,,,,
+41367017,oxidative stress,,,,,
+40894479,oxidative stress,,,,,
+40824414,oxidative stress,,,,,
+40823088,oxidative stress,,,,,
+40624187,oxidative stress,,,,,
+40613299,oxidative stress,,,,,
+40595862,oxidative stress,,,,,
+40343143,oxidative stress,,,,,
+40274661,oxidative stress,,,,,
+39966531,oxidative stress,,,,,
+39781724,oxidative stress,,,,,
+39669999,oxidative stress,,,,,
+39514138,oxidative stress,,,,,
+39240371,oxidative stress,,,,,
+39162393,oxidative stress,,,,,
+39156675,oxidative stress,,,,,
+39095620,oxidative stress,,,,,
+41678015,glutamine metabolism,,,,,
+41559659,glutamine metabolism,,,,,
+41463320,glutamine metabolism,,,,,
+40909968,glutamine metabolism,,,,,
+40613031,glutamine metabolism,,,,,
+40113615,glutamine metabolism,,,,,
+39563436,glutamine metabolism,,,,,
+39386842,glutamine metabolism,,,,,
+39300580,glutamine metabolism,,,,,
+39171464,glutamine metabolism,,,,,
+38509907,glutamine metabolism,,,,,
+37387559,glutamine metabolism,,,,,
+36983244,glutamine metabolism,,,,,
+36843602,glutamine metabolism,,,,,
+36660731,glutamine metabolism,,,,,
+33042807,glutamine metabolism,,,,,
+42624177,apoptosis,,,,,
+42158360,apoptosis,,,,,
+42153148,apoptosis,,,,,
+41827671,apoptosis,,,,,
+41820703,apoptosis,,,,,
+41809565,apoptosis,,,,,
+41677965,apoptosis,,,,,
+41635044,apoptosis,,,,,
+41601652,apoptosis,,,,,
+41497799,apoptosis,,,,,
+41436831,apoptosis,,,,,
+41201629,apoptosis,,,,,
+41168318,apoptosis,,,,,
+41013216,apoptosis,,,,,
+40861804,apoptosis,,,,,
+40740774,apoptosis,,,,,
+40679719,apoptosis,,,,,
+40348840,apoptosis,,,,,
+39580765,apoptosis,,,,,
+39577840,apoptosis,,,,,
+39376659,apoptosis,,,,,
+39368544,apoptosis,,,,,
+39082332,apoptosis,,,,,
+39069260,apoptosis,,,,,
+39027504,apoptosis,,,,,
+38894720,apoptosis,,,,,
+38817872,apoptosis,,,,,
+38654165,apoptosis,,,,,
+42326762,exosome,,,,,
+42177720,exosome,,,,,
+41975138,exosome,,,,,
+41948338,exosome,,,,,
+41668902,exosome,,,,,
+41612047,exosome,,,,,
+41204322,exosome,,,,,
+41054074,exosome,,,,,
+40994257,exosome,,,,,
+40900420,exosome,,,,,
+40890357,exosome,,,,,
+40816225,exosome,,,,,
+40665078,exosome,,,,,
+40380258,exosome,,,,,
+40155942,exosome,,,,,
+39960565,exosome,,,,,
+39847423,exosome,,,,,
+38761234,exosome,,,,,
+38728235,exosome,,,,,
+38577908,exosome,,,,,
+38293480,exosome,,,,,
+38186215,exosome,,,,,
+38021786,exosome,,,,,
+37800824,exosome,,,,,
+37371537,exosome,,,,,
+36726489,exosome,,,,,
+36620585,exosome,,,,,
+36566321,exosome,,,,,
+36081999,exosome,,,,,
+36034976,exosome,,,,,
+41234843,cancer stem cell,,,,,
+38561604,cancer stem cell,,,,,
+38066053,cancer stem cell,,,,,
+37455453,cancer stem cell,,,,,
+37377935,cancer stem cell,,,,,
+35048799,cancer stem cell,,,,,
+34474642,cancer stem cell,,,,,
+32852285,cancer stem cell,,,,,
+40504362,cuproptosis-related ferroptosis,,,,,
+39883700,cuproptosis-related ferroptosis,,,,,
+39825108,cuproptosis-related ferroptosis,,,,,
+39696618,cuproptosis-related ferroptosis,,,,,
+39324703,cuproptosis-related ferroptosis,,,,,
+39270538,cuproptosis-related ferroptosis,,,,,
+39107713,cuproptosis-related ferroptosis,,,,,
+38192999,cuproptosis-related ferroptosis,,,,,
+38058804,cuproptosis-related ferroptosis,,,,,
+37712959,cuproptosis-related ferroptosis,,,,,
+37670938,cuproptosis-related ferroptosis,,,,,
+37622116,cuproptosis-related ferroptosis,,,,,
+37189176,cuproptosis-related ferroptosis,,,,,
+37152283,cuproptosis-related ferroptosis,,,,,
+36911392,cuproptosis-related ferroptosis,,,,,
+36760376,cuproptosis-related ferroptosis,,,,,
+36755568,cuproptosis-related ferroptosis,,,,,
+36713586,cuproptosis-related ferroptosis,,,,,
+36045691,cuproptosis-related ferroptosis,,,,,
+35910212,cuproptosis-related ferroptosis,,,,,

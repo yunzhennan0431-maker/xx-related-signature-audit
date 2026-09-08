@@ -1,0 +1,25 @@
+model,gene,top_celltype,zscore
+PMC10184413_cuproptosis_ferroptosis_KIRC,TRIB3,Malignant,2.32
+PMC10184413_cuproptosis_ferroptosis_KIRC,SLC2A3,Endothelial,1.94
+PMC10184413_cuproptosis_ferroptosis_KIRC,PML,Endothelial,2.02
+PMC10184413_cuproptosis_ferroptosis_KIRC,CD44,Mono/Macro,1.31
+PMC10184413_cuproptosis_ferroptosis_KIRC,CDKN2A,Pericytes,1.75
+PMC10184413_cuproptosis_ferroptosis_KIRC,MIOX,Epithelial,2.35
+PMC12047218_glycolysis_OS,CHPF,Malignant,1.56
+PMC12047218_glycolysis_OS,RRAGD,Osteoblasts,1.62
+PMC12047218_glycolysis_OS,TPR,Malignant,1.36
+PMC12047218_glycolysis_OS,VCAN,Fibroblasts,1.54
+PMC10469729_glutamine_UCEC,PHGDH,Fibroblasts,1.51
+PMC10469729_glutamine_UCEC,ASRGL1,Fibroblasts,2.04
+PMC10469729_glutamine_UCEC,ASNS,Fibroblasts,1.82
+PMC11504279_hypoxia_PAAD,SLC2A1,Malignant,1.55
+PMC11504279_hypoxia_PAAD,CA9,Malignant,1.63
+PMC11504279_hypoxia_PAAD,PLAU,Fibroblasts,1.69
+PMC13333213_pyroptosis_NSCLC,PRKACA,CD8T,1.13
+PMC13333213_pyroptosis_NSCLC,CASP4,CD8T,0.9
+PMC10564413_senescence_CESC,PTTG1,CD8T,1.8
+PMC10564413_senescence_CESC,E2F1,Malignant,1.28
+PMC10564413_senescence_CESC,CBX7,Endometrial stromal cells,1.7
+PMC10564413_senescence_CESC,SPOP,SMC,1.59
+PMC10564413_senescence_CESC,RPS6KA6,Endometrial stromal cells,1.45
+PMC10564413_senescence_CESC,ABI3,Mono/Macro,1.73

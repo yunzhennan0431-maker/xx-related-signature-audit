@@ -1,0 +1,5 @@
+model,gene,top_celltype,zscore
+PMC8994655_autophagy_lncRNA_STAD,LINC01094,DC,2.46
+PMC8994655_autophagy_lncRNA_STAD,AC005165.1,Fibroblasts,2.56
+PMC8994655_autophagy_lncRNA_STAD,LINC00106,Fibroblasts,1.2
+PMC8637177_glycolysis_lncRNA_LUAD,NR2F2-AS1,B,0.0

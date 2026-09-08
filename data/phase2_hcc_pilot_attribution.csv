@@ -1,0 +1,26 @@
+model,gene,top_celltype,zscore
+PMC12647489_cholesterol_HCC,EPHX2,Malignant cells,1.95
+PMC12647489_cholesterol_HCC,FABP5,TAMs,1.59
+PMC12647489_cholesterol_HCC,SQLE,Malignant cells,2.01
+PMC12647489_cholesterol_HCC,ANXA2,TECs,1.5
+PMC12647489_cholesterol_HCC,ADH4,Malignant cells,2.04
+PMC12647489_cholesterol_HCC,HMGCS2,Malignant cells,2.04
+PMC12647489_cholesterol_HCC,CYP7A1,Malignant cells,2.04
+PMC12647489_cholesterol_HCC,ACADL,Malignant cells,2.04
+PMC13490468_ATIC_HCC,ATIC,Malignant cells,1.87
+PMC13490468_ATIC_HCC,RHEB,Malignant cells,1.11
+PMC13490468_ATIC_HCC,TMEM74,Malignant cells,2.03
+PMC13490468_ATIC_HCC,PRKCD,TAMs,1.95
+PMC9906058_ferroptosis_cuproptosis_HCC,TXNRD1,Malignant cells,1.93
+PMC9906058_ferroptosis_cuproptosis_HCC,FTL,TAMs,1.67
+PMC9906058_ferroptosis_cuproptosis_HCC,GPX4,Malignant cells,1.28
+PMC9906058_ferroptosis_cuproptosis_HCC,PRDX1,Malignant cells,1.38
+PMC9906058_ferroptosis_cuproptosis_HCC,VDAC2,Malignant cells,1.44
+PMC9906058_ferroptosis_cuproptosis_HCC,OTUB1,Malignant cells,1.19
+PMC9906058_ferroptosis_cuproptosis_HCC,NRAS,TECs,1.27
+PMC9906058_ferroptosis_cuproptosis_HCC,SLC38A1,T cells,1.73
+PMC9906058_ferroptosis_cuproptosis_HCC,SLC1A5,TAMs,1.47
+PMC11577587_glutamine_HCC,G6PD,Malignant cells,1.83
+PMC11577587_glutamine_HCC,GPX7,Malignant cells,2.02
+PMC11577587_glutamine_HCC,RRM1,Malignant cells,1.42
+PMC11577587_glutamine_HCC,RRM2,Malignant cells,1.88
