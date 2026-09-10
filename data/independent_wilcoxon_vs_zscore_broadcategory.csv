@@ -1,0 +1,120 @@
+gene,wilcoxon_top_celltype,gold_top_celltype,match_vs_gold,dataset,zscore_top_celltype,wilcoxon_vs_zscore_match,wilcoxon_cat,zscore_cat,cat_match
+ADAM8,Macrophage,Macrophage,True,GSE81861,Macrophage,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+APP,Epithelial,MastCell,False,GSE81861,MastCell,False,Epithelial_mixed,Immune_Hematopoietic,False
+ARMCX2,Macrophage,Macrophage,True,GSE81861,Macrophage,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+BIRC5,Epithelial,Tcell,False,GSE81861,Tcell,False,Epithelial_mixed,Immune_Hematopoietic,False
+CALB2,MastCell,MastCell,True,GSE81861,MastCell,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+CCL11,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+CCL24,Epithelial,Epithelial,True,GSE81861,Epithelial,True,Epithelial_mixed,Epithelial_mixed,True
+CD36,Endothelial,Endothelial,True,GSE81861,Endothelial,True,Stromal_Vascular,Stromal_Vascular,True
+COL3A1,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+CXCL10,Macrophage,Macrophage,True,GSE81861,Macrophage,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+CXCL11,Macrophage,Macrophage,True,GSE81861,Macrophage,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+CXCL12,Fibroblast,Endothelial,False,GSE81861,Endothelial,False,Stromal_Vascular,Stromal_Vascular,True
+CXCL13,Tcell,Tcell,True,GSE81861,Tcell,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+CYP1B1,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+FABP4,Endothelial,Endothelial,True,GSE81861,Endothelial,True,Stromal_Vascular,Stromal_Vascular,True
+FSTL3,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+GABRE,Epithelial,Epithelial,True,GSE81861,Epithelial,True,Epithelial_mixed,Epithelial_mixed,True
+HOXC6,Epithelial,Epithelial,True,GSE81861,Epithelial,True,Epithelial_mixed,Epithelial_mixed,True
+HSPA1A,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+ITLN1,Epithelial,Endothelial,False,GSE81861,Endothelial,False,Epithelial_mixed,Stromal_Vascular,False
+KDR,Endothelial,Endothelial,True,GSE81861,Endothelial,True,Stromal_Vascular,Stromal_Vascular,True
+KIF13B,Epithelial,Epithelial,True,GSE81861,Epithelial,True,Epithelial_mixed,Epithelial_mixed,True
+KLK10,Epithelial,Epithelial,True,GSE81861,Epithelial,True,Epithelial_mixed,Epithelial_mixed,True
+LEF1,Endothelial,Endothelial,True,GSE81861,Endothelial,True,Stromal_Vascular,Stromal_Vascular,True
+LTBP1,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+MEIS2,Fibroblast,MastCell,False,GSE81861,MastCell,False,Stromal_Vascular,Immune_Hematopoietic,False
+MMP1,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+MMP11,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+MMP12,Macrophage,Macrophage,True,GSE81861,Macrophage,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+MMP14,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+MMP3,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+PCSK5,Epithelial,Fibroblast,False,GSE81861,Fibroblast,False,Epithelial_mixed,Stromal_Vascular,False
+S100A4,Tcell,MastCell,False,GSE81861,MastCell,False,Immune_Hematopoietic,Immune_Hematopoietic,True
+SCG2,Epithelial,Epithelial,True,GSE81861,Epithelial,True,Epithelial_mixed,Epithelial_mixed,True
+SLC2A3,Macrophage,Endothelial,False,GSE81861,Endothelial,False,Immune_Hematopoietic,Stromal_Vascular,False
+SPINK1,Epithelial,Epithelial,True,GSE81861,Epithelial,True,Epithelial_mixed,Epithelial_mixed,True
+SPP1,Macrophage,Macrophage,True,GSE81861,Macrophage,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+STC1,MastCell,Macrophage,False,GSE81861,Macrophage,False,Immune_Hematopoietic,Immune_Hematopoietic,True
+TIMP1,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+VCAN,Fibroblast,Fibroblast,True,GSE81861,Fibroblast,True,Stromal_Vascular,Stromal_Vascular,True
+VEGFA,Epithelial,Endothelial,False,GSE81861,Endothelial,False,Epithelial_mixed,Stromal_Vascular,False
+VSIG4,Macrophage,Macrophage,True,GSE81861,Macrophage,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+ZNF532,Fibroblast,Endothelial,False,GSE81861,Endothelial,False,Stromal_Vascular,Stromal_Vascular,True
+ADAM8,Macro,Macro,True,GSE178341,Macro,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+APP,Epi,Endo,False,GSE178341,Endo,False,Epithelial_mixed,Stromal_Vascular,False
+ARMCX2,Fibro,Fibro,True,GSE178341,Fibro,True,Stromal_Vascular,Stromal_Vascular,True
+BIRC5,Epi,TZBTB16,False,GSE178341,TZBTB16,False,Epithelial_mixed,Immune_Hematopoietic,False
+CALB2,Mast,Mast,True,GSE178341,Mast,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+CCL11,Fibro,Fibro,True,GSE178341,Fibro,True,Stromal_Vascular,Stromal_Vascular,True
+CCL24,Macro,Macro,True,GSE178341,Macro,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+CD36,Macro,Peri,False,GSE178341,Peri,False,Immune_Hematopoietic,Stromal_Vascular,False
+COL3A1,Fibro,Fibro,True,GSE178341,Fibro,True,Stromal_Vascular,Stromal_Vascular,True
+CXCL10,Macro,Macro,True,GSE178341,Macro,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+CXCL11,Epi,Mono,False,GSE178341,Mono,False,Epithelial_mixed,Immune_Hematopoietic,False
+CXCL12,Fibro,Fibro,True,GSE178341,Fibro,True,Stromal_Vascular,Stromal_Vascular,True
+CXCL13,TCD8,TCD8,True,GSE178341,TCD8,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+CYP1B1,Endo,Endo,True,GSE178341,Endo,True,Stromal_Vascular,Stromal_Vascular,True
+FABP4,Endo,Peri,False,GSE178341,Peri,False,Stromal_Vascular,Stromal_Vascular,True
+FSTL3,Epi,Schwann,False,GSE178341,Schwann,False,Epithelial_mixed,Stromal_Vascular,False
+GABRE,Epi,Fibro,False,GSE178341,Fibro,False,Epithelial_mixed,Stromal_Vascular,False
+HOXC6,Epi,Peri,False,GSE178341,Peri,False,Epithelial_mixed,Stromal_Vascular,False
+HSPA1A,Macro,Schwann,False,GSE178341,Schwann,False,Immune_Hematopoietic,Stromal_Vascular,False
+ITLN1,Epi,Epi,True,GSE178341,Epi,True,Epithelial_mixed,Epithelial_mixed,True
+KDR,Endo,Endo,True,GSE178341,Endo,True,Stromal_Vascular,Stromal_Vascular,True
+KIF13B,Epi,Epi,True,GSE178341,Epi,True,Epithelial_mixed,Epithelial_mixed,True
+KLK10,Epi,Epi,True,GSE178341,Epi,True,Epithelial_mixed,Epithelial_mixed,True
+LEF1,TCD4,TCD4,True,GSE178341,TCD4,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+LTBP1,Fibro,SmoothMuscle,False,GSE178341,SmoothMuscle,False,Stromal_Vascular,Stromal_Vascular,True
+MEIS2,Endo,Fibro,False,GSE178341,Fibro,False,Stromal_Vascular,Stromal_Vascular,True
+MELTF,Epi,Epi,True,GSE178341,Epi,True,Epithelial_mixed,Epithelial_mixed,True
+MMP1,Fibro,Fibro,True,GSE178341,Fibro,True,Stromal_Vascular,Stromal_Vascular,True
+MMP11,Fibro,Peri,False,GSE178341,Peri,False,Stromal_Vascular,Stromal_Vascular,True
+MMP12,Macro,Macro,True,GSE178341,Macro,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+MMP14,Macro,Fibro,False,GSE178341,Fibro,False,Immune_Hematopoietic,Stromal_Vascular,False
+MMP3,Fibro,Fibro,True,GSE178341,Fibro,True,Stromal_Vascular,Stromal_Vascular,True
+PCSK5,Epi,Schwann,False,GSE178341,Schwann,False,Epithelial_mixed,Stromal_Vascular,False
+S100A4,TCD4,Mono,False,GSE178341,Mono,False,Immune_Hematopoietic,Immune_Hematopoietic,True
+SCG2,Epi,Fibro,False,GSE178341,Fibro,False,Epithelial_mixed,Stromal_Vascular,False
+SLC2A3,Mono,Granulo,False,GSE178341,Granulo,False,Immune_Hematopoietic,Immune_Hematopoietic,True
+SPINK1,Epi,Epi,True,GSE178341,Epi,True,Epithelial_mixed,Epithelial_mixed,True
+SPP1,Macro,Macro,True,GSE178341,Macro,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+STC1,Endo,Endo,True,GSE178341,Endo,True,Stromal_Vascular,Stromal_Vascular,True
+TIMP1,Mono,Fibro,False,GSE178341,Fibro,False,Immune_Hematopoietic,Stromal_Vascular,False
+VCAN,Mono,Mono,True,GSE178341,Mono,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+VEGFA,Epi,Granulo,False,GSE178341,Granulo,False,Epithelial_mixed,Immune_Hematopoietic,False
+VSIG4,Macro,Macro,True,GSE178341,Macro,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+ZNF532,Endo,Peri,False,GSE178341,Peri,False,Stromal_Vascular,Stromal_Vascular,True
+FGF1,CAFs,CAFs,True,BRCA,CAFs,True,Stromal_Vascular,Stromal_Vascular,True
+PPP1R16B,T-cells,T-cells,True,BRCA,T-cells,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+XBP1,Cancer Epithelial,Plasmablasts,False,BRCA,Plasmablasts,False,Malignant,Immune_Hematopoietic,False
+MYDGF,Cancer Epithelial,Plasmablasts,False,BRCA,Plasmablasts,False,Malignant,Immune_Hematopoietic,False
+TPX2,Malignant cells,Malignant cells,True,HCC,Malignant cells,True,Malignant,Malignant,True
+KIF4A,Malignant cells,Malignant cells,True,HCC,Malignant cells,True,Malignant,Malignant,True
+UBE2S,Malignant cells,T cells,False,HCC,T cells,False,Malignant,Immune_Hematopoietic,False
+RAN,Malignant cells,Malignant cells,True,HCC,Malignant cells,True,Malignant,Malignant,True
+BCAR3,Malignant cells,CAFs,False,HCC,CAFs,False,Malignant,Stromal_Vascular,False
+YWHAG,Malignant cells,TECs,False,HCC,TECs,False,Malignant,Stromal_Vascular,False
+RAB11A,Malignant cells,TECs,False,HCC,TECs,False,Malignant,Stromal_Vascular,False
+GPLD1,Malignant cells,Malignant cells,True,HCC,Malignant cells,True,Malignant,Malignant,True
+EPAS1,TECs,TECs,True,HCC,TECs,True,Stromal_Vascular,Stromal_Vascular,True
+GOT2,Malignant cells,Malignant cells,True,HCC,Malignant cells,True,Malignant,Malignant,True
+KDR,TECs,TECs,True,HCC,TECs,True,Stromal_Vascular,Stromal_Vascular,True
+ATF3,TAMs,CAFs,False,HCC,CAFs,False,Immune_Hematopoietic,Stromal_Vascular,False
+KLKB1,Malignant cells,Malignant cells,True,HCC,Malignant cells,True,Malignant,Malignant,True
+SLC22A1,Malignant cells,Malignant cells,True,HCC,Malignant cells,True,Malignant,Malignant,True
+ITGAV,DC,Mono/Macro,False,STAD,Mono/Macro,False,Immune_Hematopoietic,Immune_Hematopoietic,True
+STC1,Endothelial,Endothelial,True,STAD,Endothelial,True,Stromal_Vascular,Stromal_Vascular,True
+SLCO2A1,Endothelial,Endothelial,True,STAD,Endothelial,True,Stromal_Vascular,Stromal_Vascular,True
+NRP1,Endothelial,Endothelial,True,STAD,Endothelial,True,Stromal_Vascular,Stromal_Vascular,True
+POSTN,Fibroblasts,Fibroblasts,True,STAD,Fibroblasts,True,Stromal_Vascular,Stromal_Vascular,True
+VTN,Epithelial,Epithelial,True,STAD,Epithelial,True,Epithelial_mixed,Epithelial_mixed,True
+SERPINA5,Epithelial,Fibroblasts,False,STAD,Fibroblasts,False,Epithelial_mixed,Stromal_Vascular,False
+LPL,DC,DC,True,STAD,DC,True,Immune_Hematopoietic,Immune_Hematopoietic,True
+KCNJ8,Fibroblasts,Fibroblasts,True,STAD,Fibroblasts,True,Stromal_Vascular,Stromal_Vascular,True
+COL5A2,Fibroblasts,Fibroblasts,True,BLCA,Fibroblasts,True,Stromal_Vascular,Stromal_Vascular,True
+JAG1,Myofibroblasts,Myofibroblasts,True,BLCA,Myofibroblasts,True,Stromal_Vascular,Stromal_Vascular,True
+MSX1,Endothelial,Endothelial,True,BLCA,Endothelial,True,Stromal_Vascular,Stromal_Vascular,True
+OLR1,Epithelial,Epithelial,True,BLCA,Epithelial,True,Epithelial_mixed,Epithelial_mixed,True
+STC1,Endothelial,Endothelial,True,BLCA,Endothelial,True,Stromal_Vascular,Stromal_Vascular,True

@@ -10,12 +10,14 @@ This repository accompanies the manuscript *"规模化审计一种诊断结论:�
 
 ## What's here
 
-- `scripts/` — all analysis scripts (01–39), covering: literature search and download (PubMed
+- `scripts/` — all analysis scripts (01–43), covering: literature search and download (PubMed
   E-utilities, PMC Cloud Service), candidate-table scanning and scoring, single-cell reference-atlas
   attribution (z-score method), cross-topic meta-analysis (exact binomial test + Benjamini-Hochberg
   FDR, permutation-based heterogeneity test), candidate-pool tautology screening, duplicate-publication
   screening (gene-set Jaccard + targeted coefficient-level checks), dataset lineage-coverage grading,
-  and figure generation. Scripts are numbered roughly in the order they were developed/run; see
+  figure generation, and an independent-algorithm (Wilcoxon rank-sum) robustness check of the
+  attribution method, including a sample-size-imbalance diagnostic and downsampling correction
+  (scripts 40–43). Scripts are numbered roughly in the order they were developed/run; see
   in-file docstrings for what each one does and which manuscript section it supports.
 - `data/` — processed/intermediate outputs: batch-by-batch manual review records
   (`verified_extractions_batch*.json`), meta-analysis result tables (`phase3_meta_analysis_*.csv`),

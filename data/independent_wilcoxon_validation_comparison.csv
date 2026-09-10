@@ -1,0 +1,120 @@
+gene,wilcoxon_top_celltype,gold_top_celltype,match_vs_gold,dataset
+ADAM8,Macrophage,Macrophage,True,GSE81861
+APP,Epithelial,MastCell,False,GSE81861
+ARMCX2,Macrophage,Macrophage,True,GSE81861
+BIRC5,Epithelial,Tcell,False,GSE81861
+CALB2,MastCell,MastCell,True,GSE81861
+CCL11,Fibroblast,Fibroblast,True,GSE81861
+CCL24,Epithelial,Epithelial,True,GSE81861
+CD36,Endothelial,Endothelial,True,GSE81861
+COL3A1,Fibroblast,Fibroblast,True,GSE81861
+CXCL10,Macrophage,Macrophage,True,GSE81861
+CXCL11,Macrophage,Macrophage,True,GSE81861
+CXCL12,Fibroblast,Endothelial,False,GSE81861
+CXCL13,Tcell,Tcell,True,GSE81861
+CYP1B1,Fibroblast,Fibroblast,True,GSE81861
+FABP4,Endothelial,Endothelial,True,GSE81861
+FSTL3,Fibroblast,Fibroblast,True,GSE81861
+GABRE,Epithelial,Epithelial,True,GSE81861
+HOXC6,Epithelial,Epithelial,True,GSE81861
+HSPA1A,Fibroblast,Fibroblast,True,GSE81861
+ITLN1,Epithelial,Endothelial,False,GSE81861
+KDR,Endothelial,Endothelial,True,GSE81861
+KIF13B,Epithelial,Epithelial,True,GSE81861
+KLK10,Epithelial,Epithelial,True,GSE81861
+LEF1,Endothelial,Endothelial,True,GSE81861
+LTBP1,Fibroblast,Fibroblast,True,GSE81861
+MEIS2,Fibroblast,MastCell,False,GSE81861
+MMP1,Fibroblast,Fibroblast,True,GSE81861
+MMP11,Fibroblast,Fibroblast,True,GSE81861
+MMP12,Macrophage,Macrophage,True,GSE81861
+MMP14,Fibroblast,Fibroblast,True,GSE81861
+MMP3,Fibroblast,Fibroblast,True,GSE81861
+PCSK5,Epithelial,Fibroblast,False,GSE81861
+S100A4,Tcell,MastCell,False,GSE81861
+SCG2,Epithelial,Epithelial,True,GSE81861
+SLC2A3,Macrophage,Endothelial,False,GSE81861
+SPINK1,Epithelial,Epithelial,True,GSE81861
+SPP1,Macrophage,Macrophage,True,GSE81861
+STC1,MastCell,Macrophage,False,GSE81861
+TIMP1,Fibroblast,Fibroblast,True,GSE81861
+VCAN,Fibroblast,Fibroblast,True,GSE81861
+VEGFA,Epithelial,Endothelial,False,GSE81861
+VSIG4,Macrophage,Macrophage,True,GSE81861
+ZNF532,Fibroblast,Endothelial,False,GSE81861
+ADAM8,Macro,Macro,True,GSE178341
+APP,Epi,Endo,False,GSE178341
+ARMCX2,Fibro,Fibro,True,GSE178341
+BIRC5,Epi,TZBTB16,False,GSE178341
+CALB2,Mast,Mast,True,GSE178341
+CCL11,Fibro,Fibro,True,GSE178341
+CCL24,Macro,Macro,True,GSE178341
+CD36,Macro,Peri,False,GSE178341
+COL3A1,Fibro,Fibro,True,GSE178341
+CXCL10,Macro,Macro,True,GSE178341
+CXCL11,Epi,Mono,False,GSE178341
+CXCL12,Fibro,Fibro,True,GSE178341
+CXCL13,TCD8,TCD8,True,GSE178341
+CYP1B1,Endo,Endo,True,GSE178341
+FABP4,Endo,Peri,False,GSE178341
+FSTL3,Epi,Schwann,False,GSE178341
+GABRE,Epi,Fibro,False,GSE178341
+HOXC6,Epi,Peri,False,GSE178341
+HSPA1A,Macro,Schwann,False,GSE178341
+ITLN1,Epi,Epi,True,GSE178341
+KDR,Endo,Endo,True,GSE178341
+KIF13B,Epi,Epi,True,GSE178341
+KLK10,Epi,Epi,True,GSE178341
+LEF1,TCD4,TCD4,True,GSE178341
+LTBP1,Fibro,SmoothMuscle,False,GSE178341
+MEIS2,Endo,Fibro,False,GSE178341
+MELTF,Epi,Epi,True,GSE178341
+MMP1,Fibro,Fibro,True,GSE178341
+MMP11,Fibro,Peri,False,GSE178341
+MMP12,Macro,Macro,True,GSE178341
+MMP14,Macro,Fibro,False,GSE178341
+MMP3,Fibro,Fibro,True,GSE178341
+PCSK5,Epi,Schwann,False,GSE178341
+S100A4,TCD4,Mono,False,GSE178341
+SCG2,Epi,Fibro,False,GSE178341
+SLC2A3,Mono,Granulo,False,GSE178341
+SPINK1,Epi,Epi,True,GSE178341
+SPP1,Macro,Macro,True,GSE178341
+STC1,Endo,Endo,True,GSE178341
+TIMP1,Mono,Fibro,False,GSE178341
+VCAN,Mono,Mono,True,GSE178341
+VEGFA,Epi,Granulo,False,GSE178341
+VSIG4,Macro,Macro,True,GSE178341
+ZNF532,Endo,Peri,False,GSE178341
+FGF1,CAFs,CAFs,True,BRCA
+PPP1R16B,T-cells,T-cells,True,BRCA
+XBP1,Cancer Epithelial,Plasmablasts,False,BRCA
+MYDGF,Cancer Epithelial,Plasmablasts,False,BRCA
+TPX2,Malignant cells,Malignant cells,True,HCC
+KIF4A,Malignant cells,Malignant cells,True,HCC
+UBE2S,Malignant cells,T cells,False,HCC
+RAN,Malignant cells,Malignant cells,True,HCC
+BCAR3,Malignant cells,CAFs,False,HCC
+YWHAG,Malignant cells,TECs,False,HCC
+RAB11A,Malignant cells,TECs,False,HCC
+GPLD1,Malignant cells,Malignant cells,True,HCC
+EPAS1,TECs,TECs,True,HCC
+GOT2,Malignant cells,Malignant cells,True,HCC
+KDR,TECs,TECs,True,HCC
+ATF3,TAMs,CAFs,False,HCC
+KLKB1,Malignant cells,Malignant cells,True,HCC
+SLC22A1,Malignant cells,Malignant cells,True,HCC
+ITGAV,DC,Mono/Macro,False,STAD
+STC1,Endothelial,Endothelial,True,STAD
+SLCO2A1,Endothelial,Endothelial,True,STAD
+NRP1,Endothelial,Endothelial,True,STAD
+POSTN,Fibroblasts,Fibroblasts,True,STAD
+VTN,Epithelial,Epithelial,True,STAD
+SERPINA5,Epithelial,Fibroblasts,False,STAD
+LPL,DC,DC,True,STAD
+KCNJ8,Fibroblasts,Fibroblasts,True,STAD
+COL5A2,Fibroblasts,Fibroblasts,True,BLCA
+JAG1,Myofibroblasts,Myofibroblasts,True,BLCA
+MSX1,Endothelial,Endothelial,True,BLCA
+OLR1,Epithelial,Epithelial,True,BLCA
+STC1,Endothelial,Endothelial,True,BLCA
