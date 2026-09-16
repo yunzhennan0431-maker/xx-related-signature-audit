@@ -1,0 +1,315 @@
+pmcid,revised_verdict,source,gene_count_reported,evidence
+PMC9886487,likely_hit(regex),regex_scan,,"risk score = (−0.038 × expression level of USF1) + (−0.057 × expression level of SNRPA1) + (−0.019 × expression level of PIGR) + (−0.008 × expression level of MRPL15).  In the training set, low-risk patients always had longer survival times, lower ri"
+PMC10709318,hit,second_coder_manual,10,LASSO筛选后经多因素Cox建立最终10基因，表格1，有公式验证
+PMC8872195,unreviewed_no_flag,none,,"risk score作为临床协变量,不含基因层面系数"
+PMC12149082,unreviewed_no_flag,none,,"riskscore作为临床协变量,不含基因层面系数"
+PMC12825148,unreviewed_no_flag,none,,"10个sheet的补充表主要是TCGA癌种缩写词典+免疫微环境分析表,未在检查过的sheet里找到基因系数模型,未逐一穷尽全部10个sheet"
+PMC8607649,hit,second_coder_manual,9,LASSO-Cox最终建立9-lncRNA膀胱癌m6A-RLPS，有具体数据和公式
+PMC8883700,likely_hit(regex),regex_scan,,risk score = (− 0.03323723 × expression of FAM71F1) + (0.07068792 × expression of MT1E) + (0.04196110 × expression of MYEOV).Table 3 Prognostic m6A-related genes for LUSC in TCGA and GSE43131  Gene symbol	TCGA-univariate Cox results	GEO-univariate Co
+PMC10663558,likely_hit(regex),regex_scan,,"RiskScore = 0.320889050455719 * EZH2 + 0.144247872403908 * S100A9 + 0.079363749195301 * TNFRSF11B − 0.0968623157103071 * SPINK5-0.0819194509885345 * CCL21. Patients with HCC in the two cohorts had risk scores were calculated, and based on the median "
+PMC11521951,likely_hit(regex),regex_scan,,Risk Score=(0.348)×Exp(RPL23)+(0.247)×Exp(PKM2)+(0.203)×Exp(MRPS12)+(−0.184)×Exp(NDUFC2)+(−0.129)×Exp(HPDL)+(−0.219)×Exp(MRPL14)+(−0.272)×Exp(COA6)+(0.253)×Exp(FGFR1OP2)+(−0.217)×Exp(RNF144B)+(0.370)×Exp(CAPN10)+(0.342)×Exp(ALDH1L1)+(−3.780)×Exp(ACSM
+PMC12710123,unreviewed_no_flag,none,,"336个基因的单因素Cox筛选结果(screening阶段),不是最终模型"
+PMC12998466,unreviewed_no_flag,none,,"是临床实验室指标(AFP/NLR/PLR/GPR/APRI/PNI/FLR等),完全不是基因数据"
+PMC13072332,hit,second_coder_manual,2,Risk score=0.269×LPCAT1+0.33×MRPL9，有具体数据
+PMC8753132,likely_hit(regex),regex_scan,,Risk Score = 0.08 × geneExp (TYMS) + 0.03 × geneExp (ADAM12) + 0.01 × geneExp (GJB2) + 0.08 × geneExp (KRT8) + 0.04 × geneExp (LYPD3) + 0.01 × geneExp (ECT2) + 0.09 × geneExp (ADM) – 0.14 × geneExp (PSTPIP1) – 0.06 × geneExp (NDRG2) – 0.05 × geneExp 
+PMC11792380,likely_hit(regex),regex_scan,,Risk score = (IL-6 value * 0.05196) + (SII value * 0.00029) + (Ki-67 value * −0.01468) + (PLR value * 0.00109).  The patients were divided into low- and high-risk groups based on the median risk score. Survival curves were analyzed using the Kaplan–M
+PMC11961922,hit,second_coder_manual,14,给出14个最终CpG特征及各自系数，有公式验证
+PMC9589509,likely_hit(regex),regex_scan,,risk score = (0.136) × PFKFB4 expression + (0.042) × EDNRA expression + 0.169 × GSN expression +(-0.013) × GAS1 expression + (0.065) × PAPPA expression + (0.134) × DTL expression + (0.018) × TGFBI expression + (0.036) × PRSS8 expression + (−0.134) × 
+PMC9246616,unreviewed_no_flag,none,,"figure legends only (expression validation figures), no coefficient table captured"
+PMC11031923,hit,second_coder_manual,2,Risk score = −0.1918×ERLIN2 + 0.5254×CDK5RAP3
+PMC9382191,unreviewed_no_flag,none,,"univariate + multivariate Cox tables for clinical variables (age/gender/stage) with 'Risk' as a single composite score, not the underlying gene-level coefficients of the risk model itself"
+PMC9246272,hit,second_coder_manual,5,HCC m7G相关模型经LASSO最终确定WDR4、EIF4E、NCBP1、NCBP2、NUDT1五基因，图片2f有具体数据
+PMC9229147,unreviewed_no_flag,none,,"figure legends only (PPI network, CAF-correlation figures), no coefficient table captured"
+PMC13140166,miss,second_coder_manual,6？,最终使用LUM、DCN、SFRP2、CCDC80、SFRP4、GREM1六个基因构建CRC预后模型，无公式，也不是系数加权计算
+PMC13053443,hit,second_coder_manual,11,LASSO-Cox从候选CAF膜基因中得到11个非零系数基因，有具体数据
+PMC12479282,likely_hit(regex),regex_scan,,Risk score=(0.166×expression of LARS1)+(0.130×expression of TXNRD1)-(0.107×expression of GOT2)+(0.101×expression of NAALAD2)-(0.076×expression of CSAD)+(0.069×expression of SMOX)-(0.061×expression of ACAT1)-(0.058×expression of FTCD)+(0.039×expressio
+PMC11153201,unreviewed_no_flag,none,,"univariate Cox screening table (98 genes), pre-selection stage not final multivariate/LASSO model"
+PMC8556945,unreviewed_no_flag,none,,"univariate Cox screening table for individual lncRNAs (training-cohort DFS association), pre-selection stage not final model"
+PMC8298711,likely_hit(regex),regex_scan,,"Risk score = 0.060 × hsa_circ_0000280 + 0.004 × hsa_circ_0000437 + 0.032 × hsa_circ_0001085 − 0.006 × hsa_circ_0002100 − 0.075 × hsa_circ_0001747. The essential information of these five circRNAs is shown in Table 2. Then, patients were divided into "
+PMC7789410,hit,second_coder_manual,9,risk score = (− 0.000113463 × expression level of TP53) + (− 0.000547732× expression level of RAE1) + (0.000969504× expression level of RFC2) + (− 0.000234564 × expression level of TAF10) + (− 0.001461235 × expression level of DDB2) + (0.000779442 × expression level of UMPS) + (− 0.001201708 × expression level of TAF12) + (0.000378192 × expression level of ERCC2) + (− 7.04E-05× expression level of SEC61A1). 
+PMC13229660,unreviewed_no_flag,none,,"univariate/multivariate Cox table for clinical variables with 'Risk score' as a single composite predictor, not the underlying gene-level coefficients"
+PMC12585065,unreviewed_no_flag,none,,"univariate Cox screening table (41 anoikis-related DEGs), pre-selection stage not final LASSO model"
+PMC12382188,likely_hit(regex),regex_scan,,"Risk Score = 0.358×LITAF + 0.268×OSMR + (-0.274) ×TCF12. Z-score normalization stratified patients into high-/low-risk groups. The model demonstrated robust predictive capacity in TCGA (1-year AUC = 0.74, 3-year AUC = 0.71) and CGGA_693 cohorts (1-ye"
+PMC11409092,likely_hit(regex),regex_scan,,"Riskscore= (9.97 × TAP1 expression level) + (6.35 × APOE expression level) + (−15.05 × CFTR expression level) + (−5.55 × MMP9 expression level). In addition, through Statistical Package for the Social Sciences (SPSS) software, no multicollinearity wa"
+PMC10873882,hit,second_coder_manual,6,单因素Cox筛得49个lncRNAs，随后LASSO确定最终6-lncRNA ，表格2，有公式验证
+PMC9679378,likely_hit(regex),regex_scan,,risk score = 0.0521608 × ERBB2 expression +0.20999961 × RB1 expression + (−0.0850947) × CCR7 expression + (−0.1610273) × CD38 expression + (−0.2437315) × IFNB1 expression +0.09886907 × ANXA2 expression + (−0.0133657) × CXCL9 expression +0.22922048 × 
+PMC9641162,likely_hit(regex),regex_scan,,"Risk score=(0.0162)×NT5E+(0.0675)×ATG5+(0.0221)×PIK3CA+(0.0352)×IL1R1+(−0.0118)×IL1B+(0.2049)×HSP90AA1+(0.0342)×EIF2AK3+(−0.2703)×MYD88+(0.5396)×IL10+(−0.0987)×CD8A+(−0.1254)×IFNG,  Risk score = sum of coefficients × gene expression level. The coeffi"
+PMC9449120,unreviewed_no_flag,none,,"univariate Cox screening table (201 genes), pre-selection stage not final multivariate model"
+PMC13419606,likely_hit(regex),regex_scan,,"Risk Score=−0.320×KRT27+0.159×KRT80+0.238×KRT16+0.120×KRT81. Using this model, the present study calculated a risk score for each patient and classified them into high- and low-risk groups at the median. Kaplan-Meier analysis confirmed that high-risk"
+PMC13408425,unreviewed_no_flag,none,,"gene-drug association table (IDWAS drug-sensitivity biomarkers), not a prognostic Cox/LASSO model"
+PMC13362542,likely_hit(regex),regex_scan,,Risk Score = (1.963 ×ARC) + (1.590 ×ASCL1) + (7.176 ×CCT5)+ (3.979 ×CENPN) + (−2.202 ×CITED2) + (6.146 ×CSRP2)+ (−8.601 ×HIST1H4C) + (4.027 ×HMGCS1) + (−5.369 ×ITGB3BP)+ (−6.068 ×MIAT) + (−1.980 ×PKIB) + (−6.057 ×POLE4)+ −3.448 ×STAT3 + −9.166 ×TUBA1
+PMC13265210,unreviewed_no_flag,none,,"names a 4-gene core signature (TOP2A/PLK1/CDKN3/CCNB1) built via ensemble ML (StepCox + random survival forest), but no per-gene coefficient table found in text or supplement -- RSF-based models do not produce simple linear weights"
+PMC13141311,miss,second_coder_manual,17？,未发现完整列出17个最终基因各自模型coefficient/weight/HR的表格或展开公式，附件也没有相关数据
+PMC13046747,unreviewed_no_flag,none,,"GeneCards demethylation-related candidate gene database, pre-selection stage not final model"
+PMC12366518,miss,second_coder_manual,？,LASSO、SVM-RFE及RF取交集最终确定18个ARG基因，无具体系数，无表格，无公式验证，全文及补充材料均未说明
+PMC12254108,unreviewed_no_flag,none,,"PANoptosis candidate gene list (363 genes) + clustering-algorithm performance metrics, neither is the final coefficient table"
+PMC12213708,uncertain,second_coder_manual,3？,7个候选预后基因经多因素Cox回归构建最终3基因模型CLEC11A、BDP1、ID3，只有hr值，但无公式验证
+PMC11868076,likely_hit(regex),regex_scan,,risk score=(0.175×SFN expression)+(0.238×CSNK2A1 expression)+(-0.266×RHOB expression)+(0.436×TUBB3 expression +(0.165×SCRIB expression)+ (0.290×SNAI1 expression)+(0.137×CDX2 expression)+(-0.126×SLPI expression). We divided the data into training and 
+PMC11807950,likely_hit(regex),regex_scan,,risk score = PRKN * (− 0.41964285) + PINK1 * (− 0.101309168) + FUNDC1 * (0.070540366) + VDAC1 * (0.454881768) + SQSTM1 * (0.355397067) + PGAM5 * (0.41172356) + MAP1LC3A * (0.248554207) + ATG13 * (− 0.242276733) + TOMM20 * (− 0.767352851) + VPS13C * (
+PMC11799156,unreviewed_no_flag,none,,"clinical characteristics table + anoikis candidate gene database (GeneCards), not final model"
+PMC11576184,uncertain,second_coder_manual,6/3？,只有笼统的公式，没有具体的表格和公式写明风险评分
+PMC11219856,likely_hit(regex),regex_scan,,Risk score = (0.1318 × expression level of TRIM28) + (0.0114 × expression level of PPIA) + (0.3025 × expression level of SOD1) + (0.0247 × expression level of RRP1B) + (0.3596 × expression level of IARS2) + (− 0.0960 × expression level of RB1) + (0.0
+PMC11137026,unreviewed_no_flag,none,,"endoplasmic-reticulum-stress candidate gene list, pre-selection stage not final model"
+PMC10985269,likely_hit(regex),regex_scan,,Risk score = (0.0880 × expression level of ALDOA) + (0.0108 × expression level of DDX39A) + (0.0199 × expression level of H2AX) + (0.2848 × expression level of KIF2C) + (0.0181× expression level of RACGAP1). Univariate and multivariate Cox regression
+PMC10851502,unreviewed_no_flag,none,,"MSigDB DDR candidate gene database + DEG list; caption also references a 'Table 3: 109 DDR-related lncRNAs with prognostic value' but that table was not captured in the downloaded package, and its description (109 genes with prognostic value) suggests a pre-LASSO screening list rather than the final model regardless; no risk-score formula found in main text"
+PMC10620278,likely_hit(regex),regex_scan,,Risk score = 0.240632 × TGFB1 expression + 0.390215 × JSRP1 expression + 0.311506 × HMOX1 expression + 0.645877 × GAPDH expression + 0.406487 × CHRNE expression + 0.231012 × CAV1 expression − 0.41471 × CD74 expression − 0.20355 × ERN2 expression. ERS
+PMC10590872,likely_hit(regex),regex_scan,,"risk score=AC019069.1×0.242+AC092969.1×0.324+LEF1−AS1×−0.160+SCARNA×−0.275+FAM181A−AS1×−0.207+AC023300.2×−0.018+LCMT1−AS2×0.463+AC130371.2×−0.019+TRPM2−AS×−0.036  Subsequently, the UCEC samples were divided into low- and high-risk groups based on the"
+PMC10472577,unreviewed_no_flag,none,,"univariate Cox table of gene-SET/pathway scores (not individual genes), does not match the per-gene coefficient template"
+PMC10174396,unreviewed_no_flag,none,,"univariate Cox screening table of A-to-I RNA-editing loci (bladder cancer), pre-selection stage not final model"
+PMC12170119,unreviewed_no_flag,none,,risk score作为临床协变量
+PMC12215040,likely_hit(regex),regex_scan,,risk score=expression level of ATG9B×0.1167+expression level of HSPA5×0.4158+expression level of ITGA3×0.1545+expression level of RAC1×0.6658. The prognostic risk score for each patient treated with TMZ and RT was calculated in the TCGA training set.
+PMC13414059,hit,second_coder_manual,16,1248个LMRG经单因素Cox筛得19个候选基因，随后LASSO最终确定16基因OSCC预后模型，有公式
+PMC13526731,unreviewed_no_flag,none,,risk score作为临床协变量
+PMC9170944,likely_hit(regex),regex_scan,,Risk score = (–0.124 × AC103760.1 expression) + (–0.113 × AC015908.3 expression) + (–0.027 × LINC02362 expression) + (–0.021 × LINC02499 expression) + (–0.009 × F11.AS1 expression) + (0.02 × LINC00942 expression) + (0.03 × PRRT3.AS1 expression) + (0.
+PMC9853015,likely_hit(regex),regex_scan,,Risk score=CXCR7×−0.0881067640076111+HS3ST1×0.0892716591390481+MMP25×0.0138121800572637+MRVI1×0.0353958603331637+TM4SF1×0.0585011127027571+TPST1×0.0853951015444165  FIGURE 6 Generation of a prognostic model for patients with IPF. (A) The Venn diagram
+PMC10911888,likely_hit(regex),regex_scan,,"RiskScore = 0.122 × SCD3 + 0.145 × MATN3 + 0.120 × SERPINE1 + 0.034 × P3H2 + 0.061 × MMP16 + 0.059 × VTN. Through rigorous validation and multivariate Cox analysis, this model emerged as an autonomous risk determinant for AGC (Table 2). The X-Tile so"
+PMC11666862,likely_hit(regex),regex_scan,,Risk Score = (0.75153351 * AL512330.1) + (0.2607126 * SENCR) + (0.77427193 * LINC02710) + (1.6991026 * AL022328.1)  –  (0.5412946 * AC090559.1) – (1.002949 * AC091271.1).  The median risk score of these 63 samples was calculated to be 0.5806584. Thos
+PMC12273967,hit,second_coder_manual,7,LASSO构建最终7基因COAD预后模型，有具体系数和公式验证
+PMC12361035,hit,second_coder_manual,9,LASSO-Cox最终确定9基因iCCA糖酵解相关预后模型，有具体系数和公式验证
+PMC13410346,miss,second_coder_manual,12？,未找到具体的数据和公式验证，附件中也没有
+PMC8654911,hit,second_coder_manual,7,多因素Cox最终建立7-lncRNA，有具体数据
+PMC11349728,likely_hit(regex),regex_scan,,Risk score = (− 0.396380687286232 × expression of ACSF2) + (− 0.31558848815585 × expression of CHKA) + (1.10759889885893 × expression of CYP46A1) + (− 0.181897730158734 × expression of DBI) + (1.2285520219403 × expression of ENPP7) + (− 0.52292225271
+PMC11781745,likely_hit(regex),regex_scan,,Risk score = 0.134740737082723 * MAGEA12 + 0.327294645435294 * C12orf56–0.290542928969321 * ASRGL1–0.188227916852889 * EREG—0.178355841003148 * RORC—0.160071259389688 * MMP10 + 0.112345147800628 * INHBB. Using the median risk score of patients in the
+PMC11880812,hit,second_coder_manual,10,最终建立10基因糖酵解相关乳腺癌预后模型，有公式验证
+PMC11906445,unreviewed_no_flag,none,,KEGG通路候选基因集
+PMC12408283,likely_hit(regex),regex_scan,,risk score = (0.11836 * BAX) + (0.06145 * TREM2) + (0.49257 * CHMP4B) + (−0.24100 * CHMP3) + (−0.07721 * GBP1) + (−0.22166 * IRF1) + (−0.62887 * CHMP2A) + (−0.07688 * MST1).  Figure 7 Development and confirmation of the predictive model. (A) LASSO an
+PMC12627312,likely_hit(regex),regex_scan,,"Risk score = (0.243 × MAP1B) + (0.254 × PYCR1) + (-0.217 × HSD3B1) + (0.148 × KLK6) + (0.260 × AKR1B15) + (-0.301 × TAT). Applying the median risk score as a cutoff, TCGA-BLCA patients were stratified into distinct high- and low-risk groups. K-M anal"
+PMC13050664,likely_hit(regex),regex_scan,,"Riskscore = -0.066 × CLIC6 + 0.176 × ANLN + 0.12 × FAM83A + 0.113 × RHOV (Figure 3C). This study classified LUAD patients into low-risk and high-risk groups based on Riskscore, and the ROC curve confirmed the reliability of the model in predicting 1-"
+PMC13200625,hit,second_coder_manual,4,经LASSO及多因素Cox建立最终4基因AML预后模型，有具体数据和公式验证
+PMC13433831,unreviewed_no_flag,none,,"WGCNA共表达模块基因(6003个),候选池"
+PMC8648947,likely_hit(regex),regex_scan,,"Risk score = (BAALC-AS1 *0.023) − (MIR324 *0.01) − (MIR191 *0.01) − (MIR25 *0.001) − (AC023509.1 *0.3) − (AL021707.1 *0.08) − (AC026362.1 *0.35) − (GATA2-AS1 *0.01) − (AC012065.2 *0.013) − (HCP5 *0.002) (Fig. 2i–k).  Next, we assessed the prognostic "
+PMC12643724,unreviewed_no_flag,none,,"K折交叉验证AUC结果,非基因数据"
+PMC12917064,unreviewed_no_flag,none,,"caption明确是敏感药物列表(高低风险组),非基因数据,未转换docx"
+PMC13234113,unreviewed_no_flag,none,,"GSEA通路富集结果(Hallmark基因集名称),非逐基因数据"
+PMC13481506,unreviewed_no_flag,none,,"本课题最早期试点(阶段1第一次pilot)看过的论文,6602行全基因组DEG表,非最终模型,再次确认"
+PMC8933961,hit,second_coder_manual,13,单因素Cox后LASSO保留13个lncRNA，有公式验证
+PMC11261139,unreviewed_no_flag,none,,"CRC生存相关基因(仅p值),候选筛选阶段"
+PMC12587622,hit,second_coder_manual,8,CRG_score = −0.97×NICN1 −0.75×TCF12 −0.67×MAPKAPK3 +0.38×JAG2 −0.49×LXNB1 −0.26×NKIRAS1 +0.67×P4HA1 −0.48×SAP30，无表格仅有公式
+PMC12748409,likely_hit(regex),regex_scan,,Risk score = (0.0271 ×expression value of MVK) + (-0.0459 × expression value of ITSN2) + (-0.0749 × expression value of CBX7) + (0.2481 ×expression value of NOTCH3) + (0.1034 × expression value of FOXM1)+ (-0.0861 × expression value of ABI3)+ (0.0823
+PMC12894601,hit,second_coder_manual,4,Risk score=0.0404×S100A9+0.0138×SPP1−0.0598×PON1+0.0320×AKR1B10，有具体数据
+PMC13443017,unreviewed_no_flag,none,,"临床试验生存事件/RECIST响应统计表,非基因数据"
+PMC7523182,unreviewed_no_flag,none,,"GSEA/MSigDB通路基因集,非逐基因模型"
+PMC8643173,unreviewed_no_flag,none,,"Nomogram模型C-index比较表,非基因数据"
+PMC9536954,uncertain,second_coder_manual,5/6？,"six lncRNAs, namely AC015813.1, EMX2OS, LINC00173, LINC01355, PWAR5, and SNHG1 (Figure 3(c)). Risk score = AC015813.1∗(0.0086) + EMX2OS∗(−0.0101)  + LINC00173∗(0.0309) + PWAR5∗(−0.0146) + SNHG1∗(0.0043). 原文有6个lncrna但是公式中只有5个，缺少了linc01355？？？"
+PMC9372236,likely_hit(regex),regex_scan,,risk score = (LDHA × 0.09667454) + (DKK1 × 0.06514894) + (MELTF × 0.02890339) + (VDAC1 × 0.02789367) + (FUT4 × 0.02732278) + (PLK1 × 0.01364355) + (KRT6A × 0.01078567) + (GALNT2 × 0.00537792). Risk scores for each patient in the training set were cal
+PMC9203891,likely_hit(regex),regex_scan,,"Risk score= (-2.4140 × expression level of AXL) + (-1.1539 × expression level of SLC7A11) + (3.5932 × expression level of UBQLN1)  Pearson analysis further confirm strong correlations (all >0.7) between AXL and T cells, SLC7A11 and NK cells, UBQLN1 a"
+PMC6932884,likely_hit(regex),regex_scan,,Risk score = (0.1142 × expression level of DPYSL4) + (0.1982 × expression level of HOMER1) + (0.2647 × expression level of ABCB6) + (0.4603 × expression level of CENPA) + (-0.5359 × expression level of CDK1) + (0.3966 × expression level of STMN1). Us
+PMC7821871,likely_hit(regex),regex_scan,,Risk score = 0.00710 × expression of PGK1 + 0.00187 × expression of SDC1 + 0.05107 × expression of NUP43 + 0.05599 × expression of NT5E + 0.00587 × expression of IL13RA1 + 0.05692 × expression of GCLC + 0.01385 × expression of CACNA1H + (-0.00535) × 
+PMC9092714,unreviewed_no_flag,none,,clinical characteristics table (Gleason score etc.)
+PMC10043308,hit,second_coder_manual,10,2.2和3.1明确说了15个单因素Cox筛选出来的基因属于中间结果，随后通过LASSO-Cox缩减成最终10基因 HFRS，有公式验证
+PMC10313302,unreviewed_no_flag,none,,"GSEA pathway enrichment results, not gene-level"
+PMC11427372,hit,second_coder_manual,6,LASSO及多因素Cox建立最终6-lncRNA，表格1，有公式验证
+PMC9072639,unreviewed_no_flag,none,,"GeneCards candidate gene pool list, not a Cox model"
+PMC9201760,hit,second_coder_manual,4,最终得到WSB1、RXYLT1、GLCE、RORA四基因，有具体数据和公式验证
+PMC9676246,likely_hit(regex),regex_scan,,risk score = (1.786502 × expression of AL391152.1) + (1.287388 × expression of AL590705.3) + (0.048445 × expression of RHOXF1-AS1) + (0.107710 × expression of CFAP61-AS1) + (−2.332926 × expression of LINC00412) + (0.237407 × expression of AC005165.1)
+PMC9755770,unreviewed_no_flag,none,,"CpG-site-level MethSurv HR table, single-gene, not a multi-gene signature"
+PMC9952986,unreviewed_no_flag,none,,"univariate screening candidate list (47 lncRNAs), not final LASSO-selected model"
+PMC9658439,likely_hit(regex),regex_scan,,risk score = (−0.258850669×ENO2 exp) + (0.111022896×KDELR3 exp) + (0.121807561×PFKP exp) + (0.199403905×PGF exp) + (0.129762047×PPFIA4 exp) + (0.36354863×SAP30 exp) + (0.212227539×SLC2A1 exp) + (0.05656501×TKTL1 exp). According to the median value of
+PMC9377110,miss,second_coder_manual,？,不是癌症模型
+PMC10022822,likely_hit(regex),regex_scan,,"riskscore=0.0877×expPEA15+0.0275×expHSPB8+0.0053×expBNIP3+0.0053×expGABARAPL1  We calculated the 4-autophagy-related genes signature risk score for each patient in the training set and ranked them with their risk scores. Then, patients were divided i"
+PMC11606104,hit,second_coder_manual,6,24个DRGs经单因素Cox筛得7个候选基因，有公式验证
+PMC9939198,unreviewed_no_flag,none,,"lncRNA-pair (not per-gene) risk model; HR reported per pair not per gene, methodology mismatch with our per-gene coefficient template"
+PMC9922719,likely_hit(regex),regex_scan,,"Risk score = 0.019344382* ACVR2B-AS1 + 0.000043085 * PRSS30P + 0.006481851* ATP2B1-AS1- 0.001247169 * RMRP  To explore the functional implication of signature, the expression correlation between mRNAs and each of the four lncRNAs in the signature was"
+PMC9614142,unreviewed_no_flag,none,,"univariate Cox screening list (64 genes) + DEG table, not final model"
+PMC9569205,unreviewed_no_flag,none,,"referenced supplementary docx not present in downloaded package; candidate gene pool (200 genes) and non-included-gene KM curves per XML captions, not final model; no table-wrap with numeric coefficients in article body"
+PMC9420946,unreviewed_no_flag,none,,"GSEA enrichment results, not gene-level"
+PMC9353335,unreviewed_no_flag,none,,"pathway gene-set list + univariate Cox screening table, not final model"
+PMC9247151,likely_hit(regex),regex_scan,,"Risk score = (0.2665 * expression of S1PR3) + (0.2478* expression of ETV5) + (0.2115* expression of CD36) + (0.2808* expression of FOXC1) + (−0.1735* expression of CXCL10) + (−0.0976* expression of MMP12). According to the median risk score, patients"
+PMC8818738,unreviewed_no_flag,none,,"sample ID lists (discovery/validation cohort), not a coefficient table"
+PMC8225435,unreviewed_no_flag,none,,referenced supplementary .doc file not found in downloaded package
+PMC12431762,unreviewed_no_flag,none,,"model performance metrics table (SEN/SPE/ACC/AUC), not gene coefficients"
+PMC11336873,likely_hit(regex),regex_scan,,Risk score=AC012073.1×0.429050427772901+AL606834.1×0.221970123392862+EMSLR×0.318944373203222+AL365181.2×0.10463325898888+AC012615.1×-0.369923573449006+SNHG12×-0.310796599079851  Fig. 1 DRL identification and construction of a prognostic signature. (A
+PMC11331578,unreviewed_no_flag,none,,GO enrichment results
+PMC11164498,unreviewed_no_flag,none,,"per-gene survival p-value/AUC table, no Cox coefficients reported"
+PMC9853159,hit,second_coder_manual,12,LASSO-Cox最终建立12基因骨肉瘤缺氧相关模型，有公式验证
+PMC9453157,likely_hit(regex),regex_scan,,risk score = (−0.0056 × REPIN1-AS1) + (−0.0779 × AL355574.1) + (0.1341 × AC104695.3) + (−0.5803 × AL033527.2) + (0.7814 × AC083902.1) + (−0.1343 × TYMSOS) + (0.0129 × LINC00460) + (0.0104 × AC005165.1) + (−0.6483 × AL136115.1) + (−0.2790 × AC007405.2
+PMC9160815,hit,second_coder_manual,5,risk score = 0.0604×CA9 −0.0714×ANXA10 +0.1501×CDC20 −0.0853×CYP7A1 +0.0530×SPP1
+PMC12341353,unreviewed_no_flag,none,,"clinical characteristics and risk-score-by-treatment-group table, not a coefficient table"
+PMC12109475,likely_hit(regex),regex_scan,,"Risk Score=0.660×AC107021.2_exp−0.436×AC016394.2_exp+0.637×AC129507.1_exp. In this formula, AC107021.2_exp, AC016394.2_exp, and AC129507.1_exp represent the expression levels of lncRNAs AC107021.2, AC016394.2, and AC129507.1, respectively.  A total o"
+PMC11557307,likely_hit(regex),regex_scan,,"Risk Score = SOD3 × 0.1779 + SPAG4 × 0.2525 + FREM3 × -0.1837 + SPP1 × 0.1810. A ranked dot plot visualizes the distribution of risk scores, while a scatter plot depicts the survival status of patients in the training set. (G) Kaplan-Meier curves for"
+PMC11294474,unreviewed_no_flag,none,,"differential expression table, not Cox coefficients"
+PMC11168106,unreviewed_no_flag,none,,"large differential expression table among subtypes (18761 genes), not Cox coefficients"
+PMC9999016,unreviewed_no_flag,none,,GSEA pathway enrichment results
+PMC9866886,likely_hit(regex),regex_scan,,"Risk score = (0.062 × expression level of SRPX) + (0.016 × expression level of IL6) + (0.006 × expression level of HOXB9) + (0.155 × expression level of NR3C1) (Table S2). Based on the calculated risk scores, samples were divided into high- or low-ri"
+PMC9798206,likely_hit(regex),regex_scan,,Table 2 Ten ARlncRNAs included in the ARlncRNA model and their regression coefficient
+PMC9778227,likely_hit(regex),regex_scan,,Risk Score = (0.070 × CASP1 exp.) + (0.276 × CHMP6 exp.) + (−0.032 × ELANE exp.) + (0.104 × GSDME exp.) + (0.164 × AIM2 exp.) + (0.035 × GSDMB exp.) + (0.110 × NLRP2 exp.) + (0.213 × PJVK exp.) + (−0.032 × TNF exp.) + (0.023 × GZMA exp.). All the 322
+PMC9761315,hit,second_coder_manual,6,LASSO-Cox最终建立6基因线粒体相关HCC模型，有公式验证
+PMC9748486,likely_hit(regex),regex_scan,,"Risk  score=0.12095 * expZ99289.2 + 0.20536 * expMNX1-AS + ( −0.21082831 * expFENDRR) + 0.10058 * expCCDC144NL-AS1 + 0.04314 * LINC02798 + 0.053611 * expTEX41 + 0.08983 * expLINC02381  According to the median risk scores, patients in the training coh"
+PMC9617384,likely_hit(regex),regex_scan,,Risk score = (0.19418143 × GLP2R)—(0.03421663 × C7) – (0.04084137 × IL1RL1) + (0.03137575 × CXCL6) + (0.11103071 × CHST4)—(0.14224683 × CLEC1B)—(0.11412072 × GPR182)—(0.14543623 × INMT). The aforementioned algorithm was used to construct risk scores 
+PMC9485671,hit,second_coder_manual,3,risk score = 1.6474×AC026412.3 + 0.6620×AL451069.3 + 1.0340×AL031985.3
+PMC9479339,likely_hit(regex),regex_scan,,"risk score= (0.0674 × NKILA) + (−0.1483 × AC020765.2) + (−0.1896 × MMP2-AS1) + (−0.0692 × AL691432.2) + (0.0555 × LINC00941) + (0.3039 × ABALON) + (0.0049 × AL161431.1) (p < 0.05; Table 2). Subsequently, we figured out the risk score for NSCLC patien"
+PMC9250441,unreviewed_no_flag,none,,clinical characteristics vs risk score table
+PMC9198763,hit,second_coder_manual,14,给出通用公式，表格2给出具体数据
+PMC9174756,hit,second_coder_manual,5,经LASSO及多因素Cox建立最终5基因，有具体数据和公式验证
+PMC8795518,likely_hit(regex),regex_scan,,"Risk score = 0.1019 * FBN1 − 0.2529 * HIC1 − 0.0076 * SFRP4 + 0.0544 * COL11A1 + 0.1850 * ONECUT2 + 0.0057 * HOXB9 + 0.1853 * DLX4 − 0.0009 * MSX1 + 0.0265 * TNF + 0.0392 * SIX1 in the training set. In the training set, the median risk score of the t"
+PMC8573348,likely_hit(regex),regex_scan,,riskscore=(0.1738×EXP)NDUFS2+(-0.4258×EXP)ATP8⁢A2+(0.4404×EXP)SCO1+(-0.7904×EXP)COX14+(0.6436×EXP)COA6+(-0.0686×EXP)RRM2⁢B+(0.1818×EXP)TFAM+(0.2117×EXP)DARS2+(0.0779×EXP)GARS+(0.4276×EXP)YARS2+(0.3687×EXP)EFG1+(0.0001×EXP)GFM1+(-0.8567×EXP)MRPL3+(0.1
+PMC8261051,unreviewed_no_flag,none,,"univariate Cox screening list, not final model"
+PMC8034085,likely_hit(regex),regex_scan,,Riskscore=0.0280×ExpANKZF1+0.0054×ExpCD44+0.3550×ExpCHST6+0.4116×ExpHS6ST2+0.1155×ExpIDUA+0.1080×ExpKIF20A+−1.274×ExpNDST3+0.0052×ExpPLOD2+0.0059×ExpVCAN+−0.011×ExpFBP1.  Fig. 3 Construction a prognostic signature using univariate Cox regression anal
+PMC13504365,likely_hit(regex),regex_scan,,"RiskScore=−0.27220.70953×ADA+×CD+−0.204×HLA_DMA+−0.417×ITGAX+0.56810.8811×MYOF+×NCKAPL+−1.033×PTPRC+−0.161×RENBP+−0.393×TNFAIP82L.  Using the formula, patients were assigned a prognosis‐related RiskScore and then divided into high‐ and low‐risk group"
+PMC13417714,unreviewed_no_flag,none,,"univariate Cox screening list, not final model"
+PMC13325441,likely_hit(regex),regex_scan,,risk score = (0.4585 * expression value of BID) + (− 0.0999 * expression value of CAPN2) + (0.0357 * expression value of CDKN2A) + (− 0.0445 * expression value of DLC1) + (0.1136 * expression value of GRID2) + (− 0.0968 * expression value of IFNG) + 
+PMC11711411,likely_hit(regex),regex_scan,,Risk score = −0.4029086 × IFNB1 + 0.2958303 × IGF2 + (−0.3709597) × CD40LG + 0.2803076 × IL1B × (−0.3618734) × IL21 + (−0.5388026) × CD38. All OC patients were classified into high-risk and low-risk groups using the median risk cutoff.Fig. 4 Differen
+PMC11439862,unreviewed_no_flag,none,,"univariate Cox regression per caption (old .xls format, not readable by scanner but caption confirms univariate screening)"
+PMC11211538,likely_hit(regex),regex_scan,,riskScore = (−0.2274916 × PTPRJ expression) + (−0.2093238 × FCN1 expression) + (−0.1423479 × SVIP expression) + (−0.0223379 × LILRB1 expression) + (0.0316062 × LST1 expression). K-M analysis reveals the impact of each member of the riskScore model on
+PMC11192027,unreviewed_no_flag,none,,GSVA pathway enrichment results
+PMC10683585,unreviewed_no_flag,none,,candidate gene pool (201 genes)
+PMC10669360,unreviewed_no_flag,none,,"per-sample expression/clustering matrix, not a coefficient table"
+PMC10522364,unreviewed_no_flag,none,,"univariate Cox screening list, not final model"
+PMC10125743,likely_hit(regex),regex_scan,,risk score = −0.0308 × ACSS1 + 0.1205 × ERO1A-0.2470 × GPC4-0.0063 × MERTK + 0.0497 × PKP2 + 0.0584 × TXN-0.0491 × ZNF29. The samples were divided into high- and low-risk groups according to the obtained risk scores. Kaplan-Meier survival analysis wa
+PMC9556868,unreviewed_no_flag,none,,KEGG pathway enrichment results
+PMC8513715,unreviewed_no_flag,none,,"gene-lncRNA coexpression correlation table, not a Cox model"
+PMC13097926,unreviewed_no_flag,none,,"clinical characteristics table + candidate gene pool (amino acid metabolism genes from multiple databases), not final model"
+PMC12730545,likely_hit(regex),regex_scan,,Risk Score = (0.0009) × SDC1 + (−0.0003) × SAA1 + (−0.0576) × TDGF1 + (−0.0726) × BACH2 + (−0.0111) × IL18 + (−0.0074) × CMTM5 + (−0.0494) × ADRB1 + (−0.0048) × BCL3 + (0.0079) × CCR7 + (−0.0003) × CXCL9 + (−0.0077) × PTGER3 + (−0.0174) × TRDV1 + (−0
+PMC12109955,hit,second_coder_manual,6,LASSO最终确定PAICS、ATIC、ADSS1、GMPS、APRT、HPRT1六个基因，表格3，有公式验证
+PMC11891243,unreviewed_no_flag,none,,"candidate gene pool list (neutrophil-related genes), no statistical results"
+PMC9201070,likely_hit(regex),regex_scan,,Table 4 Features and corresponding coefficient
+PMC10721979,hit,second_coder_manual,12,riskscore = 0.813468268 × [(0.496637586 × SERP1) + (0.589598808 × BCL2L1) + (0.406009527 × RNF139) + (−0.521549002 × TSPYL2) + (−0.027972152 × ERO1A) + (0.323475966 × BFAR) + (0.476688839 × MAP3K5) + (0.025209694 × ARFGAP1) + (-0.92171365 × ATP6V0D1) + (0.152614999 × NCCRP1) + (0.005952034 × LA2G4B) + (-1.026914644 × USP19)].
+PMC10369193,unreviewed_no_flag,none,,"qPCR primer sequences + GSVA/GO enrichment results, not a coefficient table"
+PMC9798721,unreviewed_no_flag,none,,"docx; figure legends + candidate gene pool description (124 lipid-droplet-associated factors from literature search), not final model"
+PMC8832759,unreviewed_no_flag,none,,"univariate Cox screening of lncRNA pairs (56 rows), pre-selection screening stage, and lncRNA-pair format mismatches per-gene coefficient template"
+PMC13059680,unreviewed_no_flag,none,,"gene-immune-checkpoint correlation matrix; underlying model's numeric coefficients not found anywhere in package or article text (only generic formula template), known OCR-not-worth-it pattern"
+PMC12768259,hit,second_coder_manual,4,Riskscore=0.0356×ACE+0.0504×SFTA3+0.0394×HSPB8+0.0568×SOD3，有具体数据
+PMC12436408,unreviewed_no_flag,none,,"candidate content mismatch: caption promises final 17-gene list but actual captured sheet is a gene-miRNA correlation matrix, not the coefficient table"
+PMC10056698,unreviewed_no_flag,none,,
+PMC10127222,unreviewed_no_flag,none,,
+PMC10290322,unreviewed_no_flag,none,,
+PMC10364387,unreviewed_no_flag,none,,
+PMC10470646,likely_hit(regex),regex_scan,,risk score = (0.486102936551265×DEK level) + (-0.466577382724787×RUNX1 level) + (-0.379803436002195×SMARCA4 level) + (-0.216260668499574×SREBF1 level) + (0.326358456240447×TERT level) + (0.126266167208409×TOP1 level) ( Supplementary Table S3 ). The r
+PMC10666655,likely_hit(regex),regex_scan,,Table 2 The regression coefficient
+PMC10683108,unreviewed_no_flag,none,,
+PMC10826312,likely_hit(regex),regex_scan,,Riskscore=(0.188×BACE1_AS)+(0.334×DSTNP2)+(−0.121×PLGLA)+(0.18×SNHG3)  Fig. 2 Evaluation of a prognostically differentially expressed exosome-related lncRNA risk model. (A) LASSO coefficient profiles of 17 exosome-associated lncRNAs; (B) The optimal 
+PMC10829884,likely_hit(regex),regex_scan,,Coefficients of the 10
+PMC10861726,unreviewed_no_flag,none,,
+PMC10881509,likely_hit(regex),regex_scan,,"risk score = (0.223 × hsa-miR-425-5p expression) + (0.181 × hsa-miR-7-5p expression). Survival analysis was carried out using Kaplan–Meier curves. Receiver operating characteristic (ROC) curves were utilized to analyze the patient’s 1-year, 3-year, a"
+PMC10909353,unreviewed_no_flag,none,,
+PMC10909728,likely_hit(regex),regex_scan,,"Risk score = (−0.225 × CXCL11) + 0.38 × GPR137B + (−0.344 × GZMA) + 0.216 × RAB38 + (−0.194 × TNFRSF17) +0.536 × UPP1 + 0.413 × XAF1+0.445 × XCL1 (Fig. 7C). Risk score was calculated and OS was analyzed in TCGA-COAD training cohort, verification coho"
+PMC10929800,unreviewed_no_flag,none,,
+PMC10933109,likely_hit(regex),regex_scan,,"Risk Score = PSMD11*0.150603712635304+PSMD14*0.193834319424803.  The training set consisted of 187 AML patient samples downloaded from the TARGET database, which were further categorized into a high-risk group (n = 94) and a low-risk group (n = 93) b"
+PMC10944249,likely_hit(regex),regex_scan,,"risk score = (1.0225×expression value of miR-501-5p) + (0.7047×expression value of miR-638). The two-miRNA signature risk score was calculated for each patient in the discovery cohort (n=110). The risk score of each patient was ranked, and the median"
+PMC10981052,unreviewed_no_flag,none,,
+PMC10986118,unreviewed_no_flag,none,,
+PMC11005085,unreviewed_no_flag,none,,
+PMC11025768,likely_hit(regex),regex_scan,,Risk score = (0.426 × expression of STIP1) + (0.203 × expression of H2AFZ) + (0.421 × expression of BRIX1) + (-0.228 × expression of TUBB).  10.1371/journal.pone.0298004.g004 Fig 4 Construction of a prognostic gene risk model associated with CSCs and
+PMC11026213,unreviewed_no_flag,none,,
+PMC11057184,likely_hit(regex),regex_scan,,Risk score = (expr CRYZL2P − SEC16B × 1.1191) + (expr RUNDC3A − AS1 × 8.1389) - (expr HOTAIR × 0.2031) -(expr ALMS1 − IT1 × 0.5462).  All patients were divided into high- or low-risk groups based on the median risk score (Fig. 3E-F). ﻿The Kaplan-Meie
+PMC11064265,likely_hit(regex),regex_scan,,"Risk Score=(0.3546×ExpressionMIR210HG)+(0.7189×ExpressionAP001528.1)+(0.3485×ExpressionAC119427.1)+(-0.5958×ExpressionAC124045.1)+(0.6929×ExpressionPTPRD-AS1)+(-1.7296×ExpressionLINC00683)+(2.2408×ExpressionKIAA0087). In addition, in order to underst"
+PMC11080313,unreviewed_no_flag,none,,
+PMC11102376,unreviewed_no_flag,none,,
+PMC11109893,unreviewed_no_flag,none,,
+PMC11134425,likely_hit(regex),regex_scan,,risk score = (0.027 × BCL2L10 × exp.) + (0.016 × MELK × Exp) + (0.247*ERO1A exp.) + (0.033*KRT8 exp.) + (0.061*KRT18 exp.) + (0.110*DDIT4 exp.) + (0.097 × PERP × Exp) + (-0.113*BTK exp.) + (-0.048*CX3CR16 exp.) + (-0.039*DAPK2 exp.). Both PCA and tee
+PMC11152745,unreviewed_no_flag,none,,
+PMC11163994,unreviewed_no_flag,none,,
+PMC11170320,likely_hit(regex),regex_scan,,coefficient of the 5
+PMC11197043,unreviewed_no_flag,none,,
+PMC11231123,likely_hit(regex),regex_scan,,Risk score = FOXM1 × 0.108 + CDK1 × 0.258 + CHEK1 × 0.089 + SERPINE1 × 0.252.Fig. 2 Identification of cellular senescence pathway-related genes and construction of the prognostic signature. a The forest map in the table shows that 9 of the 20 genes w
+PMC11302292,likely_hit(regex),regex_scan,,Risk score = (0.18362 × SCD expr) + (0.16029 × DDR2 expr) + (0.12655 × MT1A expr). The multivariate Cox’s regression coefficients for each hub gene were displayed using a forest plot in Fig. 3A. The links between risk score and gene expression were v
+PMC11315143,likely_hit(regex),regex_scan,,RiskScore=ERG*0.48100989+IVL*0.388510938+ALDOA*0.380802265+ADCY6*0.27004406+CFI*0.239930279+KLF10*0.203280145+ITPKA*0.192615021+NRP1*0.149238819+CSF3*0.137898021+SLC12A5*0.096493715+FADS2*−0.018734706+SRC*−0.070486597+GLDC*−0.072744399+NDRG2*−0.13474
+PMC11319968,likely_hit(regex),regex_scan,,Risk score=0.7672×ELFN1-AS1+3.0007×CYP2U1-AS1      +1.5786×AL162274.1−1.7503×LINC02328      +3.4881×AP000785.1−0.6993×VPS9D1-AS1 [2]  Figure 4 Screening of the related CSRDEGs. (A) Network diagram of 11 CSRDEGs and 133 CSR-lncRNAs by univariate Cox r
+PMC11336146,unreviewed_no_flag,none,,
+PMC11377409,unreviewed_no_flag,none,,
+PMC11380221,unreviewed_no_flag,none,,
+PMC11390420,unreviewed_no_flag,none,,
+PMC11417173,unreviewed_no_flag,none,,
+PMC11437100,likely_hit(regex),regex_scan,,Table 1 presents the information on NRGlncRNAs and coefficient; Table 1 The information of NRGlncRNAs and coefficient
+PMC11443174,unreviewed_no_flag,none,,
+PMC11458410,likely_hit(regex),regex_scan,,Risk score = (0.021 * DCTPP1) + (0.434 * FEZ1) + (0.085 * KMO) + (-0.017 * NME3) + (0.021 * CCR7) + (0.023 * ISOC2) + (-0.974 * STAR) + (0.033 * COMTD1) + (-5.701 * ESR2). This formula stratified BC samples into high-risk and low-risk groups based on
+PMC11462029,unreviewed_no_flag,none,,
+PMC11496652,likely_hit(regex),regex_scan,,Risk score = (0.174 * expression of CNTNAP2) + (-0.026 * expression of CLDN18) + (0.032 * expression of SPRR1B) + (0.230 * expression of ANO1) + (0.032 * expression of CYP3A5) + (-0.012 * expression of CAPN13) + (0.031 * expression of MSLNL) + (0.055
+PMC11537572,likely_hit(regex),regex_scan,,risk score = (-0.836259803 × PIK3C2A) + (0.851085614 × ZBTB11) + (0.107253876 × AFF4) + (0.645611317 × ATRX) + (-0.017219458 × HECTD1) + (-1.587363344 × CREB1) + (0.234581405 × CCNT1) + (0.798338741 × CLOCK) + (0.275518221 × APC) + (0.037564530 × USP
+PMC11549074,unreviewed_no_flag,none,,
+PMC11586327,unreviewed_no_flag,none,,
+PMC11621381,unreviewed_no_flag,none,,
+PMC11625674,likely_hit(regex),regex_scan,,"risk score = (0.3910×PPP2R3A expression) + (0.2288×CERCAM expression) + (0.1782×CNTN1 expression) + (0.1137×CES1 expression) + (−0.2256×PIK3IP1 expression) + (−0.2775×CD96 expression). Based on the median risk score, patients in both the training and"
+PMC11657287,likely_hit(regex),regex_scan,,Risk score = (− 0.276) * TSC22D3 + 0.237 * SQLE + 0.360 * ZNF419 + 0.216 * TFRC. KM curves indicated that patients in the high-risk group had significantly worse OS compared to those in the low-risk group (p = 0.0011) (Fig. 4A). The ROC analysis yiel
+PMC11657507,unreviewed_no_flag,none,,
+PMC11700244,unreviewed_no_flag,none,,
+PMC11717914,likely_hit(regex),regex_scan,,"Risk score = (0.267 * ACACB) + (0.017 * FZD9) + (− 0.210 * PTPMT1) + (0.018 * STXBP1) + (− 0.003 * EYA2) + (0.492 * FAM72A) + (0.986 * UBL4B) + (− 0.123 * PET100). Based on the median value of the risk score, we categorized the samples from both the "
+PMC11742449,likely_hit(regex),regex_scan,,"RiskScore = 0.0099*PDHA1.  + 0.1906*GLS.  + 0.1684*CDKN2A.  + 0.0673*PPAT.  + 0.0543*CDK5RAP1.  + 0.0527*ATP7B.  The final area under the curve (AUC) values obtained via ROC analysis were 0.61 at 365 days, 0.70 at 1095 days, and 0.71 at 1825 days, de"
+PMC11751285,unreviewed_no_flag,none,,
+PMC11813837,likely_hit(regex),regex_scan,,"Risk Score=0.3909×EREG+0.29×BDKRB1+0.0977×DCBLD2+0.0041×CD14+0.1921×AHR+0.0724×CLEC5A+0.4932×LTA-0.0127×SLC4A4+0.0815×LY6E.  Based on the receiver operating characteristic (ROC) curve analysis, we found a high level of accuracy in predicting mortalit"
+PMC11836339,likely_hit(regex),regex_scan,,Table 1 Risk coefficient; Table 2 Body weight and lung coefficient
+PMC11864952,likely_hit(regex),regex_scan,,"RiskScore=ANXA2 * (0.0548)+AP0A1 * (−0.0014)+EZH2 * (0.3410)+IGF2BP3 * (0.0023)+SQSTM1 * (0.0879)+TNFRSF11B * (0.0299)  Figure 4 LASSO regression analysis. (A, B) Plots of prognostic risk model (A) and variable trajectories (B) of the LASSO regressio"
+PMC11926318,likely_hit(regex),regex_scan,,"Risk score = −0.2553 * UCP2 + 0.6234 * LEPR + 0.3028 * TFRC—0.6638 * RNaseH2A.Fig. 2 Development and assessment of a risk prediction model for CC. A Cross-validation curve of LASSO regression analysis, where higher values on the vertical axis indicat"
+PMC11954311,unreviewed_no_flag,none,,
+PMC11979277,unreviewed_no_flag,none,,
+PMC11999454,likely_hit(regex),regex_scan,,risk score = LINC01876 × (0.1788) + FAM83A-AS1 × (0.0325) + AL031667.3 × (0.1646) + FENDRR × (−0.2349) + AC125807.2 × (0.1699) + AP002761.1 × (−0.4219) + AC107959.3 × (0.1277) + MYO16-AS1 × (0.1149) + AL606489.1 × (0.1250) + AC026355.2 × (−0.2579) + 
+PMC12024913,unreviewed_no_flag,none,,
+PMC12025183,unreviewed_no_flag,none,,
+PMC12047781,unreviewed_no_flag,none,,
+PMC12082951,unreviewed_no_flag,none,,
+PMC12084375,unreviewed_no_flag,none,,
+PMC12144798,unreviewed_no_flag,none,,
+PMC12148105,unreviewed_no_flag,none,,
+PMC12167356,unreviewed_no_flag,none,,
+PMC12169781,likely_hit(regex),regex_scan,,Table 1 Candidate genes and coefficient
+PMC12218319,unreviewed_no_flag,none,,
+PMC12246268,unreviewed_no_flag,none,,
+PMC12268875,likely_hit(regex),regex_scan,,Table 1 Eight prognostic genes and their coefficient
+PMC12307155,unreviewed_no_flag,none,,
+PMC12311075,likely_hit(regex),regex_scan,,Risk score = (0.015) * ABCA2 + (− 0.048) * ABCA8 + (0.628) * ACADVL + (− 0.054) * CYP27A1 + (− 0.174) * EGF + (− 0.102) * EPHX2 + (0.465) * FDPS + (− 0.023) * FMO5 + (− 0.273) * GUSB + (− 0.066) * HMGCS2 + (0.366) * MSR1 + (0.120) * PMVK + (0.269) * 
+PMC12318951,likely_hit(regex),regex_scan,,"risk score = 2.74415*e(0.4763*NOD2−0.3042*PLCG1). This risk score model had good universality (the related information is provided in Supplementary Excel File 2 ). Based on the risk score, patients with GBM were divided into a high- and a low-risk gr"
+PMC12325781,unreviewed_no_flag,none,,
+PMC12353749,likely_hit(regex),regex_scan,,risk score = ExpDNM2 × 0.133679 + ExpPOMC × 0.591935 + ExpHSP90B1× + ExpPOMC × 0.591935 + ExpCALM1 × 0.221127 + ExpACACA × 0.889051. All UVM patients were classified into high-risk and low-risk groups based on the median risk score (0.960617). Kaplan
+PMC12366638,unreviewed_no_flag,none,,
+PMC12378849,unreviewed_no_flag,none,,
+PMC12391097,likely_hit(regex),regex_scan,,"Risk Score = (0.3118) × TRAF5 + (0.206) × CAMK2A + (−0.232) × CHMP4C + (0.0474) × IL33 + (−0.1772) × IRF9. Patients were stratified into high-risk and low-risk groups based on their risk scores, using the median risk value as the threshold. Figure 7C"
+PMC12392417,unreviewed_no_flag,none,,
+PMC12402859,likely_hit(regex),regex_scan,,Risk score=(0.04223596 × MMADHC) + (0.0910999 × SOD2) + (0.08776809 × HTATIP2) + (0.04116991 × CYCS) + (−0.05948219 × MPC1) + (−0.09171416 × AK2) + (0.05753366 × MRPL44) + [0.01824556 × transforming growth factor β regulator 4 (TBRG4)] + [0.09307276 
+PMC12405417,unreviewed_no_flag,none,,
+PMC12450679,unreviewed_no_flag,none,,
+PMC12461108,unreviewed_no_flag,none,,
+PMC12505621,unreviewed_no_flag,none,,
+PMC12567641,unreviewed_no_flag,none,,
+PMC12585956,likely_hit(regex),regex_scan,,"Risk score = (0.45326 × NOTCH2 expression) + (0.32491 × KRT18 expression) + (0.23260 × H1–2 expression).  In the TCGA-PAAD cohort, patients were stratified into high-risk and low-risk groups based on the median risk score (Supplementary Table S2). As"
+PMC12589231,likely_hit(regex),regex_scan,,"riskscore=(0.227×MTHFD2)+(0.018×TFRC)-(0.07×JUN)-(0.03×IRF7)-(0.01×PPP1R15A)-(0.05×GZMB)-(0.147×BCL2A1)  The coefficients of each prognostic gene were listed in Online Resource S9. Based on these coefficients, the risk score for each BRCA patient was"
+PMC12630681,likely_hit(regex),regex_scan,,"risk score = 0.9136× EZH2exp + 0.1365 × RNF2 exp + 0.0698 × CCNE1exp + (-0.2412) × E2F1exp + (-0.1026) × MDM2exp + 0.0965 × CDK4exp. Based on the optimal cut-off value, we subsequently divided cholangiocarcinoma cases into groups with high and low CS"
+PMC12637038,unreviewed_no_flag,none,,
+PMC12666366,likely_hit(regex),regex_scan,,Table 3Gene Symbol	Coefficient
+PMC12668565,likely_hit(regex),regex_scan,,Risk score = (−0.0025) × NOS2 + (−0.0008) × NOX1 + 0.0155 × TRIB2 + 0.0028 × CAV1 + 0.2237 × ENO3 + 0.0084 × FZD7 + 0.0142 × ULK1 + 0.0230 × AKR1C1. Patients were assigned to either the high‐risk or low‐risk group in a 2:1 ratio based on the risk sco
+PMC12672885,likely_hit(regex),regex_scan,,"Risk score=2.9692×TREX1+0.4886×NOX4+0.1914×RRM2  Subsequently, patients were categorized into high-risk and low-risk groups based on the median risk scores. Kaplan-Meier survival analysis revealed that the high-risk cohort exhibited a significantly p"
+PMC12702848,unreviewed_no_flag,none,,
+PMC12702948,likely_hit(regex),regex_scan,,Risk score = (0.4500 × TPST2) + (0.1514 × HIF1A) + (0.1571 × KIF21B) + (-0.6397 × MCPH1) + (-0.5123 × MAST4) + (0.3354 × ANXA2) + (-0.4341 × ALG14) + (-0.2931 × PQLC3) + (0.4405 × RANGAP1). The results of the multivariate regression analysis are show
+PMC12721737,unreviewed_no_flag,none,,
+PMC12731238,unreviewed_no_flag,none,,
+PMC12770607,likely_hit(regex),regex_scan,,"RiskScore = hsa-mir-621 × (−0.121994968) + hsa-mir-454 × (−0.047356538) + hsa-mir-653 × 0.0801983486745445 + hsa-mir-149 × 0.265842951894282. Based on the risk score, samples were categorized into high-risk and low-risk groups. Kaplan-Meier survival "
+PMC12830534,unreviewed_no_flag,none,,
+PMC12864644,likely_hit(regex),regex_scan,,"Riskscore = (0.0326 * expression of GLIPR2) + (0.1586 * expression of ANP32E) + (0.0740 * expression of LIPT1) + (− 0.2013 * expression of ALAD) + (0.2125 * expression of ARSK) + (0.0141 * expression of PGAM1). Based on the median risk score, patient"
+PMC12903564,unreviewed_no_flag,none,,
+PMC12923586,unreviewed_no_flag,none,,
+PMC12928886,likely_hit(regex),regex_scan,,Table 1 shows the coefficient; Table 1 Coefficient
+PMC13009203,unreviewed_no_flag,none,,
+PMC13138313,unreviewed_no_flag,none,,
+PMC13140268,unreviewed_no_flag,none,,
+PMC13190119,likely_hit(regex),regex_scan,,"risk score = (–0.164390187) * MYBBP1A expression level + (–0.272783415) * CCDC134 expression level + (–0.595392875) * MCPH1 expression level + (–0.060470092) * CHST6 expression level. Based on the median risk score (–2.211223), the ESCC samples were "
+PMC13201820,likely_hit(regex),regex_scan,,Risk score = (-0.0776)*OGFR.AS1+(-0.0153)*AC114760.2 + (-0.0742)*LINC01976 + (-0.0251)*AC016813.1 + (0.0913)*AP003419.2 + (-0.0405)*COL4A2.AS1 + (-0.0902)*AL133330.1+(-0.0540)*AL391863.1+ (0.2896)*AC090236.2 + (-0.9196)*SMIM25 + (0.2896)*HIF1A.AS2. T
+PMC13239323,unreviewed_no_flag,none,,
+PMC13285077,unreviewed_no_flag,none,,
+PMC13381424,likely_hit(regex),regex_scan,,risk score = INPP4B expression × 0.042136435 + SLCO1B3 expression × 0.224469144 + LIPH expression × 0.346856277 + TGM2 expression × 0.260218695 + ACSL5 expression × (-0.037102141) + SLC2A1 expression × (-0.050781587) + EPHX2 expression × 0.029454143 
+PMC13393646,unreviewed_no_flag,none,,
+PMC13412633,unreviewed_no_flag,none,,
+PMC13415572,unreviewed_no_flag,none,,
+PMC13415585,likely_hit(regex),regex_scan,,Risk score = (0.248 × phosphoglycerate mutase family member 4 (PGAM4)) + (–0.088 × phosphoglycerate kinase 1 (PGK1)) + (0.317 × serine racemase (SRR)) + (0.080 × agmatinase (AGMAT)) + (0.142 × SR spermidine synthase (SRM)) + (0.178 × SMS) + (0.262 × 
+PMC13437700,likely_hit(regex),regex_scan,,Risk Score = 0.1414×ABCA1 + 0.0047×IL1R1 + 0.0523×SERPINE1 - 0.1209×HPN + 0.3444×(Age=51-65) + 1.1976×(Age>65) + 0.0262×(T stage=T2) + 0.3108×(T stage=T3) + 0.6215×(T stage=T4) + 0.8394×(N stage= Node-positive). The risk score for each patient was ca
+PMC13439775,unreviewed_no_flag,none,,
+PMC13481913,unreviewed_no_flag,none,,
+PMC7969881,likely_hit(regex),regex_scan,,"risk score = 0.317856 × ENO3 + 0.027138 × P4HA1 + 0.039965 × GPC1 + 0.070012 × SPAG4 + 0.044451 × STC2, while ROC and Kaplan–Meier curves were used to assess the prognostic values of the risk scores (Figures 5C). The area under the ROC curves (AUCs) "
+PMC8258938,likely_hit(regex),regex_scan,,risk score = (0.1500 × mRNA level of ANGPTL4) + (0.3194 × mRNA level of PYGB) + (− 0.2542 × mRNA level of ISG20) + (− 0.2911 × mRNA level of SEH1L) + (0.1492 × mRNA level of IRS2). The patients were stratified into high-risk and low-risk groups accor
+PMC8546174,likely_hit(regex),regex_scan,,risk score = –0.828 × AC087277.2 + 0.989 × AC007991.4–5.396 × AC008494.3–0.151 × AC254629.1–1.435 × AL121583.1. Patients in the training cohort were grouped into low-risk and high-risk groups according to the median value of the risk scores. The Kapl
+PMC8554127,likely_hit(regex),regex_scan,,risk score = (1.083 × AC009948.2 expression) + (−0.303 × AC011752.1 expression) + (−0.148 × AC018752.1 expression) + (−0.002 × AF117829.1 expression) + (0.616 × AL008718.3 expression) + (0.334 × AL133243.3 expression) + (−0.943 × AL158071.5 expressio
+PMC8585518,likely_hit(regex),regex_scan,,Risk score = (−0.437) × expression quantity (Exp) of ADPGK-AS1 + (−0.004) × Exp of AC103591.3 + (−0.270) × Exp of AC018529.1 + (−0.017) × Exp of AC010175.1 + (−0.052) × Exp of AC016747.2 + (−1.080) × Exp of AC007613.1 + (−0.031) × Exp of AC026355.2 +
+PMC8607265,likely_hit(regex),regex_scan,,risk score = (−0.25414) × ISG20 expression level + 0.07897 × CITED2 expression level + 0.11769 × PYGB expression level + 0.09112 × IRS2 expression level + 0.06399 × ANGPTL4 expression level + 0.04811 × TGFBI expression level + 0.03555 × LHX9 expressi
+PMC8884161,unreviewed_no_flag,none,,
+PMC9115802,unreviewed_no_flag,none,,
+PMC9163712,likely_hit(regex),regex_scan,,TABLE 2 The correlation coefficient
+PMC9248105,unreviewed_no_flag,none,,
+PMC9428265,unreviewed_no_flag,none,,
+PMC9445491,unreviewed_no_flag,none,,
+PMC9533718,likely_hit(regex),regex_scan,,coefficients of the 3
+PMC9646859,unreviewed_no_flag,none,,
+PMC9741981,likely_hit(regex),regex_scan,,risk score = exp/FHL1 × (−0.04395) + exp/CTGF × (−0.13087) + exp/FOXP2 × (−0.05892) + exp/FBLN5 × (−0.19037) + exp/WT1 × 0.560368 + exp/IL11 × 0.448262 + exp/AQP9 × 0.088904 + exp/TGFBR3 × (−0.18178) + exp/WNT11 × (−0.02575) + exp/UHRF1 × 0.178616. T
+PMC9744783,likely_hit(regex),regex_scan,,"Riskscore = (COL5A1×0.487)+(ALDH2×-0.252)+(KIF20A×0.337)+(ADH1B×-0.151)+(SDC1×0.223)+(VCAN×-0.406) ( Figures 4B, C ).  Figure 4 (A) Nomogram of prognostic model. (B) Single-factor COX regression analysis. (C) Multi-factor COX analysis.  Table 2 Chara"
+PMC9775483,likely_hit(regex),regex_scan,,Risk Score = expression of HTRA1 × (−0.349596300606235) + expression of RBBP7 × (−0.230030729846002) + expression of NFE2L2 × (−0.172501026570002) + expression of SCAF11 × (−0.0178575107829167) + expression of ABL1 × 0.0483720222894683 + expression o
+PMC9814973,likely_hit(regex),regex_scan,,risk score = (exp. TBX21* -0.56) + (exp. ZFHX2* 1.05) +(exp. E2F7*0.340957721) + (exp. HIST2H2BE* -0.58) + (exp. LTBP1* -0.54) + (exp. SIAE* 0.69) + (exp. HIST1H2AL* -0.61) + (exp. TSPAN9* 0.86). The median risk score assigned these 48 SCLC patients 
+PMC9872116,unreviewed_no_flag,none,,
+PMC9905418,likely_hit(regex),regex_scan,,Table 2 The regression coefficient
+PMC9909968,likely_hit(regex),regex_scan,,Risk score = -0.4253 * expression of NOG + 0.3954 *expression of IGFBP2.  FIGURE 1 Construction of a risk model associated with IDH1 and immune status. (A–B) Nine candidate genes for risk modeling by LASSO Cox regression analysis; (C) multivariate an
