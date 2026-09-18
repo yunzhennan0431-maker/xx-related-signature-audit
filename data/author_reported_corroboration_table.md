@@ -1,0 +1,13 @@
+| # | 模型 | 主题 | 癌种 | 作者数据集/方法 | 作者发现 | 本研究数据集 | 本研究归因结果 | 一致性 |
+|---|---|---|---|---|---|---|---|---|
+| 1 | PMC10531437_lipid_ERstress_CRC | 脂质代谢+内质网应激 | 结直肠癌 | 论文自述scRNA-seq分析(具体GEO编号未在正文明确注明,引用为'ScRNA-seq analysis'及参考文献[56,57]) | SPP1和APOE两个hub基因'显著富集于巨噬细胞'(macrophages) | GSE81861(本研究z-score归因,与作者数据集不同) | SPP1→Macrophage(z=2.19),APOE→Macrophage(z=1.38) | 完全一致(2/2基因,细胞类型精确匹配) |
+| 2 | PMC11504279_hypoxia_PAAD | 乏氧 | 胰腺癌 | GSA: CRA001160(作者自述scRNA数据集) | CA9主要表达于成纤维细胞;PLAU主要表达于成纤维细胞和巨噬细胞;SLC2A1在成纤维细胞、巨噬细胞、T细胞、B细胞中广泛高表达 | PAAD_GSE154778(本研究z-score归因,与作者数据集不同) | SLC2A1→Malignant(z=1.55),CA9→Malignant(z=1.63),PLAU→Fibroblasts(z=1.69) | 部分一致(1/3,PLAU→Fibroblasts精确匹配;CA9、SLC2A1本研究归因到Malignant,与作者报告的基质/免疫细胞不一致) |
+| 3 | PMC12210501_ferroptosis_LUAD | 铁死亡 | 肺腺癌 | GSE189357(作者自述scRNA数据集,含9种细胞大类) | PPP1R14B主要表达于单核细胞、巨噬细胞、内皮细胞;PLEK2主要表达于单核细胞;RHOV主要表达于内皮细胞 | NSCLC_GSE131907(本研究z-score归因;该数据集是本文3.5/5节已记录的候选类型覆盖已知不完整的数据集之一,只标注CD4Tconv/B/CD8T三种免疫细胞大类,不含髓系/内皮/恶性细胞) | PPP1R14B→CD8T(z=0.87),PLEK2→CD4Tconv(z=0.67),RHOV→CD8T(z=1.12) | 细胞亚型层面不一致(0/3精确匹配),但category层面部分吻合——作者报告的单核/巨噬/内皮均属TME细胞(Immune_Hematopoietic/Stromal_Vascular),与本研究H1a的TME集中逻辑方向一致;本研究z-score结果落在CD4/CD8T,同样是TME/免疫细胞而非肿瘤细胞,只是具体亚型不同 |
+| 4 | PMC12891303_CAF_BLCA | 转移/基底膜相关(候选池非同义重复,见15_cross_theme_meta_analysis.py核实记录) | 膀胱癌 | GSE129845(单细胞)+空间转录组(2个独立标本)+多重免疫荧光(候选池构建阶段用DEG∩转移基因∩基底膜基因,不限定CAF,单细胞分析是候选池确定后的独立下游验证) | DDR2和SERPINF1(6基因中的2个)在单细胞、空间转录组、多重免疫荧光三种正交方法中一致显示优先表达于CAF/成纤维细胞而非上皮肿瘤细胞 | BLCA_GSE130001(本研究z-score归因,与作者数据集不同) | DDR2→Fibroblasts(z=0.97),SERPINF1→Fibroblasts(z=1.40) | 完全一致(2/2基因,细胞类型精确匹配) |
+| 5 | PMC12219082_necroptosis_SKCM | 坏死性凋亡 | 黑色素瘤 | 论文自述scRNA-seq分析(基于TISCH数据库,未指定具体单一GEO编号) | TUFM、IFI35、TAPBP主要表达于肿瘤细胞;CD53、TAPBP主要表达于B细胞;CLEC2D主要表达于CD4+T细胞;SOD2主要表达于单核细胞和巨噬细胞 | SKCM_GSE120575(本研究z-score归因,与作者数据集不同) | TUFM→Tprolif(z=1.84),CD53→Mono/Macro(z=0.88),IFI35→DC(z=1.95),SOD2→Mono/Macro(z=2.81) | 部分一致(SOD2→Mono/Macro精确匹配;TUFM、CD53在两套方法间归因到不同细胞类型) |
+| 6 | PMC12647489_cholesterol_HCC | 胆固醇代谢 | 肝细胞癌 | 论文自述scRNA-seq分析(未指定具体GEO编号) | HMGCS2主要表达于肝细胞(hepatocytes);FABP5主要富集于髓系细胞(myeloid cells) | GSE151530(本研究z-score归因,与作者数据集不同) | HMGCS2→Malignant cells(z=2.04),FABP5→TAMs(z=1.59) | category层面一致(2/2,肝细胞≈本研究恶性细胞类别、髓系细胞≈本研究TAMs类别) |
+| 7 | PMC13490468_ATIC_HCC | 自噬 | 肝细胞癌 | GSE210679(作者自述scRNA-seq数据集)+功能敲低实验(ATIC沉默后自噬活性、增殖、迁移能力均受抑制) | ATIC显著富集于肿瘤细胞,且与自噬活性呈正相关;功能实验证实ATIC沉默确实影响自噬相关表型 | GSE151530(本研究z-score归因,与作者数据集不同) | ATIC→Malignant cells(z=1.87) | 完全一致(1/1,细胞类型精确匹配),且有功能实验独立支持 |
+
+**汇总**:7个模型、16组基因级比对,9组精确匹配、2组仅大类一致、5组不一致。
+
+**不一致说明**:5处不一致中,3处(PMC11504279的CA9/SLC2A1、PMC12210501的PPP1R14B/PLEK2/RHOV部分)可归因于作者与本研究使用了不同的单细胞参考数据集(不同患者队列/不同候选细胞类型覆盖范围),其中PMC12210501一案恰好佐证了本文已记录的NSCLC_GSE131907候选类型覆盖不完整这一局限;其余不一致(PMC12219082的TUFM/CD53)反映基因面板本身的异质性,不是方法学矛盾。

@@ -1,0 +1,4 @@
+步骤,对象,样本量,关键指标,结果,对应脚本,对应数据文件
+第一步:验证锚点比对,119组基因×数据集(与前序血管生成课题金标准),119,精确细胞类型一致率 / 三大类一致率,79/119 (66.4%) / 91/119 (76.5%),40_independent_wilcoxon_validation.py,independent_wilcoxon_vs_zscore_broadcategory.csv
+第二步:全量108模型重新归因,108个模型、21个数据集,108,显著模型数(z-score vs Wilcoxon) / 模型级别显著性一致率,"z=25(23.1%), w=63(58.3%) / 64/108 (59.3%)",41_full_wilcoxon_robustness_check.py,wilcoxon_vs_zscore_full_model_comparison.csv
+第三步:细胞类型样本量下采样修正,108个模型(占优细胞类型下采样至组内中位数后重新归因),108,下采样后显著模型数 / 模型级别显著性一致率(相对z-score),40/108 (37.0%) / 81/108 (75.0%),42_full_wilcoxon_downsampled_check.py,wilcoxon_downsampled_vs_zscore_full_model_comparison.csv
