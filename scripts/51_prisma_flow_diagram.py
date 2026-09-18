@@ -20,8 +20,8 @@ import os
 OUT_DIR = "analysis_output/figures/"
 os.makedirs(OUT_DIR, exist_ok=True)
 
-fig, ax = plt.subplots(figsize=(9, 12))
-ax.set_xlim(0, 10)
+fig, ax = plt.subplots(figsize=(9.4, 12))
+ax.set_xlim(-0.5, 10.5)
 ax.set_ylim(0, 34)
 ax.axis("off")
 

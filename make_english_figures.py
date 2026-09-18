@@ -203,8 +203,8 @@ def fig_trajectories():
 
 def fig_prisma_flow():
     """English version of Figure 6 (PRISMA-2020-structure-adapted screening flow diagram)."""
-    fig, ax = plt.subplots(figsize=(9.4, 12.4))
-    ax.set_xlim(0, 10)
+    fig, ax = plt.subplots(figsize=(9.8, 12.4))
+    ax.set_xlim(-0.5, 10.5)
     ax.set_ylim(0, 34)
     ax.axis("off")
 
