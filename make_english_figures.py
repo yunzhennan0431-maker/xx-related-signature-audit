@@ -258,18 +258,18 @@ def fig_prisma_flow():
     pbox(1.9, 11.4, 4.1, 2.4,
          "Systematic re-review of all 314 miss/\nunclassified candidates (full-text scan,\nthen supplementary-material download)\n187 (59.6%) confirmed extractable as final models", fontsize=7.8)
 
-    parrow(1.9, 10.2, 1.9, 9.0)
-    parrow(3.9, 9.9, 6.1, 8.6)
+    parrow(1.85, 10.2, 1.85, 9.0)
+    parrow(3.9, 9.9, 6.3, 8.7)
 
-    pbox(1.9, 8.0, 3.7, 2.0, "127 (40.4%)\nunresolved\n(coefficients image-only /\nmolecule type out of scope /\ngenuinely a candidate-pool item)", fc="#fbeeee", ec="#c0392b", fontsize=7.4)
+    pbox(1.85, 8.0, 3.0, 2.0, "127 (40.4%)\nunresolved\n(coefficients image-only /\nmolecule type out of scope /\ngenuinely a candidate-pool item)", fc="#fbeeee", ec="#c0392b", fontsize=6.8)
 
-    pbox(6.1, 7.5, 6.6, 2.6,
+    pbox(6.5, 7.5, 5.8, 2.6,
          "Included\nInitial 108 models + 173 recovered on re-review\n= 281 independent signature models\n(34+ process topics, 21 cancer types, 21 single-cell reference datasets)",
-         fc="#eafaf1", ec="#1e8449", fontsize=8.8)
+         fc="#eafaf1", ec="#1e8449", fontsize=8.5)
 
-    parrow(6.1, 6.2, 6.1, 5.0)
-    pbox(6.1, 4.0, 6.6, 2.2,
-         "Quantitative analysis set: 281 models\n(2 further models had no local reference single-cell data for their target\ncancer type and are recorded only as methodological evidence, not among the 281)", fontsize=8.0)
+    parrow(6.5, 6.2, 6.5, 5.0)
+    pbox(6.5, 4.0, 5.8, 2.2,
+         "Quantitative analysis set: 281 models\n(2 further models had no local reference single-cell data for their target\ncancer type and are recorded only as methodological evidence, not among the 281)", fontsize=7.6)
 
     fig.suptitle("Figure 6. Literature search and candidate-pool screening flow\n(adapted from the PRISMA 2020 structure)", fontsize=12.5, y=0.985)
     fig.text(0.5, 0.006,
