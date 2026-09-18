@@ -218,14 +218,17 @@ def fig_prisma_flow():
         ax.text(cx, cy, text, ha="center", va="center", fontsize=fontsize, linespacing=1.35)
 
     def parrow(x1, y1, x2, y2):
+        # shrinkA/B pull the drawn line back from the literal (x,y) endpoints by a few
+        # points, so arrows that start/end exactly on a box edge leave a visible gap
+        # instead of merging into (or poking through) the box's border stroke.
         ax.annotate("", xy=(x2, y2), xytext=(x1, y1),
-                    arrowprops=dict(arrowstyle="-|>", color="#444", lw=1.2))
+                    arrowprops=dict(arrowstyle="-|>", color="#444", lw=1.2, shrinkA=5, shrinkB=5))
 
     pbox(5, 32.5, 8.8, 2.4,
          "Identification\nPubMed search, 23 initial seed topics + 25 later expanded topics\n"
          "48 process/pathway keywords total, 3 search rounds\n"
          "Raw hits (not deduplicated): 4,022 + 1,243 = 5,265", fontsize=8.6)
-    parrow(5, 31.3, 5, 30.1)
+    parrow(5, 31.3, 5, 30.3)
 
     pbox(5, 29.3, 8.8, 2.0,
          "After batch PMID→PMCID conversion (idconv) and PMC Cloud Service availability checks,\n"
@@ -237,8 +240,8 @@ def fig_prisma_flow():
          "1,662 candidates queued by score priority", fontsize=8.6)
     parrow(5, 25.5, 5, 24.3)
 
-    parrow(3.4, 23.5, 1.9, 22.3)
-    parrow(6.6, 23.5, 8.1, 22.3)
+    parrow(3.4, 23.5, 1.9, 22.4)
+    parrow(6.6, 23.5, 8.1, 22.4)
     pbox(5, 23.8, 3.2, 0.9, "Decision to manually review", fc="none", ec="none", fontsize=8.2)
 
     pbox(1.9, 21.3, 3.7, 2.2,
@@ -246,7 +249,7 @@ def fig_prisma_flow():
     pbox(8.1, 21.3, 3.7, 2.2,
          "Not manually reviewed\n1,217 (73.2%)\nDeliberately not pursued\n(cost-benefit assessment, see §5)", fc="#fbeeee", ec="#c0392b", fontsize=8.0)
 
-    parrow(1.9, 20.2, 1.9, 19.0)
+    parrow(1.9, 20.2, 1.9, 19.2)
     pbox(1.9, 18.0, 4.1, 2.4,
          "Result of the 445 reviewed\nInitial hits: 131 (=445-314)\nJudged miss/unclassified: 314", fontsize=8.3)
 
@@ -254,12 +257,12 @@ def fig_prisma_flow():
     pbox(1.9, 14.6, 4.1, 2.0,
          "Third round of validation (independent\nhuman reviewer re-judged 60 sampled\ncandidates, kappa=0.106) exposed a\nsystematic flaw in the miss-judgment pipeline", fc="#fff8e1", ec="#b8860b", fontsize=7.6)
 
-    parrow(1.9, 13.6, 1.9, 12.4)
+    parrow(1.9, 13.6, 1.9, 12.6)
     pbox(1.9, 11.4, 4.1, 2.4,
          "Systematic re-review of all 314 miss/\nunclassified candidates (full-text scan,\nthen supplementary-material download)\n187 (59.6%) confirmed extractable as final models", fontsize=7.8)
 
     parrow(1.85, 10.2, 1.85, 9.0)
-    parrow(3.9, 9.9, 6.3, 8.7)
+    parrow(3.9, 9.9, 6.3, 8.8)
 
     pbox(1.85, 8.0, 3.0, 2.0, "127 (40.4%)\nunresolved\n(coefficients image-only /\nmolecule type out of scope /\ngenuinely a candidate-pool item)", fc="#fbeeee", ec="#c0392b", fontsize=6.8)
 
@@ -267,7 +270,7 @@ def fig_prisma_flow():
          "Included\nInitial 108 models + 173 recovered on re-review\n= 281 independent signature models\n(34+ process topics, 21 cancer types, 21 single-cell reference datasets)",
          fc="#eafaf1", ec="#1e8449", fontsize=8.5)
 
-    parrow(6.5, 6.2, 6.5, 5.0)
+    parrow(6.5, 6.2, 6.5, 5.1)
     pbox(6.5, 4.0, 5.8, 2.2,
          "Quantitative analysis set: 281 models\n(2 further models had no local reference single-cell data for their target\ncancer type and are recorded only as methodological evidence, not among the 281)", fontsize=7.6)
 

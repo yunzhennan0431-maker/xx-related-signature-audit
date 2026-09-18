@@ -37,14 +37,17 @@ def box(cx, cy, w, h, text, fc="#eef3fb", ec="#2c6fbb", fontsize=9):
 
 
 def arrow(x1, y1, x2, y2):
+    # shrinkA/B pull the drawn line back from the literal (x,y) endpoints by a few
+    # points, so arrows that start/end exactly on a box edge leave a visible gap
+    # instead of merging into (or poking through) the box's border stroke.
     ax.annotate("", xy=(x2, y2), xytext=(x1, y1),
-                arrowprops=dict(arrowstyle="-|>", color="#444", lw=1.2))
+                arrowprops=dict(arrowstyle="-|>", color="#444", lw=1.2, shrinkA=5, shrinkB=5))
 
 
 # Identification
 box(5, 32.5, 8.6, 2.4,
     "标识(Identification)\nPubMed检索,23个初始种子主题词 + 25个后续扩充主题词\n共48个过程/通路关键词,3轮检索\n原始命中(未去重):4,022 + 1,243 = 5,265条", fontsize=9)
-arrow(5, 31.3, 5, 30.1)
+arrow(5, 31.3, 5, 30.3)
 
 box(5, 29.3, 8.6, 2.0,
     "经idconv批量PMID→PMCID转换、PMC Cloud Service可得性核查后\n三轮共获得1,662篇完整文章包(正文+补充材料),构成候选文献池", fontsize=9)
@@ -55,8 +58,8 @@ box(5, 26.3, 8.6, 1.6,
     "筛选(Screening)\n规则化脚本对候选表格打分排序(正向/负向关键词规则)\n1,662篇候选按打分优先级排队", fontsize=9)
 arrow(5, 25.5, 5, 24.3)
 
-arrow(3.4, 23.5, 1.9, 22.3)
-arrow(6.6, 23.5, 8.1, 22.3)
+arrow(3.4, 23.5, 1.9, 22.4)
+arrow(6.6, 23.5, 8.1, 22.4)
 box(5, 23.8, 3.2, 0.9, "决定人工复核", fc="none", ec="none", fontsize=8.5)
 
 box(1.9, 21.3, 3.6, 2.2,
@@ -64,7 +67,7 @@ box(1.9, 21.3, 3.6, 2.2,
 box(8.1, 21.3, 3.6, 2.2,
     "未人工复核\n1,217篇 (73.2%)\n主动决定暂不推进\n(成本收益评估,详见5节)", fc="#fbeeee", ec="#c0392b", fontsize=8.5)
 
-arrow(1.9, 20.2, 1.9, 19.0)
+arrow(1.9, 20.2, 1.9, 19.2)
 box(1.9, 18.0, 4.0, 2.4,
     "445篇复核结果\n初判命中(hit):131篇 (=445-314)\n判定为miss/未分类:314篇", fontsize=8.7)
 
@@ -72,12 +75,12 @@ arrow(1.9, 16.8, 1.9, 15.6)
 box(1.9, 14.6, 4.0, 2.0,
     "第三轮验证(独立人类复核者\n对60篇抽样重判,kappa=0.106)\n发现miss判定流程系统性缺陷", fc="#fff8e1", ec="#b8860b", fontsize=8.5)
 
-arrow(1.9, 13.6, 1.9, 12.4)
+arrow(1.9, 13.6, 1.9, 12.6)
 box(1.9, 11.4, 4.0, 2.4,
     "系统性复查全部314篇miss/未分类候选\n(先扫全文,再下载补充材料扫描)\n187篇(59.6%)确认可提取最终模型", fontsize=8.5)
 
 arrow(1.85, 10.2, 1.85, 9.0)
-arrow(3.9, 9.9, 6.3, 8.7)
+arrow(3.9, 9.9, 6.3, 8.8)
 
 box(1.85, 8.0, 3.0, 2.0, "127篇(40.4%)\n未解决\n(系数仅图片/分子类型\n超范围/确系候选池)", fc="#fbeeee", ec="#c0392b", fontsize=7.6)
 
@@ -85,7 +88,7 @@ box(1.85, 8.0, 3.0, 2.0, "127篇(40.4%)\n未解决\n(系数仅图片/分子类�
 box(6.5, 7.5, 5.8, 2.6,
     "纳入(Included)\n初判108个模型 + 复查新增173个模型\n= 281个独立签名模型\n(34+过程主题,21癌种,21个单细胞参考数据集)", fc="#eafaf1", ec="#1e8449", fontsize=9.0)
 
-arrow(6.5, 6.2, 6.5, 5.0)
+arrow(6.5, 6.2, 6.5, 5.1)
 box(6.5, 4.0, 5.8, 2.2,
     "定量分析集: 281个模型\n(2个模型因目标癌种本地无参考单细胞数据未纳入定量归因,\n仅作方法学证据留痕,不在281之列)", fontsize=8.3)
 
