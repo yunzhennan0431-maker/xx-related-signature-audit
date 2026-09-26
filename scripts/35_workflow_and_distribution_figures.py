@@ -55,7 +55,7 @@ def fig_workflow():
         (9.0, "按癌种匹配单细胞参考图谱\n(21个数据集,TISCH2/GEO公开资源)"),
         (7.7, "z-score细胞类型归因\n(log标准化表达→按细胞类型求均值→跨类型z-score→取最大值)"),
         (6.4, "精确二项检验(H0:K类型等概率归因)+ Benjamini-Hochberg FDR校正\n(全部108模型同一自然家族统一校正)"),
-        (5.1, "跨主题meta分析:三大类归类(Malignant/Stromal_Vascular/\nImmune_Hematopoietic/Epithelial_mixed)+ H1a/H1b分野"),
+        (5.1, "跨主题meta分析:四大类归类(Malignant/Stromal_Vascular/\nImmune_Hematopoietic/Epithelial_mixed)+ H1a/H1b分野"),
         (3.8, "跨主题异质性置换检验(2万次重排,9个主题类别)\n+ 数据集覆盖/稀有细胞类型敏感性分析"),
     ]
     for y, text in stages:

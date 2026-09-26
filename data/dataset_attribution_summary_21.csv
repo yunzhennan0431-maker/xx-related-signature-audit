@@ -1,4 +1,4 @@
-dataset,癌种,K_celltypes,total_cells,lineage_coverage_0to4,missing_categories,min_celltype_n,min_celltype_name,below_20cell_sensitivity_threshold,unmapped_celltypes,281模型中使用该数据集的模型数,其中FDR显著数,"H1a(TME集中,非同义重复)","H1b(肿瘤自身集中,非同义重复)"
+dataset,癌种,K_celltypes,total_cells,lineage_coverage_0to4,missing_categories,min_celltype_n,min_celltype_name,below_20cell_sensitivity_threshold,unmapped_celltypes,282模型中使用该数据集的模型数,其中FDR显著数,"H1a(TME集中,非同义重复)","H1b(肿瘤自身集中,非同义重复)"
 ALL_GSE132509,急性淋巴细胞白血病,7,37936,2,Stromal_Vascular;Epithelial_mixed,1162,Tprolif,False,,1,0,0,0
 AML_GSE116256,急性髓系白血病,13,38348,2,Stromal_Vascular;Epithelial_mixed,400,Tprolif,False,,9,0,0,0
 BLCA_GSE130001,膀胱癌,4,4129,2,Malignant;Immune_Hematopoietic,70,Myofibroblasts,False,,12,2,1,0
@@ -18,5 +18,5 @@ OV_GSE154600,卵巢癌,11,42583,4,(无缺失),499,Tprolif,False,,9,3,1,2
 PAAD_GSE154778,胰腺癌,6,14953,4,(无缺失),148,Plasma,False,,10,0,0,0
 PRAD_GSE172301,前列腺癌,9,104021,3,Malignant,339,Plasma,False,,8,2,1,0
 SKCM_GSE120575,黑色素瘤,10,16291,1,Malignant;Stromal_Vascular;Epithelial_mixed,284,DC,False,,12,4,4,0
-UCEC_GSE139555,子宫内膜癌,6,12758,2,Malignant;Epithelial_mixed,66,Fibroblasts,False,,14,4,4,0
+UCEC_GSE139555,子宫内膜癌,6,12758,2,Malignant;Epithelial_mixed,66,Fibroblasts,False,,15,4,4,0
 UVM_GSE139829,葡萄膜黑色素瘤,8,103703,3,Epithelial_mixed,472,B,False,,2,0,0,0

@@ -46,7 +46,7 @@ def fig_workflow():
         (9.0, "Single-cell reference atlas matched by cancer type\n(21 datasets, TISCH2/GEO public resources)"),
         (7.7, "z-score cell-type attribution\n(log-normalize expression → mean by cell type → z-score across types → argmax)"),
         (6.4, "Exact binomial test (H0: equal-probability attribution across K types) + Benjamini-Hochberg FDR\n(all 108 models corrected under one natural family)"),
-        (5.1, "Cross-topic meta-analysis: 3-category grouping (Malignant/Stromal_Vascular/\nImmune_Hematopoietic/Epithelial_mixed) + H1a/H1b split"),
+        (5.1, "Cross-topic meta-analysis: 4-category grouping (Malignant/Stromal_Vascular/\nImmune_Hematopoietic/Epithelial_mixed) + H1a/H1b split"),
         (3.8, "Cross-topic heterogeneity permutation test (20,000 reshuffles, 9 topic categories)\n+ dataset-coverage / rare-cell-type sensitivity analyses"),
     ]
     for y, text in stages:
@@ -259,22 +259,22 @@ def fig_prisma_flow():
 
     parrow(1.9, 13.6, 1.9, 12.6)
     pbox(1.9, 11.4, 4.1, 2.4,
-         "Systematic re-review of all 314 miss/\nunclassified candidates (full-text scan,\nthen supplementary-material download)\n187 (59.6%) confirmed extractable as final models", fontsize=7.8)
+         "Systematic re-review of all 314 miss/\nunclassified candidates (full-text scan,\nthen supplementary-material download)\nconfirmed 174 (55.4%) extractable as final models and attributed", fontsize=7.6)
 
     parrow(1.85, 10.2, 1.85, 9.0)
     parrow(3.9, 9.9, 6.3, 8.8)
 
-    pbox(1.85, 8.0, 3.0, 2.0, "127 (40.4%)\nunresolved\n(coefficients image-only /\nmolecule type out of scope /\ngenuinely a candidate-pool item)", fc="#fbeeee", ec="#c0392b", fontsize=6.8)
+    pbox(1.85, 8.0, 3.0, 2.0, "140 (44.6%)\nnot included\n(image-only coefficients / molecule\ntype out of scope / candidate-pool\nitself / extraction artifact / atlas\ncoverage gap; see §5)", fc="#fbeeee", ec="#c0392b", fontsize=6.4)
 
     pbox(6.5, 7.5, 5.8, 2.6,
-         "Included\nInitial 108 models + 173 recovered on re-review\n= 281 independent signature models\n(34+ process topics, 21 cancer types, 21 single-cell reference datasets)",
+         "Included\nInitial 108 models + 174 recovered on re-review\n= 282 independent signature models\n(34+ process topics, 21 cancer types, 21 single-cell reference datasets)",
          fc="#eafaf1", ec="#1e8449", fontsize=8.5)
 
     parrow(6.5, 6.2, 6.5, 5.1)
     pbox(6.5, 4.0, 5.8, 2.2,
-         "Quantitative analysis set: 281 models\n(2 further models had no local reference single-cell data for their target\ncancer type and are recorded only as methodological evidence, not among the 281)", fontsize=7.6)
+         "Quantitative analysis set: 282 models\n(5 further models attributed but not included: 3 had no local reference\nsingle-cell data for their target cancer type, 2 lncRNA-panel models failed\natlas gene-symbol coverage; recorded only as methodological evidence)", fontsize=7.0)
 
-    fig.suptitle("Figure 6. Literature search and candidate-pool screening flow\n(adapted from the PRISMA 2020 structure)", fontsize=12.5, y=0.985)
+    fig.suptitle("Figure S1. Literature search and candidate-pool screening flow\n(adapted from the PRISMA 2020 structure)", fontsize=12.5, y=0.985)
     fig.text(0.5, 0.006,
              "Note: this study is a methodological audit, not a formal systematic review; candidate priority is based on\n"
              "rule-based scoring rather than independent dual screening. This diagram adapts the PRISMA 2020 flow-diagram\n"

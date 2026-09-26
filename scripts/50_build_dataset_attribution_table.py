@@ -36,17 +36,17 @@ def main():
         n_h1a = int(((g["top_category"].isin(H1A_CATS)) & g["significant_fdr05"] & ~g["tautological_pool"]).sum())
         n_h1b = int(((g["top_category"].isin(H1B_CATS)) & g["significant_fdr05"] & ~g["tautological_pool"]).sum())
         agg_rows.append({
-            "dataset": ds, "281模型中使用该数据集的模型数": n_models,
+            "dataset": ds, "282模型中使用该数据集的模型数": n_models,
             "其中FDR显著数": n_sig, "H1a(TME集中,非同义重复)": n_h1a,
             "H1b(肿瘤自身集中,非同义重复)": n_h1b,
         })
     agg = pd.DataFrame(agg_rows)
 
     merged = grading.merge(agg, on="dataset", how="left").fillna(
-        {"281模型中使用该数据集的模型数": 0, "其中FDR显著数": 0,
+        {"282模型中使用该数据集的模型数": 0, "其中FDR显著数": 0,
          "H1a(TME集中,非同义重复)": 0, "H1b(肿瘤自身集中,非同义重复)": 0}
     )
-    for c in ["281模型中使用该数据集的模型数", "其中FDR显著数", "H1a(TME集中,非同义重复)", "H1b(肿瘤自身集中,非同义重复)"]:
+    for c in ["282模型中使用该数据集的模型数", "其中FDR显著数", "H1a(TME集中,非同义重复)", "H1b(肿瘤自身集中,非同义重复)"]:
         merged[c] = merged[c].astype(int)
     merged.insert(1, "癌种", merged["dataset"].map(CANCER_NAMES))
     merged = merged.sort_values("dataset").reset_index(drop=True)
@@ -54,13 +54,13 @@ def main():
     merged.to_csv("analysis_output/data/dataset_attribution_summary_21.csv", index=False)
 
     lines = [
-        "| 数据集 | 癌种 | K(候选细胞类型数) | 谱系覆盖(0-4大类) | 使用该数据集的模型数(281中) | 显著模型数 | H1a | H1b |",
+        "| 数据集 | 癌种 | K(候选细胞类型数) | 谱系覆盖(0-4大类) | 使用该数据集的模型数(282中) | 显著模型数 | H1a | H1b |",
         "|---|---|---|---|---|---|---|---|",
     ]
     for _, r in merged.iterrows():
         lines.append(
             f"| {r['dataset']} | {r['癌种']} | {r['K_celltypes']} | {r['lineage_coverage_0to4']} | "
-            f"{r['281模型中使用该数据集的模型数']} | {r['其中FDR显著数']} | "
+            f"{r['282模型中使用该数据集的模型数']} | {r['其中FDR显著数']} | "
             f"{r['H1a(TME集中,非同义重复)']} | {r['H1b(肿瘤自身集中,非同义重复)']} |"
         )
     Path("analysis_output/data/dataset_attribution_summary_21.md").write_text(

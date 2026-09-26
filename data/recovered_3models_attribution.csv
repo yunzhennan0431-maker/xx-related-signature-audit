@@ -1,0 +1,10 @@
+model,gene,top_celltype
+PMC8556945_lncRNA_HCC,LRP4-AS1,Malignant cells
+PMC8556945_lncRNA_HCC,LINC00261,Malignant cells
+PMC13325441_autophagy_UCEC,BID,Fibroblasts
+PMC13325441_autophagy_UCEC,CAPN2,Tprolif
+PMC13325441_autophagy_UCEC,CDKN2A,Tprolif
+PMC13325441_autophagy_UCEC,IFNG,CD8Tex
+PMC13325441_autophagy_UCEC,MYC,Fibroblasts
+PMC13325441_autophagy_UCEC,P4HB,Fibroblasts
+PMC13325441_autophagy_UCEC,TP73,Fibroblasts
