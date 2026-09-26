@@ -1,0 +1,5 @@
+Checkpoint index,Cumulative models included (N),Permutation-test p-value,Note
+1,77,0.2,Interval midpoint value (reported range 0.19-0.21)
+2,93,0.0787,Exact value from script output
+3,102,0.1547,Exact value from script output
+4,108,0.322,Exact value from script output
