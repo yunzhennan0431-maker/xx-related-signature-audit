@@ -124,7 +124,7 @@ def fig_h1a_h1b_distribution():
         ax3.annotate(str(c), (b.get_x() + b.get_width() / 2, b.get_height()),
                      textcoords="offset points", xytext=(0, 4), ha="center", fontsize=10)
     ax3.set_ylabel("Number of models")
-    ax3.set_title("After excluding 4 datasets with\n1/4–2/4 lineage coverage (83 models):\nH1a/H1b has narrowed to near 1:1", fontsize=9.2)
+    ax3.set_title("After excluding the 4 most severely\nlineage-incomplete datasets (83 models):\nH1a/H1b has narrowed to near 1:1", fontsize=9.2)
     ax3.set_ylim(0, 20)
 
     legend_handles = [
@@ -259,20 +259,22 @@ def fig_prisma_flow():
 
     parrow(1.9, 13.6, 1.9, 12.6)
     pbox(1.9, 11.4, 4.1, 2.4,
-         "Systematic re-review of all 314 miss/\nunclassified candidates (full-text scan,\nthen supplementary-material download)\nconfirmed 174 (55.4%) extractable as final models and attributed", fontsize=7.6)
+         "Systematic re-review of all 314 miss/\nunclassified candidates (full-text scan,\nthen supplementary-material download)\nconfirmed 174 (55.4%) extractable and included as final models", fontsize=7.6)
 
     parrow(1.85, 10.2, 1.85, 9.0)
     parrow(3.9, 9.9, 6.3, 8.8)
 
-    pbox(1.85, 8.0, 3.0, 2.0, "140 (44.6%)\nnot included\n(image-only coefficients / molecule\ntype out of scope / candidate-pool\nitself / extraction artifact / atlas\ncoverage gap; see §5)", fc="#fbeeee", ec="#c0392b", fontsize=6.4)
+    pbox(1.85, 7.7, 3.0, 2.6,
+         "140 (44.6%) not included\n(image-only coefficients / molecule\ntype out of scope / candidate-pool\nitself / extraction artifact / atlas\ncoverage gap; 5 of these had\ncomplete panels, see §5)",
+         fc="#fbeeee", ec="#c0392b", fontsize=6.4)
 
     pbox(6.5, 7.5, 5.8, 2.6,
          "Included\nInitial 108 models + 174 recovered on re-review\n= 282 independent signature models\n(34+ process topics, 21 cancer types, 21 single-cell reference datasets)",
          fc="#eafaf1", ec="#1e8449", fontsize=8.5)
 
     parrow(6.5, 6.2, 6.5, 5.1)
-    pbox(6.5, 4.0, 5.8, 2.2,
-         "Quantitative analysis set: 282 models\n(5 further models attributed but not included: 3 had no local reference\nsingle-cell data for their target cancer type, 2 lncRNA-panel models failed\natlas gene-symbol coverage; recorded only as methodological evidence)", fontsize=7.0)
+    pbox(6.5, 3.4, 5.8, 3.4,
+         "Quantitative analysis set: 282 models\n(of the 140 not included, 5 had complete panels\nbut could not be used: 3 had no local reference\ndataset for their cancer type (attribution not\npossible); 2 lncRNA panels were attempted but\natlas gene-symbol coverage was too low.\nRecorded only as methodological evidence.)", fontsize=7.0)
 
     fig.suptitle("Figure S1. Literature search and candidate-pool screening flow\n(adapted from the PRISMA 2020 structure)", fontsize=12.5, y=0.985)
     fig.text(0.5, 0.006,

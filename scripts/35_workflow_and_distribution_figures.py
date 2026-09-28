@@ -133,7 +133,7 @@ def fig_h1a_h1b_distribution():
         ax3.annotate(str(c), (b.get_x() + b.get_width() / 2, b.get_height()),
                      textcoords="offset points", xytext=(0, 4), ha="center", fontsize=10)
     ax3.set_ylabel("模型数")
-    ax3.set_title("排除4个谱系覆盖度1/4~2/4\n的数据集后(83模型),\nH1a/H1b已收窄至接近1:1", fontsize=10.5)
+    ax3.set_title("排除4个谱系覆盖最不完整\n的数据集后(83模型),\nH1a/H1b已收窄至接近1:1", fontsize=10.5)
     ax3.set_ylim(0, 20)
 
     fig.suptitle("图4. 众数细胞类型三大类分布:全部模型基线 vs H1a/H1b分野(全量 vs 排除覆盖不完整数据集后)",
